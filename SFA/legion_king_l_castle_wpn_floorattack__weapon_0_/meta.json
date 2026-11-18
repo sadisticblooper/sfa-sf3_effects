@@ -2,7 +2,7 @@
   "effect": "legion_king_l_castle_wpn_floorattack_(weapon_0)",
   "game": "sfa",
   "sourceBundle": "137409ec9fcaea344215679c7d6ca44f",
-  "prefab": "assets/arena/gamecontent/effects/prefabs/heroes/legion_king/legion_king_l_castle/legion_king_l_castle_wpn_floorattack_(weapon_0).prefab",
+  "prefab": null,
   "cover": 1.98,
   "soft": 59.5,
   "success": true,
