@@ -1,0 +1,17 @@
+{
+  "effect": "monkeyking_nephritis_staff_switch_column_1(weapon_l)",
+  "game": "sfa",
+  "sourceBundle": "07a1ef3628e2f7d3a797232bd6e3697c",
+  "prefab": "assets/arena/gamecontent/effects/prefabs/heroes/monkey_king/wpn_monkey_king_e_nephritis/monkeyking_nephritis_staff_switch_column_1(weapon_l).prefab",
+  "cover": 0.41,
+  "soft": 89.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MonkeyKing_Nephritis_Staff_Switch_Column_1(weapon_l)",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 27
+}

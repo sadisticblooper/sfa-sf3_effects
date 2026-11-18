@@ -1,0 +1,17 @@
+{
+  "effect": "monkey_king_stamina_1_(scapular_l)_ground",
+  "game": "sfa",
+  "sourceBundle": "07a1ef3628e2f7d3a797232bd6e3697c",
+  "prefab": "assets/arena/gamecontent/effects/prefabs/heroes/monkey_king/wpn_monkey_king_e_nephritis/monkey_king_stamina_1_(scapular_l)_ground.prefab",
+  "cover": 3.62,
+  "soft": 84.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monkey_King_stamina_1_(scapular_l)_ground",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}
