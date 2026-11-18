@@ -1,0 +1,17 @@
+{
+  "effect": "beast_energy_pulsating",
+  "game": "sf3",
+  "sourceBundle": "178066e97cd6c74fb0533d53e11afffc",
+  "prefab": null,
+  "cover": 43.59,
+  "soft": 78.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Beast_energy_pulsating",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}
