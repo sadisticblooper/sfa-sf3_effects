@@ -2,7 +2,7 @@
   "effect": "monkey_king_stamina_1_(scapular_l)_ground",
   "game": "sfa",
   "sourceBundle": "07a1ef3628e2f7d3a797232bd6e3697c",
-  "prefab": "assets/arena/gamecontent/effects/prefabs/heroes/monkey_king/wpn_monkey_king_e_nephritis/monkey_king_stamina_1_(scapular_l)_ground.prefab",
+  "prefab": null,
   "cover": 3.62,
   "soft": 84.1,
   "success": true,
