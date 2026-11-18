@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_e_hunter_hit",
+  "game": "sfa",
+  "sourceBundle": "05395937c32faeddd782766ecbfb259a",
+  "prefab": null,
+  "cover": 18.42,
+  "soft": 82.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_E_Hunter_Hit",
+  "particleSystemCount": 13,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}
