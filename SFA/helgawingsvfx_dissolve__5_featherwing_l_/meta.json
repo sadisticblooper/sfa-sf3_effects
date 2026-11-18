@@ -1,0 +1,17 @@
+{
+  "effect": "helgawingsvfx_dissolve_(5_featherwing_l)",
+  "game": "sfa",
+  "sourceBundle": "34b4fb32b25295bfd75052854c863a91",
+  "prefab": null,
+  "cover": 11.6,
+  "soft": 69.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HelgaWingsVFX_Dissolve_(5_FeatherWing_L)",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

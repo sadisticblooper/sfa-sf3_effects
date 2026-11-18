@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_lamp_shadowfx",
+  "game": "sfa",
+  "sourceBundle": "3777113b6b21c5506225cdb40120872b",
+  "prefab": null,
+  "cover": 8.38,
+  "soft": 72.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_Lamp_ShadowFX",
+  "particleSystemCount": 8,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 52
+}

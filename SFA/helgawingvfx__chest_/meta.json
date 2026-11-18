@@ -1,0 +1,17 @@
+{
+  "effect": "helgawingvfx_(chest)",
+  "game": "sfa",
+  "sourceBundle": "34b4fb32b25295bfd75052854c863a91",
+  "prefab": null,
+  "cover": 27.82,
+  "soft": 81.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HelgaWingVFX_(chest)",
+  "particleSystemCount": 5,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}
