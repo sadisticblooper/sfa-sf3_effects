@@ -1,0 +1,17 @@
+{
+  "effect": "impact_red_clapperboard",
+  "game": "sfa",
+  "sourceBundle": "0686f41eabe8dd6dc9c1d6c3ce66592d",
+  "prefab": "assets/arena/gamecontent/effects/prefabs/common/events/event_fireworks/impact_red_clapperboard.prefab",
+  "cover": 4.7,
+  "soft": 50.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Impact_Red_Clapperboard",
+  "particleSystemCount": 20,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}

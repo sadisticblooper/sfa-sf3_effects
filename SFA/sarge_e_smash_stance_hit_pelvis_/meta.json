@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_e_smash_stance_hit(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "050dc41e5b866040d3bbbfe82ac42a3d",
+  "prefab": "assets/arena/gamecontent/effects/prefabs/heroes/sarge/e_smash_stance/sarge_e_smash_stance_hit(pelvis).prefab",
+  "cover": 4.54,
+  "soft": 58.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_E_smash_stance_Hit(pelvis)",
+  "particleSystemCount": 9,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}

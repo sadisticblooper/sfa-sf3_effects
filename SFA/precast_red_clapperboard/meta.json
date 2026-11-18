@@ -1,0 +1,17 @@
+{
+  "effect": "precast_red_clapperboard",
+  "game": "sfa",
+  "sourceBundle": "0686f41eabe8dd6dc9c1d6c3ce66592d",
+  "prefab": "assets/arena/gamecontent/effects/prefabs/common/events/event_fireworks/precast_red_clapperboard.prefab",
+  "cover": 0.78,
+  "soft": 71.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Precast_Red_Clapperboard",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 25
+}
