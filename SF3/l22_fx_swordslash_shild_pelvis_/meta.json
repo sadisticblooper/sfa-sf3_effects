@@ -1,0 +1,17 @@
+{
+  "effect": "l22_fx_swordslash_shild(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "300ee82f53ba2e833fe028b8b578ded9",
+  "prefab": null,
+  "cover": 1.36,
+  "soft": 48.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L22_fx_SwordSlash_Shild(pelvis)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 31
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_soundattackhorn_shadow",
+  "game": "sf3",
+  "sourceBundle": "349da0420b44d9ff3b4bda9ce0af9ec4",
+  "prefab": null,
+  "cover": 8.85,
+  "soft": 77.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_soundAttackHorn_shadow",
+  "particleSystemCount": 5,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}
