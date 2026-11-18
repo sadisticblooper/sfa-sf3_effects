@@ -2,7 +2,7 @@
   "effect": "event_itu_fruit_ninja_fruit",
   "game": "sfa",
   "sourceBundle": "19aef70a45a22a96ee7ed9d99ff0146c",
-  "prefab": "assets/arena/gamecontent/effects/prefabs/common/events/itu_fruit_ninja/event_itu_fruit_ninja_fruit.prefab",
+  "prefab": null,
   "cover": 4.32,
   "soft": 87.0,
   "success": true,

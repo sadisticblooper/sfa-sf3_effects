@@ -2,7 +2,7 @@
   "effect": "kibo_hit_vampire_epic",
   "game": "sfa",
   "sourceBundle": "2259a9eb43293131c8845ba4a8bedb87",
-  "prefab": "assets/arena/gamecontent/effects/prefabs/heroes/kibo/wpn_kibo_e_redvampire/kibo_hit_vampire_epic.prefab",
+  "prefab": null,
   "cover": 44.24,
   "soft": 69.8,
   "success": true,

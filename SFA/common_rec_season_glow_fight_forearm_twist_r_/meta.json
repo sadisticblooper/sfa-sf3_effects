@@ -2,7 +2,7 @@
   "effect": "common_rec_season_glow_fight(forearm_twist_r)",
   "game": "sfa",
   "sourceBundle": "2542732a9e977a98d12ff91349615ac6",
-  "prefab": "assets/arena/gamecontent/effects/prefabs/heroes/common_rec_season_glow/common_rec_season_glow_fight(forearm_twist_r).prefab",
+  "prefab": null,
   "cover": 9.4,
   "soft": 85.7,
   "success": true,
