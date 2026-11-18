@@ -1,0 +1,19 @@
+{
+  "game": "sfa",
+  "effects": 1,
+  "gifs": 1,
+  "rejected": 1,
+  "failed": 0,
+  "commits": 1,
+  "seconds": 28.0,
+  "rejects": [
+    {
+      "effect": "monkey_king_godemode_hit_arena",
+      "cover": 58.33,
+      "soft": 0.0,
+      "magenta": 0.0,
+      "materials": 4,
+      "reason": "flat (soft 0%)"
+    }
+  ]
+}

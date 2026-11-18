@@ -1,0 +1,971 @@
+{
+  "game": "sf3",
+  "effects": 0,
+  "gifs": 0,
+  "rejected": 308,
+  "failed": 0,
+  "commits": 0,
+  "seconds": 10.6,
+  "rejects": [
+    {
+      "effect": "controlaurapassive",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "lobby_firework1",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "markusglich",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "markusglich_idle",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "markusglich_stance",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "markusglich_stance_dupe",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "markusglich_stance_dupe_enemy",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "markusglich_super2",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "h20_fx_teleport_in_pelvis_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "mindthrowenemyfallfx",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_glow_chest_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_godrays",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "waterdrops",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l16_small_hands_explosion",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l16_soundattackhorn",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "lobby_firework2",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "lobby_firework4",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "shadowstrongweapon_glow_hand_l__fire",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "shadowstrongweapon_glow_hand_r__fire",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "sven_contrrange_bullet",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "sven_contrrange_shield",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "dark_portal_long",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "beast_energy_pulsating",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "controlaura",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_light_area_pelvis_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_ulta_active_forearm_l_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_ulta_active_forearm_r_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_ulta_active_pelvis_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_ulta_active_pelvis__reverse",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_ulta_passive_pelvis_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_ulta_passive_pelvis__reverse",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_hiteffect_weapon",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_swordfly_glowsword_weapon_r__10fr",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_swordslash_downdust_7fr",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_swordslash_shild_pelvis_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_swordslash_weaponfire_trail_w_twohanded_sword_01_r__15fr_tr51-59",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_swordslash_weaponprecast_w_twohanded_sword_01_r__14fr",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_swordslash_wingsperia_wings_addxx__7fr",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_twohanded_sword_ability_a__pelvis_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l22_fx_twohanded_sword_ability_a__weapon_r_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "vfx_soundattackhorn",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "vfx_soundattackhorn_shadow",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "l21_fx_arbalet_debuff",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "kibo_hit",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "claws_shadow_hit_1",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "claws_shadow_hit_2",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "claws_shadow_hit_3_l",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "claws_shadow_hit_3_r",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "sparks",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_block_all",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_block_basic",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_block_staff",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_block_weapon",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_shadow_block_all",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_critical_all",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_critical_basic",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_critical_heralds_buff",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_critical_staff",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_critical_weapon",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_shadow_critical_all",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "claws_shadow_hit_4_l",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "claws_shadow_hit_4_r",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "claws_shadow_hit_5_l",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "claws_shadow_hit_5_r",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "d19_fx_back_cloud_hit_effect_l",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "d19_fx_back_cloud_hit_effect_r",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "d19_fx_forward_the_stone_hit_effect_ground_locator_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "d19_fx_hit_wind_turbine_blades_1",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "d19_fx_hit_wind_turbine_blades_2",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "d19_fx_hit_wind_turbine_blades_3",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "d19_fx_upper_overhand_grip_hit_pelvis_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "d19_fx_upper_overhand_grip_hit_ex_pelvis_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_basic",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_shadow_weapon_all",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_staff",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_weapon",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_weapon_all",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_weapon_metalka",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "xiang_tzu_hiteffect_weapon",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_basic_shadow",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_basic_shadow_v2",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_block_shadow",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hiteffect_shadow_3",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hardmode_okada_bot_dissolve",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hardmode_okada_portal",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hardmode_okada_portal_diagonal",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "hardmode_okada_portal_top",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "lobby_firework5_fon",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "sf_teleport_in_purple",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "sf_teleport_out_purple",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "vfx_raids_crystal_quarry",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "h25_fx_hit_enchancedshot",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "h25_fx_hit_regularshot",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "h25_fx_hit_regularshot_1",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "h25_fx_hit_enchancedshot_retext",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "h25_fx_hit_regularshot_retext",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "smoke_loop__1_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "dualkama_hitffoot",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "const_day1_rayhit",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "const_day_lightbeam_hit",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "const_day_lightbeam_loc",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "const_day_lightbeam_startray_loc",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "constday_floor_base",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "constday_floor_start",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "vfx_crystall_laser_glow",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "vfx_crystall_shield_magic_finish",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "vfx_crystall_shield_magic_idle",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "vfx_crystall_shield_magic_start",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "vfx_crystallexplos",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "vfx_floor_is_lava_ground",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "sf_teleport_in",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "sf_teleport_out",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "swampparticles",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "knifeshadow_explosion_chest_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "knifeshadow_explosion_fire_chest_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "knifeshadow_explosion_fire_mirrored_chest_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "knifeshadow_explosion_mirrored_chest_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "knifeshadow_handle_glow_w_big_knife_01_l_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "knifeshadow_handle_glow_fire_w_big_knife_01_l_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    },
+    {
+      "effect": "knifeshadow_handle_glow_fire_mirrored_w_big_knife_01_l_",
+      "cover": 0.0,
+      "soft": 0.0,
+      "magenta": 100.0,
+      "materials": null,
+      "reason": "no result reported"
+    }
+  ]
+}
