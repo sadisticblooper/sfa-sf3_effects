@@ -1,0 +1,17 @@
+{
+  "effect": "monkeyking_nephritis_staff_switch_pillar_1(weapon_r)",
+  "game": "sfa",
+  "sourceBundle": "07a1ef3628e2f7d3a797232bd6e3697c",
+  "prefab": null,
+  "cover": 5.55,
+  "soft": 88.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MonkeyKing_Nephritis_Staff_Switch_Pillar_1(weapon_r)",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 28
+}

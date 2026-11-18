@@ -1,0 +1,17 @@
+{
+  "effect": "monkey_king_stamina_1_(scapular_r)_jump",
+  "game": "sfa",
+  "sourceBundle": "07a1ef3628e2f7d3a797232bd6e3697c",
+  "prefab": null,
+  "cover": 3.88,
+  "soft": 76.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monkey_King_stamina_1_(scapular_r)_jump",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

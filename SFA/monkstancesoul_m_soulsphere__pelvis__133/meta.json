@@ -1,0 +1,17 @@
+{
+  "effect": "monkstancesoul_m_soulsphere_(pelvis)_133",
+  "game": "sfa",
+  "sourceBundle": "1578bf5bdcd6f49231d006ff0474b8ce",
+  "prefab": null,
+  "cover": 91.16,
+  "soft": 73.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MonkStanceSoul_m_SoulSphere_(pelvis)_133",
+  "particleSystemCount": 12,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 31
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "sven_contrrange_shield",
+  "game": "sf3",
+  "sourceBundle": "138136ce22f5600ad6638f64e1d844e6",
+  "prefab": null,
+  "cover": 10.22,
+  "soft": 70.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sven_contrRange_shield",
+  "particleSystemCount": 9,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

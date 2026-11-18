@@ -1,0 +1,17 @@
+{
+  "effect": "monkey_king_stamina_1_(stomach)_jump",
+  "game": "sfa",
+  "sourceBundle": "07a1ef3628e2f7d3a797232bd6e3697c",
+  "prefab": null,
+  "cover": 14.9,
+  "soft": 70.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monkey_King_stamina_1_(stomach)_jump",
+  "particleSystemCount": 7,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

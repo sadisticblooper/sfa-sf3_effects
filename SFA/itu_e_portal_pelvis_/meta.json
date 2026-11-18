@@ -1,0 +1,17 @@
+{
+  "effect": "itu_e_portal(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "0c42f731892eaf6132e3d565085afd45",
+  "prefab": null,
+  "cover": 39.55,
+  "soft": 82.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Itu_E_portal(pelvis)",
+  "particleSystemCount": 17,
+  "materialCount": 14,
+  "unityVersion": "6000.2.14f1",
+  "frames": 51
+}

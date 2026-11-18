@@ -1,0 +1,17 @@
+{
+  "effect": "sven_contrrange_bullet",
+  "game": "sf3",
+  "sourceBundle": "138136ce22f5600ad6638f64e1d844e6",
+  "prefab": null,
+  "cover": 71.78,
+  "soft": 56.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sven_contrRange_bullet",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}

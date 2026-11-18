@@ -1,0 +1,17 @@
+{
+  "effect": "helgawingsvfx_(3_featherwing_r)",
+  "game": "sfa",
+  "sourceBundle": "34b4fb32b25295bfd75052854c863a91",
+  "prefab": null,
+  "cover": 6.36,
+  "soft": 84.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HelgaWingsVFX_(3_FeatherWing_R)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

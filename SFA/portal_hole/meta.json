@@ -1,0 +1,17 @@
+{
+  "effect": "portal_hole",
+  "game": "sfa",
+  "sourceBundle": "1df3125f3cc29731864287f1f8dea1a1",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 91.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Portal_Hole",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
