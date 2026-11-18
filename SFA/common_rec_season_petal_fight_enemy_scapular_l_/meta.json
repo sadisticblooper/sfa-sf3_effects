@@ -1,0 +1,17 @@
+{
+  "effect": "common_rec_season_petal_fight_enemy(scapular_l)",
+  "game": "sfa",
+  "sourceBundle": "2542732a9e977a98d12ff91349615ac6",
+  "prefab": "assets/arena/gamecontent/effects/prefabs/heroes/common_rec_season_glow/common_rec_season_petal_fight_enemy(scapular_l).prefab",
+  "cover": 13.8,
+  "soft": 85.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Common_Rec_Season_Petal_fight_enemy(scapular_l)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

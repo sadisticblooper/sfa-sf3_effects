@@ -1,0 +1,17 @@
+{
+  "effect": "common_rec_season_glow_fight_enemy(forearm_twist_r)",
+  "game": "sfa",
+  "sourceBundle": "2542732a9e977a98d12ff91349615ac6",
+  "prefab": "assets/arena/gamecontent/effects/prefabs/heroes/common_rec_season_glow/common_rec_season_glow_fight_enemy(forearm_twist_r).prefab",
+  "cover": 9.88,
+  "soft": 85.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Common_Rec_Season_Glow_fight_enemy(forearm_twist_r)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
