@@ -1,0 +1,17 @@
+{
+  "effect": "butcher_l_gore_saw_flash_transform(weapon_r)",
+  "game": "sfa",
+  "sourceBundle": "4156de9910909c68d2a67a2a0f04ec07",
+  "prefab": null,
+  "cover": 11.66,
+  "soft": 54.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Butcher_L_Gore_Saw_Flash_Transform(weapon_r)",
+  "particleSystemCount": 10,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}
