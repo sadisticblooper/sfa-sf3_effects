@@ -4,7 +4,7 @@
   "sourceBundle": "1a175bd5fb7155372bb6b6c06e6ebaba",
   "prefab": null,
   "cover": 0.64,
-  "soft": 36.9,
+  "soft": 37.1,
   "success": true,
   "frameCount": 60,
   "width": 512,
@@ -13,5 +13,5 @@
   "particleSystemCount": 3,
   "materialCount": 3,
   "unityVersion": "6000.2.14f1",
-  "frames": 52
+  "frames": 51
 }
