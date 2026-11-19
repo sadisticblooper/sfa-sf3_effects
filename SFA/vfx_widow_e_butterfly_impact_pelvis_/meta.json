@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_e_butterfly_impact(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "33fab2950358f6dd978b7cfeebd8562c",
+  "prefab": null,
+  "cover": 7.95,
+  "soft": 82.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_E_butterfly_Impact(pelvis)",
+  "particleSystemCount": 14,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

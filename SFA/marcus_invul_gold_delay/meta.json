@@ -1,0 +1,17 @@
+{
+  "effect": "marcus_invul_gold_delay",
+  "game": "sfa",
+  "sourceBundle": "33f9701b79cc3c07006df9a25b75fa79",
+  "prefab": null,
+  "cover": 0.67,
+  "soft": 56.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Marcus_Invul_Gold_Delay",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

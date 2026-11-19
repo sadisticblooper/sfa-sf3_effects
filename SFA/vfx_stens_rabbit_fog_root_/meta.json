@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_stens_rabbit_fog(root)",
+  "game": "sfa",
+  "sourceBundle": "26cd92d7d6ba74c93bb71ad486e092dc",
+  "prefab": null,
+  "cover": 8.14,
+  "soft": 66.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_stens_Rabbit_Fog(root)",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 53
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_win_firefly_dust(w_dual_kama_04_r_wl)",
+  "game": "sfa",
+  "sourceBundle": "25f3b3cc0f1aebf2ee861e1fb3ac87a7",
+  "prefab": null,
+  "cover": 24.59,
+  "soft": 56.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_win_firefly_Dust(w_dual_kama_04_r_wl)",
+  "particleSystemCount": 8,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

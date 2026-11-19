@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_e_butterfly_smoke_l(weapon_l)",
+  "game": "sfa",
+  "sourceBundle": "33fab2950358f6dd978b7cfeebd8562c",
+  "prefab": null,
+  "cover": 0.21,
+  "soft": 63.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_E_butterfly_Smoke_l(weapon_l)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 32
+}

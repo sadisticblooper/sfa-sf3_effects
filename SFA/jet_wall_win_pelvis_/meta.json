@@ -1,0 +1,17 @@
+{
+  "effect": "jet_wall_win(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "2c52fdbff606f7b43e73c9b992189191",
+  "prefab": null,
+  "cover": 55.35,
+  "soft": 91.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Jet_wall_win(pelvis)",
+  "particleSystemCount": 13,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

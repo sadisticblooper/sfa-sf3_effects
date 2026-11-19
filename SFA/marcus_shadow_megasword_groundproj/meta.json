@@ -1,0 +1,17 @@
+{
+  "effect": "marcus_shadow_megasword_groundproj",
+  "game": "sfa",
+  "sourceBundle": "33f9701b79cc3c07006df9a25b75fa79",
+  "prefab": null,
+  "cover": 9.66,
+  "soft": 58.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Marcus_Shadow_MegaSword_GroundProj",
+  "particleSystemCount": 15,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}

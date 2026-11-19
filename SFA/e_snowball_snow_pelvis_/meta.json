@@ -1,0 +1,17 @@
+{
+  "effect": "e_snowball_snow(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "2ceea809da6d7456de156be94dbe2ea9",
+  "prefab": null,
+  "cover": 4.71,
+  "soft": 57.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "E_snowball_snow(pelvis)",
+  "particleSystemCount": 13,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

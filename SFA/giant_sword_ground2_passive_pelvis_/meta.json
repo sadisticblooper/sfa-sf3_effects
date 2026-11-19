@@ -1,0 +1,17 @@
+{
+  "effect": "giant_sword_ground2_passive(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "33f9701b79cc3c07006df9a25b75fa79",
+  "prefab": null,
+  "cover": 13.14,
+  "soft": 69.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "giant_sword_ground2_passive(pelvis)",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}
