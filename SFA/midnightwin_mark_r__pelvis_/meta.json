@@ -1,0 +1,17 @@
+{
+  "effect": "midnightwin_mark_r_(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "453045422cf77e817029fa0920702395",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MidnightWin_Mark_r_(Pelvis)",
+  "particleSystemCount": 15,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 41
+}

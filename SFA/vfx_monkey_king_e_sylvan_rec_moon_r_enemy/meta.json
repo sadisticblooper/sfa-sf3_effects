@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_monkey_king_e_sylvan_rec_moon_r_enemy",
+  "game": "sfa",
+  "sourceBundle": "488fd5b2e6039a7d2da944aee5d95a9a",
+  "prefab": null,
+  "cover": 29.62,
+  "soft": 93.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Monkey_King_E_Sylvan_Rec_Moon_R_enemy",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

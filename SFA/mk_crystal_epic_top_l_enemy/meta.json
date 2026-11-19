@@ -1,0 +1,17 @@
+{
+  "effect": "mk_crystal_epic_top_l_enemy",
+  "game": "sfa",
+  "sourceBundle": "488fd5b2e6039a7d2da944aee5d95a9a",
+  "prefab": null,
+  "cover": 66.21,
+  "soft": 6.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MK_Crystal_Epic_Top_L_Enemy",
+  "particleSystemCount": 13,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "helga_e_comet_wing_glow(featherwing_4_l)",
+  "game": "sfa",
+  "sourceBundle": "4919d320eb603b9442a69b215cfc1fb9",
+  "prefab": null,
+  "cover": 6.27,
+  "soft": 73.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Helga_E_comet_wing_glow(FeatherWing_4_l)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

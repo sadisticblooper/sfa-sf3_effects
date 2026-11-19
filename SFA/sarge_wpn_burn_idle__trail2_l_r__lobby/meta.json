@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_wpn_burn_idle_(trail2_l_r)_lobby",
+  "game": "sfa",
+  "sourceBundle": "477b9238b0022ef33f28745ea069bf58",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_wpn_Burn_Idle_(trail2_l_r)_lobby",
+  "particleSystemCount": 4,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 26
+}

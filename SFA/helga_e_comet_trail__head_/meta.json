@@ -1,0 +1,17 @@
+{
+  "effect": "helga_e_comet_trail_(head)",
+  "game": "sfa",
+  "sourceBundle": "4919d320eb603b9442a69b215cfc1fb9",
+  "prefab": null,
+  "cover": 65.79,
+  "soft": 14.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Helga_E_comet_trail_(head)",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 45
+}

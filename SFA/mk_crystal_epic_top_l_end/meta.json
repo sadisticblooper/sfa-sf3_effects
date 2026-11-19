@@ -1,0 +1,17 @@
+{
+  "effect": "mk_crystal_epic_top_l_end",
+  "game": "sfa",
+  "sourceBundle": "488fd5b2e6039a7d2da944aee5d95a9a",
+  "prefab": null,
+  "cover": 53.8,
+  "soft": 11.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MK_Crystal_Epic_Top_L_End",
+  "particleSystemCount": 9,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

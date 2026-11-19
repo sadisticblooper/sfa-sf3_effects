@@ -1,0 +1,17 @@
+{
+  "effect": "fx_monkey_king_e_dragon_rec_season(biceps_twist_r)",
+  "game": "sfa",
+  "sourceBundle": "488fd5b2e6039a7d2da944aee5d95a9a",
+  "prefab": null,
+  "cover": 2.36,
+  "soft": 81.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_Monkey_King_E_Dragon_Rec_Season(biceps_twist_r)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
