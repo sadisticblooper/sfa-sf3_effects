@@ -1,0 +1,17 @@
+{
+  "effect": "legend_skin_lynx_smokewin_smoke_lm_(gun_joint_r)_55",
+  "game": "sfa",
+  "sourceBundle": "af05525318c29746779b7c182b30e59f_1",
+  "prefab": null,
+  "cover": 54.19,
+  "soft": 65.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legend_skin_Lynx_SmokeWin_Smoke_lm_(gun_joint_r)_55",
+  "particleSystemCount": 18,
+  "materialCount": 14,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}

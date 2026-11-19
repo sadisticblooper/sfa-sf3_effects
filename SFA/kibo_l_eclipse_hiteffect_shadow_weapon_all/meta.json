@@ -1,0 +1,17 @@
+{
+  "effect": "kibo_l_eclipse_hiteffect_shadow_weapon_all",
+  "game": "sfa",
+  "sourceBundle": "b60602ffbe44266b1ab898a21f228a03",
+  "prefab": null,
+  "cover": 3.8,
+  "soft": 82.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Kibo_L_Eclipse_HitEffect_Shadow_Weapon_All",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 5
+}

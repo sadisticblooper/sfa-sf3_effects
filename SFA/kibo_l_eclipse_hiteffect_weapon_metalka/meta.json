@@ -1,0 +1,17 @@
+{
+  "effect": "kibo_l_eclipse_hiteffect_weapon_metalka",
+  "game": "sfa",
+  "sourceBundle": "b60602ffbe44266b1ab898a21f228a03",
+  "prefab": null,
+  "cover": 7.49,
+  "soft": 80.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Kibo_L_Eclipse_HitEffect_Weapon_metalka",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 6
+}

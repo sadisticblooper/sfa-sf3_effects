@@ -1,0 +1,17 @@
+{
+  "effect": "kibo_l_eclipse_metalka_hit",
+  "game": "sfa",
+  "sourceBundle": "b60602ffbe44266b1ab898a21f228a03",
+  "prefab": null,
+  "cover": 13.71,
+  "soft": 71.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Kibo_L_Eclipse_Metalka_Hit",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}
