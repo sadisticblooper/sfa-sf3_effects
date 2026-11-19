@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_monk_e_pray_wpn(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "ebe0e9d6d115f7648b78d376a4698ac0",
+  "prefab": null,
+  "cover": 3.26,
+  "soft": 81.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Monk_E_Pray_Wpn(pelvis)",
+  "particleSystemCount": 10,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}

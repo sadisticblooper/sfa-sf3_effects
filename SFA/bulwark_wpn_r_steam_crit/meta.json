@@ -1,0 +1,17 @@
+{
+  "effect": "bulwark_wpn_r_steam_crit",
+  "game": "sfa",
+  "sourceBundle": "f247c1583928cb119c6fe6fc17f20d55",
+  "prefab": null,
+  "cover": 8.38,
+  "soft": 80.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Bulwark_wpn_R_Steam_crit",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

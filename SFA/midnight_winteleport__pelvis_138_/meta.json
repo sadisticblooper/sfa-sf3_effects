@@ -1,0 +1,17 @@
+{
+  "effect": "midnight_winteleport_(pelvis_138)",
+  "game": "sfa",
+  "sourceBundle": "f99342213b42ab1ca1c491b945a3dc43",
+  "prefab": null,
+  "cover": 12.94,
+  "soft": 82.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Midnight_winTeleport_(pelvis_138)",
+  "particleSystemCount": 8,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}

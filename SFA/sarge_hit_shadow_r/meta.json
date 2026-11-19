@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_hit_shadow_r",
+  "game": "sfa",
+  "sourceBundle": "fb747e1eaaf5fad0b482fd8e83231625",
+  "prefab": null,
+  "cover": 4.91,
+  "soft": 78.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_Hit_Shadow_r",
+  "particleSystemCount": 15,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "ling_bottle_burning_hit",
+  "game": "sfa",
+  "sourceBundle": "f54070a23d2a450c81319baff70ad213",
+  "prefab": null,
+  "cover": 78.94,
+  "soft": 45.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Ling_bottle_burning_hit",
+  "particleSystemCount": 13,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

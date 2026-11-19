@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_block_hit_l",
+  "game": "sfa",
+  "sourceBundle": "fb747e1eaaf5fad0b482fd8e83231625",
+  "prefab": null,
+  "cover": 4.32,
+  "soft": 77.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_Block_Hit_l",
+  "particleSystemCount": 10,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

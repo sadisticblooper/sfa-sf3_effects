@@ -1,0 +1,17 @@
+{
+  "effect": "hongju_winfireworks_sky_rm_(pelvis)_127",
+  "game": "sfa",
+  "sourceBundle": "e6e672b50faab8901280338b04935a65",
+  "prefab": null,
+  "cover": 0.78,
+  "soft": 46.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HongJu_WinFireWorks_Sky_rm_(pelvis)_127",
+  "particleSystemCount": 39,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_sarge_e_chitin_rec_season(scapular_l)",
+  "game": "sfa",
+  "sourceBundle": "f1ccb469e6498aa495f3a6d187b28f8b",
+  "prefab": null,
+  "cover": 16.52,
+  "soft": 94.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Sarge_E_Chitin_Rec_Season(scapular_l)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
