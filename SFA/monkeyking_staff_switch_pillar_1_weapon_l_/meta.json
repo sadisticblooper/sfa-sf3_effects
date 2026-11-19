@@ -1,0 +1,17 @@
+{
+  "effect": "monkeyking_staff_switch_pillar_1(weapon_l)",
+  "game": "sfa",
+  "sourceBundle": "488fd5b2e6039a7d2da944aee5d95a9a",
+  "prefab": null,
+  "cover": 0.04,
+  "soft": 33.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MonkeyKing_Staff_Switch_Pillar_1(weapon_l)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 5
+}

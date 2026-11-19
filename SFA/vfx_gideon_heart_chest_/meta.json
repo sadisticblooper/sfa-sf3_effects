@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_heart(chest)",
+  "game": "sfa",
+  "sourceBundle": "4c931210670860c122aa0f0c89eba2c1",
+  "prefab": null,
+  "cover": 1.27,
+  "soft": 73.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_Heart(chest)",
+  "particleSystemCount": 19,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}

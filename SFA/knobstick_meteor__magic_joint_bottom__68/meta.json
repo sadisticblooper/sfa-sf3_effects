@@ -1,0 +1,17 @@
+{
+  "effect": "knobstick_meteor_(magic_joint_bottom)_68",
+  "game": "sfa",
+  "sourceBundle": "4aeee5a532149dd245809c1dcd38b55b",
+  "prefab": null,
+  "cover": 74.68,
+  "soft": 49.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "knobstick_Meteor_(magic_joint_bottom)_68",
+  "particleSystemCount": 10,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

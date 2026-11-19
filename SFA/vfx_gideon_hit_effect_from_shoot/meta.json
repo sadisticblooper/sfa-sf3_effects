@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_hit_effect_from_shoot",
+  "game": "sfa",
+  "sourceBundle": "4c931210670860c122aa0f0c89eba2c1",
+  "prefab": null,
+  "cover": 13.93,
+  "soft": 32.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_Hit_Effect_From_Shoot",
+  "particleSystemCount": 12,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

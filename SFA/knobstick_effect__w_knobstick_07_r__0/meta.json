@@ -1,0 +1,17 @@
+{
+  "effect": "knobstick_effect_(w_knobstick_07_r)_0",
+  "game": "sfa",
+  "sourceBundle": "4aeee5a532149dd245809c1dcd38b55b",
+  "prefab": null,
+  "cover": 0.27,
+  "soft": 32.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "knobstick_Effect_(w_knobstick_07_r)_0",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
