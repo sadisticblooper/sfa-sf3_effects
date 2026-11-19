@@ -1,0 +1,17 @@
+{
+  "effect": "sf_teleport_in",
+  "game": "sf3",
+  "sourceBundle": "4ea72bfbe12807634134c3b745dda730",
+  "prefab": null,
+  "cover": 26.47,
+  "soft": 73.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "sf_teleport_in",
+  "particleSystemCount": 9,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "constday_floor_base",
+  "game": "sf3",
+  "sourceBundle": "4e42f8b5381141ab386c9861d1f8eaaf",
+  "prefab": null,
+  "cover": 0.33,
+  "soft": 46.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "ConstDay_Floor_Base",
+  "particleSystemCount": 15,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 17
+}

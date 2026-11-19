@@ -1,0 +1,17 @@
+{
+  "effect": "h25_fx_hit_regularshot_retext",
+  "game": "sf3",
+  "sourceBundle": "442156801efa4820b5ce24794e9849a7",
+  "prefab": null,
+  "cover": 22.2,
+  "soft": 88.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h25_fx_hit_regularShot_retext",
+  "particleSystemCount": 10,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

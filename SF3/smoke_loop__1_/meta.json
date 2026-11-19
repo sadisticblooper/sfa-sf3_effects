@@ -1,0 +1,17 @@
+{
+  "effect": "smoke_loop (1)",
+  "game": "sf3",
+  "sourceBundle": "49813441c4eac2e52641ae497293f156",
+  "prefab": null,
+  "cover": 36.17,
+  "soft": 76.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "smoke_loop (1)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "const_day_lightbeam_loc",
+  "game": "sf3",
+  "sourceBundle": "4e42f8b5381141ab386c9861d1f8eaaf",
+  "prefab": null,
+  "cover": 1.05,
+  "soft": 83.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Const_day_LightBeam_Loc",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}
