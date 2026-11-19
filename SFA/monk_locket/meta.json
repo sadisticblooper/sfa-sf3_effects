@@ -1,0 +1,17 @@
+{
+  "effect": "monk_locket",
+  "game": "sfa",
+  "sourceBundle": "54d8eab52d661612a112c4fdb14c131d",
+  "prefab": null,
+  "cover": 25.65,
+  "soft": 37.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_Locket",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 51
+}

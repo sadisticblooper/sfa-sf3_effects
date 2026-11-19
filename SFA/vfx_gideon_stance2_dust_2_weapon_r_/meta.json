@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_stance2_dust_2(weapon_r)",
+  "game": "sfa",
+  "sourceBundle": "55820bea34433e6543f5c0dbfdf25923",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_Stance2_Dust_2(weapon_r)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}

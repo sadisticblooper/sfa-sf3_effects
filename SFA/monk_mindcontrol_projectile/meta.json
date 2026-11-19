@@ -1,0 +1,17 @@
+{
+  "effect": "monk_mindcontrol_projectile",
+  "game": "sfa",
+  "sourceBundle": "54d8eab52d661612a112c4fdb14c131d",
+  "prefab": null,
+  "cover": 32.17,
+  "soft": 57.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_MindControl_Projectile",
+  "particleSystemCount": 9,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

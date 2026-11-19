@@ -1,0 +1,17 @@
+{
+  "effect": "s_agl_helm_03_precast(pelvis)_3",
+  "game": "sfa",
+  "sourceBundle": "54d8eab52d661612a112c4fdb14c131d",
+  "prefab": null,
+  "cover": 2.13,
+  "soft": 62.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "s_agl_helm_03_Precast(pelvis)_3",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 28
+}

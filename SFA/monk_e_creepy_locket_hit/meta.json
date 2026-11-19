@@ -1,0 +1,17 @@
+{
+  "effect": "monk_e_creepy_locket_hit",
+  "game": "sfa",
+  "sourceBundle": "54d8eab52d661612a112c4fdb14c131d",
+  "prefab": null,
+  "cover": 86.55,
+  "soft": 84.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_E_Creepy_Locket_Hit",
+  "particleSystemCount": 11,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

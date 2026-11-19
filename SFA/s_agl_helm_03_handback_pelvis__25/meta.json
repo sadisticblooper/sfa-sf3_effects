@@ -1,0 +1,17 @@
+{
+  "effect": "s_agl_helm_03_handback(pelvis)_25",
+  "game": "sfa",
+  "sourceBundle": "54d8eab52d661612a112c4fdb14c131d",
+  "prefab": null,
+  "cover": 0.59,
+  "soft": 79.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "s_agl_helm_03_HandBack(pelvis)_25",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

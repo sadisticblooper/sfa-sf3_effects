@@ -1,0 +1,17 @@
+{
+  "effect": "s_agl_helm_03_pulka_zone",
+  "game": "sfa",
+  "sourceBundle": "54d8eab52d661612a112c4fdb14c131d",
+  "prefab": null,
+  "cover": 38.14,
+  "soft": 9.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "s_agl_helm_03_pulka_zone",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

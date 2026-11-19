@@ -1,0 +1,17 @@
+{
+  "effect": "marcus_win_glitch",
+  "game": "sfa",
+  "sourceBundle": "5249965cfe2c11d1a12ac5b007ca82f5",
+  "prefab": null,
+  "cover": 8.39,
+  "soft": 2.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Marcus_Win_Glitch",
+  "particleSystemCount": 26,
+  "materialCount": 13,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

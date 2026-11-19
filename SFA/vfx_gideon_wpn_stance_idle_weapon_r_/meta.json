@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_wpn_stance_idle(weapon_r)",
+  "game": "sfa",
+  "sourceBundle": "4c931210670860c122aa0f0c89eba2c1",
+  "prefab": null,
+  "cover": 1.49,
+  "soft": 82.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_Wpn_Stance_Idle(weapon_r)",
+  "particleSystemCount": 19,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

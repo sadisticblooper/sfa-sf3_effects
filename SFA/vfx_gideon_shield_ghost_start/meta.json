@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_shield_ghost_start",
+  "game": "sfa",
+  "sourceBundle": "4c931210670860c122aa0f0c89eba2c1",
+  "prefab": null,
+  "cover": 22.35,
+  "soft": 86.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_Shield_Ghost_Start",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

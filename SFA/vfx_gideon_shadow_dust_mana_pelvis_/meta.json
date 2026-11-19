@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_shadow_dust_mana(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "4c931210670860c122aa0f0c89eba2c1",
+  "prefab": null,
+  "cover": 13.21,
+  "soft": 84.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_Shadow_Dust_Mana(pelvis)",
+  "particleSystemCount": 11,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 25
+}

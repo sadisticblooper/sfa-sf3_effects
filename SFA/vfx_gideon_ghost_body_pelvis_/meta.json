@@ -1,17 +1,17 @@
 {
   "effect": "vfx_gideon_ghost_body(pelvis)",
   "game": "sfa",
-  "sourceBundle": "4c931210670860c122aa0f0c89eba2c1",
+  "sourceBundle": "55820bea34433e6543f5c0dbfdf25923",
   "prefab": null,
-  "cover": 58.44,
-  "soft": 95.9,
+  "cover": 50.94,
+  "soft": 94.8,
   "success": true,
   "frameCount": 60,
   "width": 512,
   "height": 512,
   "objectName": "VFX_Gideon_Ghost_Body(pelvis)",
-  "particleSystemCount": 2,
-  "materialCount": 2,
+  "particleSystemCount": 3,
+  "materialCount": 3,
   "unityVersion": "6000.2.14f1",
   "frames": 60
 }
