@@ -1,0 +1,17 @@
+{
+  "effect": "fragments_14",
+  "game": "sfa",
+  "sourceBundle": "534c8c733e4a796cebb8ac1e13284a8c",
+  "prefab": null,
+  "cover": 2.92,
+  "soft": 82.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fragments_14",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

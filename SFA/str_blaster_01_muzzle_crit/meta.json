@@ -1,0 +1,17 @@
+{
+  "effect": "str_blaster_01_muzzle_crit",
+  "game": "sfa",
+  "sourceBundle": "4aeee5a532149dd245809c1dcd38b55b",
+  "prefab": null,
+  "cover": 0.37,
+  "soft": 27.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "str_blaster_01_muzzle_crit",
+  "particleSystemCount": 9,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 4
+}

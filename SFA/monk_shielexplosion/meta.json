@@ -1,0 +1,17 @@
+{
+  "effect": "monk_shielexplosion",
+  "game": "sfa",
+  "sourceBundle": "54d8eab52d661612a112c4fdb14c131d",
+  "prefab": null,
+  "cover": 63.88,
+  "soft": 78.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_ShielExplosion",
+  "particleSystemCount": 9,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 7
+}

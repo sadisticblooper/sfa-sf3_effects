@@ -1,0 +1,17 @@
+{
+  "effect": "monk_arrowstan_hit",
+  "game": "sfa",
+  "sourceBundle": "54d8eab52d661612a112c4fdb14c131d",
+  "prefab": null,
+  "cover": 16.82,
+  "soft": 59.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_ArrowStan_Hit",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_monk_e_moth_rec_season_shadow(head)",
+  "game": "sfa",
+  "sourceBundle": "54d8eab52d661612a112c4fdb14c131d",
+  "prefab": null,
+  "cover": 16.4,
+  "soft": 94.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Monk_E_Moth_Rec_Season_Shadow(head)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
