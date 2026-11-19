@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_minion_rage_teleport(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 22.3,
+  "soft": 83.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_minion_rage_teleport(pelvis)",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

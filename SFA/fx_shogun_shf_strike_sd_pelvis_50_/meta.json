@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_shf_strike_sd(pelvis_50)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 9.32,
+  "soft": 75.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_shf_strike_SD(pelvis_50)",
+  "particleSystemCount": 9,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

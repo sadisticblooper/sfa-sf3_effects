@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_heavy_slash(pelvis_86)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 2.4,
+  "soft": 45.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_heavy_slash(pelvis_86)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

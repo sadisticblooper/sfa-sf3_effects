@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_minion_slash(pelvis_10)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 6.14,
+  "soft": 44.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_minion_slash(pelvis_10)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 2
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_minion_impact_shadow(pelvis_10)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 8.55,
+  "soft": 82.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_minion_impact_shadow(pelvis_10)",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}

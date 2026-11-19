@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_cut_sd_mirror",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 5.39,
+  "soft": 78.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_cut_SD_mirror",
+  "particleSystemCount": 13,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 26
+}

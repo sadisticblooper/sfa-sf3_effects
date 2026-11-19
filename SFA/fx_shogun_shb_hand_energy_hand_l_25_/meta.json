@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_shb_hand_energy(hand_l_25)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 0.39,
+  "soft": 44.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_shb_hand_energy(hand_l_25)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 32
+}

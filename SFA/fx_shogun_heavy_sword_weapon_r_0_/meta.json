@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_heavy_sword(weapon_r_0)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 2.37,
+  "soft": 69.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_heavy_sword(weapon_r_0)",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_shb_shield_sword(weapon_l_14)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 28.58,
+  "soft": 72.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_shb_shield_sword(weapon_l_14)",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_shb_shield_sd(pelvis_14)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 15.16,
+  "soft": 85.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_shb_shield_SD(pelvis_14)",
+  "particleSystemCount": 7,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

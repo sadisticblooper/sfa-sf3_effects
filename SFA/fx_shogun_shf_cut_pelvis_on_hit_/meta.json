@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_shf_cut(pelvis_on_hit)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 17.86,
+  "soft": 76.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_shf_cut(pelvis_on_hit)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}

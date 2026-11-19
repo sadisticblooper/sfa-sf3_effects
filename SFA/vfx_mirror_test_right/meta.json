@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_mirror_test_right",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 28.58,
+  "soft": 97.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_mirror_test_right",
+  "particleSystemCount": 4,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
