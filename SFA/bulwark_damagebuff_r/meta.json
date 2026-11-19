@@ -1,0 +1,17 @@
+{
+  "effect": "bulwark_damagebuff_r",
+  "game": "sfa",
+  "sourceBundle": "4aeee5a532149dd245809c1dcd38b55b",
+  "prefab": null,
+  "cover": 13.38,
+  "soft": 62.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Bulwark_DamageBuff_r",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

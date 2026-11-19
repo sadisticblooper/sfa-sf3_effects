@@ -1,0 +1,17 @@
+{
+  "effect": "helga_e_comet_off_the_ground_(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "4919d320eb603b9442a69b215cfc1fb9",
+  "prefab": null,
+  "cover": 9.87,
+  "soft": 79.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Helga_E_comet_off_the_ground_(pelvis)",
+  "particleSystemCount": 13,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "bulwark_shield_stage_2_l",
+  "game": "sfa",
+  "sourceBundle": "4aeee5a532149dd245809c1dcd38b55b",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 36.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Bulwark_Shield_Stage_2_l",
+  "particleSystemCount": 18,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
