@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_butcher_parasite_wall_r",
+  "game": "sfa",
+  "sourceBundle": "4156de9910909c68d2a67a2a0f04ec07",
+  "prefab": null,
+  "cover": 23.9,
+  "soft": 89.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Butcher_Parasite_Wall_R",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

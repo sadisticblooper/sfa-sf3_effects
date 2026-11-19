@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_raikichi_runes_2_ability_used(forearm_l)",
+  "game": "sfa",
+  "sourceBundle": "456ef887ce16735b3218bd2e9ed2b026",
+  "prefab": null,
+  "cover": 28.53,
+  "soft": 56.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Raikichi_Runes_2_ability_used(forearm_l)",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

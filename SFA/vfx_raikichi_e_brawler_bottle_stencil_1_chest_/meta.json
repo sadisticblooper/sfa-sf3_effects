@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_raikichi_e_brawler_bottle_stencil_1(chest)",
+  "game": "sfa",
+  "sourceBundle": "456ef887ce16735b3218bd2e9ed2b026",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Raikichi_E_Brawler_Bottle_Stencil_1(chest)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

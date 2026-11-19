@@ -1,0 +1,17 @@
+{
+  "effect": "raikichi_makiwara_flash(knuckles_)",
+  "game": "sfa",
+  "sourceBundle": "456ef887ce16735b3218bd2e9ed2b026",
+  "prefab": null,
+  "cover": 1.38,
+  "soft": 22.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Raikichi_makiwara_Flash(knuckles_)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 2
+}

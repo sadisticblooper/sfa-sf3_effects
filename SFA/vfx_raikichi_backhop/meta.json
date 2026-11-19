@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_raikichi_backhop",
+  "game": "sfa",
+  "sourceBundle": "456ef887ce16735b3218bd2e9ed2b026",
+  "prefab": null,
+  "cover": 17.2,
+  "soft": 74.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Raikichi_Backhop",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_butcher_trail_upper_slash2_e_2",
+  "game": "sfa",
+  "sourceBundle": "4156de9910909c68d2a67a2a0f04ec07",
+  "prefab": null,
+  "cover": 8.09,
+  "soft": 69.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Butcher_Trail_Upper_Slash2_E_2",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

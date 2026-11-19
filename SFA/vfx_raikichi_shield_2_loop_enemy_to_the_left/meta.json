@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_raikichi_shield_2_loop_enemy_to_the_left",
+  "game": "sfa",
+  "sourceBundle": "456ef887ce16735b3218bd2e9ed2b026",
+  "prefab": null,
+  "cover": 40.61,
+  "soft": 50.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Raikichi_Shield_2_Loop_Enemy_To_The_Left",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}
