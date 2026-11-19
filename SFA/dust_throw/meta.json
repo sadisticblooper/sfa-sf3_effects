@@ -1,0 +1,17 @@
+{
+  "effect": "dust_throw",
+  "game": "sfa",
+  "sourceBundle": "d53f3c3e2a913c5206543eb3cbd7ea56",
+  "prefab": null,
+  "cover": 8.98,
+  "soft": 86.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Dust_throw",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

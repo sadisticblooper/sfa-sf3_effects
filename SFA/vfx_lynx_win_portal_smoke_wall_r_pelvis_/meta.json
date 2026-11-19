@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_lynx_win_portal_smoke_wall_r(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "d5407fa5d9eddc9f075f9cd9e98aea74",
+  "prefab": null,
+  "cover": 5.04,
+  "soft": 82.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Lynx_Win_Portal_Smoke_wall_R(pelvis)",
+  "particleSystemCount": 9,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

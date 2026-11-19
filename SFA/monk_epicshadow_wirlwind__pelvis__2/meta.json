@@ -1,0 +1,17 @@
+{
+  "effect": "monk_epicshadow_wirlwind_(pelvis)_2",
+  "game": "sfa",
+  "sourceBundle": "d306aca8e1b226ff9c0cfd3aaf9b8818",
+  "prefab": null,
+  "cover": 11.82,
+  "soft": 82.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_EpicShadow_WirlWind_(pelvis)_2",
+  "particleSystemCount": 19,
+  "materialCount": 13,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}

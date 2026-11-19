@@ -1,0 +1,17 @@
+{
+  "effect": "win_universal_gift_(gun_joint)_91",
+  "game": "sfa",
+  "sourceBundle": "dfd6504b274f47f1f735f5fd4898d72a",
+  "prefab": null,
+  "cover": 1.89,
+  "soft": 78.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Win_Universal_Gift_(gun_joint)_91",
+  "particleSystemCount": 14,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_lynx_win_portal_r(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "d5407fa5d9eddc9f075f9cd9e98aea74",
+  "prefab": null,
+  "cover": 14.25,
+  "soft": 38.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Lynx_Win_Portal_R(pelvis)",
+  "particleSystemCount": 24,
+  "materialCount": 19,
+  "unityVersion": "6000.2.14f1",
+  "frames": 50
+}

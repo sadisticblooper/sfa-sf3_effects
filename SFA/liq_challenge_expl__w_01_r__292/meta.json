@@ -1,0 +1,17 @@
+{
+  "effect": "liq_challenge_expl_(w_01_r)_292",
+  "game": "sfa",
+  "sourceBundle": "da8fa1674c70217773a408dc4a0d6be6",
+  "prefab": null,
+  "cover": 28.38,
+  "soft": 81.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liq_Challenge_Expl_(w_01_r)_292",
+  "particleSystemCount": 8,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "liq_challenge_smokejump_(toe_r)_138",
+  "game": "sfa",
+  "sourceBundle": "da8fa1674c70217773a408dc4a0d6be6",
+  "prefab": null,
+  "cover": 14.21,
+  "soft": 87.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liq_Challenge_SmokeJump_(toe_r)_138",
+  "particleSystemCount": 11,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 28
+}

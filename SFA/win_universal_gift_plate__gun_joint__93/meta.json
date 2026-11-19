@@ -1,0 +1,17 @@
+{
+  "effect": "win_universal_gift_plate_(gun_joint)_93",
+  "game": "sfa",
+  "sourceBundle": "dfd6504b274f47f1f735f5fd4898d72a",
+  "prefab": null,
+  "cover": 82.81,
+  "soft": 57.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Win_Universal_Gift_plate_(gun_joint)_93",
+  "particleSystemCount": 8,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

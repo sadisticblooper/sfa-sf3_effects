@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_army_of_gost(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "e137eccad9397580762f5e70824261e3",
+  "prefab": null,
+  "cover": 21.28,
+  "soft": 42.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_army_of_gost(pelvis)",
+  "particleSystemCount": 25,
+  "materialCount": 15,
+  "unityVersion": "6000.2.14f1",
+  "frames": 51
+}

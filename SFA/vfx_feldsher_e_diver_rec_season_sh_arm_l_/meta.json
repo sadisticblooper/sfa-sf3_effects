@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_feldsher_e_diver_rec_season_sh(arm_l)",
+  "game": "sfa",
+  "sourceBundle": "e811bc0d42f61ff19c0eced00e35a03e",
+  "prefab": null,
+  "cover": 37.37,
+  "soft": 90.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Feldsher_E_Diver_Rec_Season_sh(arm_l)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

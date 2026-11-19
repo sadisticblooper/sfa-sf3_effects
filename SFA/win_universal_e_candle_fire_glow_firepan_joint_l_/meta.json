@@ -1,0 +1,17 @@
+{
+  "effect": "win_universal_e_candle_fire_glow(firepan_joint_l)",
+  "game": "sfa",
+  "sourceBundle": "d854f02174691ed9ffb09c925a2efc27",
+  "prefab": null,
+  "cover": 2.6,
+  "soft": 79.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "win_Universal_E_candle_Fire_glow(firepan_joint_l)",
+  "particleSystemCount": 10,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 22
+}
