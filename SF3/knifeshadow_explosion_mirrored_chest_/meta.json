@@ -1,0 +1,17 @@
+{
+  "effect": "knifeshadow_explosion_mirrored(chest)",
+  "game": "sf3",
+  "sourceBundle": "5a7c556594dcd91bb76d581656fafb03",
+  "prefab": null,
+  "cover": 13.68,
+  "soft": 75.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "KnifeShadow_explosion_mirrored(chest)",
+  "particleSystemCount": 9,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

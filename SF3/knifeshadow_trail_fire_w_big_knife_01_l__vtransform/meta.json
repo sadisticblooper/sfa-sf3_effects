@@ -1,0 +1,17 @@
+{
+  "effect": "knifeshadow_trail_fire(w_big_knife_01_l)_vtransform",
+  "game": "sf3",
+  "sourceBundle": "5a7c556594dcd91bb76d581656fafb03",
+  "prefab": null,
+  "cover": 6.22,
+  "soft": 76.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "KnifeShadow_trail_fire(w_big_knife_01_l)_vTransform",
+  "particleSystemCount": 11,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 37
+}
