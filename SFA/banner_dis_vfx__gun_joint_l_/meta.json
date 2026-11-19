@@ -1,0 +1,17 @@
+{
+  "effect": "banner_dis_vfx_(gun_joint_l)",
+  "game": "sfa",
+  "sourceBundle": "8a237ad5e2658617c9933bd8f4c8bf64",
+  "prefab": null,
+  "cover": 49.47,
+  "soft": 73.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Banner_dis_VFX_(gun_joint_l)",
+  "particleSystemCount": 11,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}

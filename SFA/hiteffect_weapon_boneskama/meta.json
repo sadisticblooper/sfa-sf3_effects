@@ -1,0 +1,17 @@
+{
+  "effect": "hiteffect_weapon_boneskama",
+  "game": "sfa",
+  "sourceBundle": "876fcafe8240d5ababdcda05693bcc95",
+  "prefab": null,
+  "cover": 7.28,
+  "soft": 80.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HitEffect_Weapon_BonesKama",
+  "particleSystemCount": 8,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

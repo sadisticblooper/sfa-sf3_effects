@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_smoke_from_mesh_w",
+  "game": "sfa",
+  "sourceBundle": "83307ccfe483941e7abb0eb7f52452c3",
+  "prefab": null,
+  "cover": 40.07,
+  "soft": 99.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_smoke_from_mesh_W",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

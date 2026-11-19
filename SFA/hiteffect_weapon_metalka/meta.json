@@ -1,0 +1,17 @@
+{
+  "effect": "hiteffect_weapon_metalka",
+  "game": "sfa",
+  "sourceBundle": "833114ecc0b3ac838a0f38bc09307d79",
+  "prefab": null,
+  "cover": 7.49,
+  "soft": 80.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HitEffect_Weapon_metalka",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 6
+}

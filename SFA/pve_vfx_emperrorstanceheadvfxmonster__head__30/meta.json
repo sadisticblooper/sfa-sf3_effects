@@ -1,0 +1,17 @@
+{
+  "effect": "pve_vfx_emperrorstanceheadvfxmonster_(head)_30",
+  "game": "sfa",
+  "sourceBundle": "8ca07366e6dfa282614486c7cba739fd",
+  "prefab": null,
+  "cover": 4.13,
+  "soft": 56.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_VFX_EmperrorStanceHeadVfxMonster_(head)_30",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 49
+}

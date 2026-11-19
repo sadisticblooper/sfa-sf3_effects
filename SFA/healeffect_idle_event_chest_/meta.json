@@ -1,0 +1,17 @@
+{
+  "effect": "healeffect_idle_event(chest)",
+  "game": "sfa",
+  "sourceBundle": "83307ccfe483941e7abb0eb7f52452c3",
+  "prefab": null,
+  "cover": 40.63,
+  "soft": 73.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HealEffect_Idle_Event(chest)",
+  "particleSystemCount": 6,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_boneshitkama_r",
+  "game": "sfa",
+  "sourceBundle": "876fcafe8240d5ababdcda05693bcc95",
+  "prefab": null,
+  "cover": 11.31,
+  "soft": 84.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_BonesHitKama_r",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}
