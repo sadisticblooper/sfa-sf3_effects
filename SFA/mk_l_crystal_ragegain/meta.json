@@ -1,0 +1,17 @@
+{
+  "effect": "mk_l_crystal_ragegain",
+  "game": "sfa",
+  "sourceBundle": "534c8c733e4a796cebb8ac1e13284a8c",
+  "prefab": null,
+  "cover": 45.62,
+  "soft": 92.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MK_L_Crystal_RageGain",
+  "particleSystemCount": 3,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

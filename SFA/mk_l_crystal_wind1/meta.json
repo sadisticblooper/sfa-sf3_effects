@@ -1,0 +1,17 @@
+{
+  "effect": "mk_l_crystal_wind1",
+  "game": "sfa",
+  "sourceBundle": "534c8c733e4a796cebb8ac1e13284a8c",
+  "prefab": null,
+  "cover": 0.09,
+  "soft": 2.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MK_L_Crystal_Wind1",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}

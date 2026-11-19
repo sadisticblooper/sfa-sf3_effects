@@ -1,0 +1,17 @@
+{
+  "effect": "mk_l_crystal_staff_switch_pillar_3(weapon_l)",
+  "game": "sfa",
+  "sourceBundle": "534c8c733e4a796cebb8ac1e13284a8c",
+  "prefab": null,
+  "cover": 4.27,
+  "soft": 24.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MK_L_Crystal_Staff_Switch_Pillar_3(weapon_l)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 2
+}

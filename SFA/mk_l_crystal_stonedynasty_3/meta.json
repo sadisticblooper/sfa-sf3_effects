@@ -1,0 +1,17 @@
+{
+  "effect": "mk_l_crystal_stonedynasty_3",
+  "game": "sfa",
+  "sourceBundle": "534c8c733e4a796cebb8ac1e13284a8c",
+  "prefab": null,
+  "cover": 0.07,
+  "soft": 25.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MK_L_Crystal_StoneDynasty_3",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 44
+}

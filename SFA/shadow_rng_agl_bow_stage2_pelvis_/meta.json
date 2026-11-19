@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_rng_agl_bow_stage2(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "54d8eab52d661612a112c4fdb14c131d",
+  "prefab": null,
+  "cover": 4.39,
+  "soft": 80.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_rng_agl_bow_Stage2(pelvis)",
+  "particleSystemCount": 4,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 20
+}

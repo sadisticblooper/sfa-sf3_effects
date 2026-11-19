@@ -1,0 +1,17 @@
+{
+  "effect": "mk_l_crystal_stanse_tangerines_l_(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "534c8c733e4a796cebb8ac1e13284a8c",
+  "prefab": null,
+  "cover": 5.4,
+  "soft": 10.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MK_L_Crystal_Stanse_Tangerines_l_(pelvis)",
+  "particleSystemCount": 20,
+  "materialCount": 13,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

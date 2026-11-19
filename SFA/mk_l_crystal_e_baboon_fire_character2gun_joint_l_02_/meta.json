@@ -1,0 +1,17 @@
+{
+  "effect": "mk_l_crystal_e_baboon_fire(character2gun_joint_l_02)",
+  "game": "sfa",
+  "sourceBundle": "534c8c733e4a796cebb8ac1e13284a8c",
+  "prefab": null,
+  "cover": 7.71,
+  "soft": 65.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MK_L_Crystal_E_baboon_Fire(character2gun_joint_l_02)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 34
+}
