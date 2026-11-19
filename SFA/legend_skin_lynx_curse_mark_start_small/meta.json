@@ -1,0 +1,17 @@
+{
+  "effect": "legend_skin_lynx_curse_mark_start_small",
+  "game": "sfa",
+  "sourceBundle": "af05525318c29746779b7c182b30e59f_1",
+  "prefab": null,
+  "cover": 0.89,
+  "soft": 81.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legend_skin_Lynx_Curse_Mark_Start_Small",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 27
+}

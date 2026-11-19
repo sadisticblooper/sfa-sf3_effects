@@ -1,0 +1,17 @@
+{
+  "effect": "lynx_curse_mark_end_small",
+  "game": "sfa",
+  "sourceBundle": "af05525318c29746779b7c182b30e59f_1",
+  "prefab": null,
+  "cover": 2.58,
+  "soft": 71.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Lynx_Curse_Mark_End_Small",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

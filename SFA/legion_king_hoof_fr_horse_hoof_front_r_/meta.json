@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_hoof_fr(horse_hoof_front_r)",
+  "game": "sfa",
+  "sourceBundle": "aab6c552093674489ef5d8a93770dd5e",
+  "prefab": null,
+  "cover": 29.98,
+  "soft": 74.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_Hoof_FR(horse_hoof_front_r)",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

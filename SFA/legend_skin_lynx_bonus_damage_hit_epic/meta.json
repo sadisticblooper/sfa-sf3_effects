@@ -1,0 +1,17 @@
+{
+  "effect": "legend_skin_lynx_bonus_damage_hit_epic",
+  "game": "sfa",
+  "sourceBundle": "af05525318c29746779b7c182b30e59f_1",
+  "prefab": null,
+  "cover": 2.55,
+  "soft": 73.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legend_skin_Lynx_Bonus_Damage_Hit_Epic",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

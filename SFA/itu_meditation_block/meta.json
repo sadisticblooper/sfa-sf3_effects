@@ -1,0 +1,17 @@
+{
+  "effect": "itu_meditation_block",
+  "game": "sfa",
+  "sourceBundle": "aca7fd2089fed2d5d27dceb295f37db9",
+  "prefab": null,
+  "cover": 27.87,
+  "soft": 57.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Itu_Meditation_Block",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

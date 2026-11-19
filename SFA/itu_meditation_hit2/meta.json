@@ -1,0 +1,17 @@
+{
+  "effect": "itu_meditation_hit2",
+  "game": "sfa",
+  "sourceBundle": "aca7fd2089fed2d5d27dceb295f37db9",
+  "prefab": null,
+  "cover": 30.48,
+  "soft": 81.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Itu_Meditation_Hit2",
+  "particleSystemCount": 9,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

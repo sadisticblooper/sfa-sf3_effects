@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_win_groundhit",
+  "game": "sfa",
+  "sourceBundle": "b232bde276595f408bd6ff70b426ad32",
+  "prefab": null,
+  "cover": 7.26,
+  "soft": 82.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_Win_GroundHit",
+  "particleSystemCount": 9,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
