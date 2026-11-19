@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_bulwark_shieldexplosion(stomach)",
+  "game": "sfa",
+  "sourceBundle": "2751c2206cf11e611fb157b60d0b18c9",
+  "prefab": null,
+  "cover": 3.25,
+  "soft": 71.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Bulwark_shieldExplosion(stomach)",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}
