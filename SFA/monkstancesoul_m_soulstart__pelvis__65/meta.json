@@ -1,0 +1,17 @@
+{
+  "effect": "monkstancesoul_m_soulstart_(pelvis)_65",
+  "game": "sfa",
+  "sourceBundle": "1578bf5bdcd6f49231d006ff0474b8ce",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MonkStanceSoul_m_SoulStart_(pelvis)_65",
+  "particleSystemCount": 16,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 44
+}

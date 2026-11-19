@@ -1,0 +1,17 @@
+{
+  "effect": "ironclad_puffer_glove_idlesmoke_l(forearm_twist_l)",
+  "game": "sfa",
+  "sourceBundle": "15a950f5b5770ffd9e97b92c0db00b9e",
+  "prefab": null,
+  "cover": 0.57,
+  "soft": 14.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Ironclad_Puffer_Glove_IdleSmoke_L(forearm_twist_l)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 49
+}

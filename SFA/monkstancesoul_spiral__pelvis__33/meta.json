@@ -1,0 +1,17 @@
+{
+  "effect": "monkstancesoul_spiral_(pelvis)_33",
+  "game": "sfa",
+  "sourceBundle": "1578bf5bdcd6f49231d006ff0474b8ce",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MonkStanceSoul_Spiral_(pelvis)_33",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 40
+}

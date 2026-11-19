@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_l_castle_wpn_secondlife_(weapon_l)_26",
+  "game": "sfa",
+  "sourceBundle": "137409ec9fcaea344215679c7d6ca44f",
+  "prefab": null,
+  "cover": 0.07,
+  "soft": 73.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_L_Castle_wpn_SecondLife_(weapon_l)_26",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 32
+}

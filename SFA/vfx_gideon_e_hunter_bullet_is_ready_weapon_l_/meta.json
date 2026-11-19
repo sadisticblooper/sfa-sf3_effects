@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_e_hunter_bullet_is_ready(weapon_l)",
+  "game": "sfa",
+  "sourceBundle": "05395937c32faeddd782766ecbfb259a",
+  "prefab": null,
+  "cover": 0.03,
+  "soft": 50.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_E_Hunter_Bullet_Is_Ready(weapon_l)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 50
+}

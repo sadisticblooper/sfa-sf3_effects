@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_win_e_snow_orb_snowin(gun_joint_r)",
+  "game": "sfa",
+  "sourceBundle": "075cd34a6bdc1aa61bfd377f236462a2",
+  "prefab": null,
+  "cover": 0.18,
+  "soft": 62.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Win_E_Snow_Orb_SnowIn(gun_joint_r)",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

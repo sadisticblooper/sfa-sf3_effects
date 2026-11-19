@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_win_e_snow_orb_snowout(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "075cd34a6bdc1aa61bfd377f236462a2",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 9.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Win_E_Snow_Orb_SnowOut(pelvis)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 36
+}
