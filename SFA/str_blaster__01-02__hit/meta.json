@@ -1,0 +1,17 @@
+{
+  "effect": "str_blaster_(01-02)_hit",
+  "game": "sfa",
+  "sourceBundle": "4aeee5a532149dd245809c1dcd38b55b",
+  "prefab": null,
+  "cover": 51.52,
+  "soft": 34.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "str_blaster_(01-02)_hit",
+  "particleSystemCount": 7,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

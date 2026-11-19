@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_raikichi_stance_donat_dust(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "456ef887ce16735b3218bd2e9ed2b026",
+  "prefab": null,
+  "cover": 4.7,
+  "soft": 82.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Raikichi_Stance_Donat_Dust(pelvis)",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

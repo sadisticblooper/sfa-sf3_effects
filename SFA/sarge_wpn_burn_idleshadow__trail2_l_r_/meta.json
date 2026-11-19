@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_wpn_burn_idleshadow_(trail2_l_r)",
+  "game": "sfa",
+  "sourceBundle": "477b9238b0022ef33f28745ea069bf58",
+  "prefab": null,
+  "cover": 1.03,
+  "soft": 50.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_wpn_Burn_IdleShadow_(trail2_l_r)",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}

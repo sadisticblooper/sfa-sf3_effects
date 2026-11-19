@@ -1,0 +1,17 @@
+{
+  "effect": "hiteffect_dash_level_two_no_bb_raikichi_mirror",
+  "game": "sfa",
+  "sourceBundle": "456ef887ce16735b3218bd2e9ed2b026",
+  "prefab": null,
+  "cover": 20.78,
+  "soft": 80.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HitEffect_Dash_Level_Two_No_BB_Raikichi_mirror",
+  "particleSystemCount": 9,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

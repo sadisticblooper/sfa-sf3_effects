@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_butcher_e_khan_rec_season_shadow(scapular_r)",
+  "game": "sfa",
+  "sourceBundle": "4156de9910909c68d2a67a2a0f04ec07",
+  "prefab": null,
+  "cover": 26.0,
+  "soft": 95.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Butcher_E_Khan_Rec_Season_Shadow(scapular_r)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

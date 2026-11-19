@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_e_burn_explosionshadow",
+  "game": "sfa",
+  "sourceBundle": "477b9238b0022ef33f28745ea069bf58",
+  "prefab": null,
+  "cover": 16.77,
+  "soft": 81.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_E_Burn_ExplosionShadow",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}
