@@ -1,0 +1,17 @@
+{
+  "effect": "jetportal_vertical_out",
+  "game": "sfa",
+  "sourceBundle": "3d9ae8b805784b067c06fdd3d4c6edd6",
+  "prefab": null,
+  "cover": 1.55,
+  "soft": 74.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "JetPortal_vertical_Out",
+  "particleSystemCount": 16,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 17
+}

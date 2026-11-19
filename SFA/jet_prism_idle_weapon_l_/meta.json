@@ -1,0 +1,17 @@
+{
+  "effect": "jet_prism_idle(weapon_l)",
+  "game": "sfa",
+  "sourceBundle": "3d9ae8b805784b067c06fdd3d4c6edd6",
+  "prefab": null,
+  "cover": 9.49,
+  "soft": 38.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Jet_Prism_idle(weapon_l)",
+  "particleSystemCount": 14,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
