@@ -1,0 +1,17 @@
+{
+  "effect": "lk_l_castle_dead_hands_smoke_1(armature)_mirror",
+  "game": "sfa",
+  "sourceBundle": "137409ec9fcaea344215679c7d6ca44f",
+  "prefab": null,
+  "cover": 1.54,
+  "soft": 35.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "LK_L_Castle_dead_hands_Smoke_1(Armature)_mirror",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 49
+}
