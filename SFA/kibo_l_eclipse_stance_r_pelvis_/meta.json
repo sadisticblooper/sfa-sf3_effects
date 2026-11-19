@@ -1,0 +1,17 @@
+{
+  "effect": "kibo_l_eclipse_stance_r(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "698f769a8742963117c65be07ce8024d",
+  "prefab": null,
+  "cover": 20.03,
+  "soft": 0.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Kibo_L_Eclipse_Stance_R(pelvis)",
+  "particleSystemCount": 13,
+  "materialCount": 13,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

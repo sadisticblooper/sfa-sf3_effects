@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_raikichi_epic_chest_lightning(chest)",
+  "game": "sfa",
+  "sourceBundle": "692166baebd091cc0fd77dc0a9f3b7c1",
+  "prefab": null,
+  "cover": 0.6,
+  "soft": 0.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Raikichi_epic_chest_lightning(chest)",
+  "particleSystemCount": 4,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

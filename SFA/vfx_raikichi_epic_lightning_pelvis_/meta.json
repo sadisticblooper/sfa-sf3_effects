@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_raikichi_epic_lightning(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "692166baebd091cc0fd77dc0a9f3b7c1",
+  "prefab": null,
+  "cover": 16.1,
+  "soft": 82.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Raikichi_epic_lightning(pelvis)",
+  "particleSystemCount": 15,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

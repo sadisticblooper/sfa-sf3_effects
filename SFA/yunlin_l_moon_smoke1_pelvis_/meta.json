@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_l_moon_smoke1(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "6861afbee6f41778e973b7ab4438eaba",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_L_Moon_Smoke1(pelvis)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 32
+}

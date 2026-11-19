@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_shogun_demon_sword_lobby(weapon_r)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 0.28,
+  "soft": 94.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "vfx_shogun_demon_sword_lobby(weapon_r)",
+  "particleSystemCount": 12,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

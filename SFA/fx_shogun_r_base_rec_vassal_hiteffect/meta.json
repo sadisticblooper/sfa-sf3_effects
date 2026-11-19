@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_r_base_rec_vassal_hiteffect",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 3.32,
+  "soft": 74.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_R_base_Rec_Vassal_hiteffect",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}
