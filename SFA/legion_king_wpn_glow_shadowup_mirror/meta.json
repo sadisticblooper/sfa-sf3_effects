@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_wpn_glow_shadowup_mirror",
+  "game": "sfa",
+  "sourceBundle": "923c08d062223fd52a7ecbf223c61f01",
+  "prefab": null,
+  "cover": 3.38,
+  "soft": 52.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_wpn_Glow_ShadowUp_mirror",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

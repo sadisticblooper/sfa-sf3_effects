@@ -1,0 +1,17 @@
+{
+  "effect": "pve_helga_kara_stage_2",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 11.8,
+  "soft": 85.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_Helga_Kara_Stage_2",
+  "particleSystemCount": 16,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

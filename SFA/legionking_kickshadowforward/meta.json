@@ -1,0 +1,17 @@
+{
+  "effect": "legionking_kickshadowforward",
+  "game": "sfa",
+  "sourceBundle": "923c08d062223fd52a7ecbf223c61f01",
+  "prefab": null,
+  "cover": 11.2,
+  "soft": 62.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "LegionKing_KIckShadowForward",
+  "particleSystemCount": 16,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 17
+}

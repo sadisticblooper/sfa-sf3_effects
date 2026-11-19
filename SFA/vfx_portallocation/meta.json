@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_portallocation",
+  "game": "sfa",
+  "sourceBundle": "9436cdbee39f98a191b17e6a6fb53762",
+  "prefab": null,
+  "cover": 14.35,
+  "soft": 52.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_portalLocation",
+  "particleSystemCount": 11,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_rabbit",
+  "game": "sfa",
+  "sourceBundle": "9436cdbee39f98a191b17e6a6fb53762",
+  "prefab": null,
+  "cover": 12.68,
+  "soft": 85.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Rabbit",
+  "particleSystemCount": 9,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
