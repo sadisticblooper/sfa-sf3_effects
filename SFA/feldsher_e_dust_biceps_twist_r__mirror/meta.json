@@ -1,0 +1,17 @@
+{
+  "effect": "feldsher_e_dust(biceps_twist_r)_mirror",
+  "game": "sfa",
+  "sourceBundle": "1883806ddeed2de0adf2552c4cf50ffa",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 22.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Feldsher_E_dust(biceps_twist_r)_mirror",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 25
+}

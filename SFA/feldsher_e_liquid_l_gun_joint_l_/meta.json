@@ -1,0 +1,17 @@
+{
+  "effect": "feldsher_e_liquid_l(gun_joint_l)",
+  "game": "sfa",
+  "sourceBundle": "1883806ddeed2de0adf2552c4cf50ffa",
+  "prefab": null,
+  "cover": 19.54,
+  "soft": 1.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Feldsher_E_liquid_l(gun_joint_l)",
+  "particleSystemCount": 1,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

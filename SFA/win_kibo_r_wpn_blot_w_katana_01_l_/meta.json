@@ -1,0 +1,17 @@
+{
+  "effect": "win_kibo_r_wpn_blot(w_katana_01_l)",
+  "game": "sfa",
+  "sourceBundle": "2005b85cd52ee04d679ef4ec81e42332",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 79.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Win_Kibo_R_Wpn_Blot(w_katana_01_l)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 48
+}

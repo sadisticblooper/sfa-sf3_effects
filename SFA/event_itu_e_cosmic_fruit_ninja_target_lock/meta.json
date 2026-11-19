@@ -1,0 +1,17 @@
+{
+  "effect": "event_itu_e_cosmic_fruit_ninja_target_lock",
+  "game": "sfa",
+  "sourceBundle": "19aef70a45a22a96ee7ed9d99ff0146c",
+  "prefab": null,
+  "cover": 41.02,
+  "soft": 1.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Event_Itu_E_Cosmic_Fruit_Ninja_Target_Lock",
+  "particleSystemCount": 15,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_bulwark_stance_meteor_floor",
+  "game": "sfa",
+  "sourceBundle": "1b89b10528923a33cf7b95395fa711a5",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Bulwark_Stance_Meteor_Floor",
+  "particleSystemCount": 14,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 6
+}
