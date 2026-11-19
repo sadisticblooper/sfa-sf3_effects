@@ -1,0 +1,17 @@
+{
+  "effect": "lk_l_castle_hoof_eyes(horse_head)",
+  "game": "sfa",
+  "sourceBundle": "137409ec9fcaea344215679c7d6ca44f",
+  "prefab": null,
+  "cover": 3.86,
+  "soft": 85.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "LK_L_Castle_Hoof_Eyes(horse_head)",
+  "particleSystemCount": 4,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}

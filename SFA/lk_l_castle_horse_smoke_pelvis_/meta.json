@@ -1,0 +1,17 @@
+{
+  "effect": "lk_l_castle_horse_smoke(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "137409ec9fcaea344215679c7d6ca44f",
+  "prefab": null,
+  "cover": 16.68,
+  "soft": 67.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "LK_L_Castle_Horse_Smoke(pelvis)",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "win_kibo_r_splash",
+  "game": "sfa",
+  "sourceBundle": "2005b85cd52ee04d679ef4ec81e42332",
+  "prefab": null,
+  "cover": 2.27,
+  "soft": 36.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Win_Kibo_R_Splash",
+  "particleSystemCount": 14,
+  "materialCount": 13,
+  "unityVersion": "6000.2.14f1",
+  "frames": 5
+}

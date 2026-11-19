@@ -1,0 +1,17 @@
+{
+  "effect": "event_itu_fruit_ninja_fruit_cuts",
+  "game": "sfa",
+  "sourceBundle": "19aef70a45a22a96ee7ed9d99ff0146c",
+  "prefab": null,
+  "cover": 0.96,
+  "soft": 84.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Event_Itu_Fruit_Ninja_Fruit_Cuts",
+  "particleSystemCount": 32,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "emperor_stance_throneup_right",
+  "game": "sfa",
+  "sourceBundle": "1a05ce8541c1514862bd7ddb97edd259",
+  "prefab": null,
+  "cover": 15.6,
+  "soft": 49.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Emperor_Stance_ThroneUp_right",
+  "particleSystemCount": 11,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}
