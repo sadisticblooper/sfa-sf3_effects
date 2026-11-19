@@ -1,0 +1,17 @@
+{
+  "effect": "d19_fx_hit_wind_turbine_blades_1",
+  "game": "sf3",
+  "sourceBundle": "39895a63bfcdb180b58a70a942dd9d00",
+  "prefab": null,
+  "cover": 3.01,
+  "soft": 32.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D19_fx_hit_wind_turbine_blades_1",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 2
+}

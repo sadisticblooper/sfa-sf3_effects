@@ -1,0 +1,17 @@
+{
+  "effect": "d19_fx_forward_the_stone_hit_effect(ground_locator)",
+  "game": "sf3",
+  "sourceBundle": "39895a63bfcdb180b58a70a942dd9d00",
+  "prefab": null,
+  "cover": 19.4,
+  "soft": 67.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D19_fx_forward_the_stone_hit_effect(ground_locator)",
+  "particleSystemCount": 20,
+  "materialCount": 15,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}

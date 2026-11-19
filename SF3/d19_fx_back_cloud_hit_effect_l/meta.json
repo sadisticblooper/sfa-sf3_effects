@@ -1,0 +1,17 @@
+{
+  "effect": "d19_fx_back_cloud_hit_effect_l",
+  "game": "sf3",
+  "sourceBundle": "39895a63bfcdb180b58a70a942dd9d00",
+  "prefab": null,
+  "cover": 71.66,
+  "soft": 87.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D19_fx_back_cloud_hit_effect_L",
+  "particleSystemCount": 11,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}
