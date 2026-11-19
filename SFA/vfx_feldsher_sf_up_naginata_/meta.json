@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_feldsher_sf_up(naginata)",
+  "game": "sfa",
+  "sourceBundle": "3d9bcd5e0b2ab43b712f481e433ff846",
+  "prefab": null,
+  "cover": 13.81,
+  "soft": 85.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Feldsher_SF_Up(Naginata)",
+  "particleSystemCount": 14,
+  "materialCount": 13,
+  "unityVersion": "6000.2.14f1",
+  "frames": 32
+}

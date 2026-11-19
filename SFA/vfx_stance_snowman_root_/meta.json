@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_stance_snowman(root)",
+  "game": "sfa",
+  "sourceBundle": "3f1f8c211b735256653a43efa5c4166a",
+  "prefab": null,
+  "cover": 19.35,
+  "soft": 45.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Stance_Snowman(root)",
+  "particleSystemCount": 74,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

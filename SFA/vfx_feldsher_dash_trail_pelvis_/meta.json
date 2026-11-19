@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_feldsher_dash_trail(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "3d9bcd5e0b2ab43b712f481e433ff846",
+  "prefab": null,
+  "cover": 0.49,
+  "soft": 83.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Feldsher_Dash_Trail(pelvis)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

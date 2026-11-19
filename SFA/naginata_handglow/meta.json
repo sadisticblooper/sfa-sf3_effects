@@ -1,0 +1,17 @@
+{
+  "effect": "naginata_handglow",
+  "game": "sfa",
+  "sourceBundle": "3d9bcd5e0b2ab43b712f481e433ff846",
+  "prefab": null,
+  "cover": 5.17,
+  "soft": 59.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "naginata_HandGlow",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 27
+}

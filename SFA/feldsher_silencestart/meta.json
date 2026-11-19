@@ -1,0 +1,17 @@
+{
+  "effect": "feldsher_silencestart",
+  "game": "sfa",
+  "sourceBundle": "3d9bcd5e0b2ab43b712f481e433ff846",
+  "prefab": null,
+  "cover": 62.03,
+  "soft": 34.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Feldsher_SilenceStart",
+  "particleSystemCount": 29,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 44
+}

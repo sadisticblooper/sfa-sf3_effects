@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_feldsher_dash_prepare(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "3d9bcd5e0b2ab43b712f481e433ff846",
+  "prefab": null,
+  "cover": 0.05,
+  "soft": 82.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Feldsher_Dash_Prepare(pelvis)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}

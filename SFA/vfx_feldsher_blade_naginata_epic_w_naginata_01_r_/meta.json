@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_feldsher_blade_naginata_epic(w_naginata_01_r)",
+  "game": "sfa",
+  "sourceBundle": "3d9bcd5e0b2ab43b712f481e433ff846",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 42.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Feldsher_blade_naginata_epic(w_naginata_01_r)",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 48
+}

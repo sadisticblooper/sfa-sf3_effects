@@ -1,0 +1,17 @@
+{
+  "effect": "sf_force_push",
+  "game": "sfa",
+  "sourceBundle": "3d9bcd5e0b2ab43b712f481e433ff846",
+  "prefab": null,
+  "cover": 16.63,
+  "soft": 84.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "sf_force_push",
+  "particleSystemCount": 24,
+  "materialCount": 19,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}
