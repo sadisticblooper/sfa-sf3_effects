@@ -1,0 +1,17 @@
+{
+  "effect": "e_giving_fist_candle_for_cake",
+  "game": "sfa",
+  "sourceBundle": "7312d91958ab27db1458fdd504b3a7f5",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 39.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "E_Giving_Fist_Candle_for_cake",
+  "particleSystemCount": 11,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

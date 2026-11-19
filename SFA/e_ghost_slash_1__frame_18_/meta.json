@@ -1,0 +1,17 @@
+{
+  "effect": "e_ghost_slash_1_(frame_18)",
+  "game": "sfa",
+  "sourceBundle": "7f100a4e60dac7e06b0e3f186787d4cf",
+  "prefab": null,
+  "cover": 7.71,
+  "soft": 80.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "E_Ghost_Slash_1_(frame_18)",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 27
+}

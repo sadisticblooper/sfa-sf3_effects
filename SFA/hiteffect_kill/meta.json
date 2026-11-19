@@ -1,0 +1,17 @@
+{
+  "effect": "hiteffect_kill",
+  "game": "sfa",
+  "sourceBundle": "7a002e4ea508f5b4fe5afad2af60ab18_1",
+  "prefab": null,
+  "cover": 49.76,
+  "soft": 85.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HitEffect_Kill",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 5
+}

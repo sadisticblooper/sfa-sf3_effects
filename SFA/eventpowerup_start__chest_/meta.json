@@ -1,0 +1,17 @@
+{
+  "effect": "eventpowerup_start_(chest)",
+  "game": "sfa",
+  "sourceBundle": "7f34d8ea5d712f26069a0048e5af9644",
+  "prefab": null,
+  "cover": 8.7,
+  "soft": 70.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EventPowerUp_Start_(chest)",
+  "particleSystemCount": 8,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 24
+}

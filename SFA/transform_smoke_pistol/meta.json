@@ -1,0 +1,17 @@
+{
+  "effect": "transform_smoke_pistol",
+  "game": "sfa",
+  "sourceBundle": "7a002e4ea508f5b4fe5afad2af60ab18_1",
+  "prefab": null,
+  "cover": 40.36,
+  "soft": 76.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "transform_smoke_pistol",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 38
+}

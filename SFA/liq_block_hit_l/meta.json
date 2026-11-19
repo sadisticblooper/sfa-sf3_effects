@@ -1,0 +1,17 @@
+{
+  "effect": "liq_block_hit_l",
+  "game": "sfa",
+  "sourceBundle": "7a002e4ea508f5b4fe5afad2af60ab18_1",
+  "prefab": null,
+  "cover": 3.52,
+  "soft": 78.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liq_Block_Hit_l",
+  "particleSystemCount": 10,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

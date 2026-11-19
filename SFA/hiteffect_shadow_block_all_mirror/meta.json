@@ -1,0 +1,17 @@
+{
+  "effect": "hiteffect_shadow_block_all_mirror",
+  "game": "sfa",
+  "sourceBundle": "833114ecc0b3ac838a0f38bc09307d79",
+  "prefab": null,
+  "cover": 26.57,
+  "soft": 51.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HitEffect_Shadow_Block_All_Mirror",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 7
+}
