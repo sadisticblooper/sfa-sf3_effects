@@ -1,0 +1,17 @@
+{
+  "effect": "helga_garland_lightray_enemy",
+  "game": "sfa",
+  "sourceBundle": "5f2522373d86a93f99fd2bf64b6fcfd6",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Helga_Garland_LightRay_enemy",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

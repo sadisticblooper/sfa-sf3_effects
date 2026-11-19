@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_stance_pinata(pinata_joint_08_r)",
+  "game": "sfa",
+  "sourceBundle": "5b332dc65a11dbb3d5d0eada57656b8c",
+  "prefab": null,
+  "cover": 2.28,
+  "soft": 55.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Stance_Pinata(pinata_joint_08_r)",
+  "particleSystemCount": 18,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 35
+}

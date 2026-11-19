@@ -1,0 +1,17 @@
+{
+  "effect": "fx_shogun_heavy_impact_miss(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 6.01,
+  "soft": 84.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_shogun_heavy_impact_miss(pelvis)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 22
+}

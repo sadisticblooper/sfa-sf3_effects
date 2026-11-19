@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_raikichi_taunt_sphere(f_pointer3_r)",
+  "game": "sfa",
+  "sourceBundle": "60e8e23350fbaf406e6a0fbb4f13cb19",
+  "prefab": null,
+  "cover": 14.11,
+  "soft": 62.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Raikichi_Taunt_Sphere(f_pointer3_r)",
+  "particleSystemCount": 25,
+  "materialCount": 13,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}
