@@ -1,0 +1,17 @@
+{
+  "effect": "monkeyking_stanse_tangerines_l_(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "3c99864a3fee7af4066948d4a240c7e0",
+  "prefab": null,
+  "cover": 55.8,
+  "soft": 0.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MonkeyKing_Stanse_Tangerines_l_(pelvis)",
+  "particleSystemCount": 22,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "present_unblockable_l",
+  "game": "sfa",
+  "sourceBundle": "3d74ce99b15c2b9cf0799d4b457f22f6",
+  "prefab": null,
+  "cover": 33.21,
+  "soft": 6.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Present_Unblockable_l",
+  "particleSystemCount": 9,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

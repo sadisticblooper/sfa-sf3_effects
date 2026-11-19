@@ -1,0 +1,17 @@
+{
+  "effect": "jet_darktrail_(pelvis_44)",
+  "game": "sfa",
+  "sourceBundle": "3d9ae8b805784b067c06fdd3d4c6edd6",
+  "prefab": null,
+  "cover": 8.08,
+  "soft": 82.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Jet_DarkTrail_(pelvis_44)",
+  "particleSystemCount": 9,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

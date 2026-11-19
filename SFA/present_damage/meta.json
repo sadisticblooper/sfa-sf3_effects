@@ -1,0 +1,17 @@
+{
+  "effect": "present_damage",
+  "game": "sfa",
+  "sourceBundle": "3d74ce99b15c2b9cf0799d4b457f22f6",
+  "prefab": null,
+  "cover": 40.36,
+  "soft": 1.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Present_Damage",
+  "particleSystemCount": 2,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}

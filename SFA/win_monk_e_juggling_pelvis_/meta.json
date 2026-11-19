@@ -1,0 +1,17 @@
+{
+  "effect": "win_monk_e_juggling(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "3afbb885cbf9a200dd47b5cc2e9375f2",
+  "prefab": null,
+  "cover": 37.94,
+  "soft": 55.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "win_Monk_E_juggling(pelvis)",
+  "particleSystemCount": 23,
+  "materialCount": 18,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}

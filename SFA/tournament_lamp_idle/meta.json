@@ -1,0 +1,17 @@
+{
+  "effect": "tournament_lamp_idle",
+  "game": "sfa",
+  "sourceBundle": "3d74ce99b15c2b9cf0799d4b457f22f6",
+  "prefab": null,
+  "cover": 4.97,
+  "soft": 93.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Tournament_Lamp_Idle",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

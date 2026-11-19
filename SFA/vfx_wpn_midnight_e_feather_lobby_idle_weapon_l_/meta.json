@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_wpn_midnight_e_feather_lobby_idle(weapon_l)",
+  "game": "sfa",
+  "sourceBundle": "36d7beb1ec49ad91f279958052453fc4",
+  "prefab": null,
+  "cover": 0.02,
+  "soft": 80.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Wpn_Midnight_E_Feather_Lobby_idle(weapon_l)",
+  "particleSystemCount": 9,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

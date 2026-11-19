@@ -1,0 +1,17 @@
+{
+  "effect": "monk_e_tree_sakura",
+  "game": "sfa",
+  "sourceBundle": "36d79be1241c64a6a9d7f1afce2900aa",
+  "prefab": null,
+  "cover": 0.02,
+  "soft": 59.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_E_Tree_Sakura",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 27
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "blue_field",
+  "game": "sfa",
+  "sourceBundle": "38ffa935aeefa8eaecb91c81096613e6",
+  "prefab": null,
+  "cover": 4.66,
+  "soft": 78.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Blue_Field",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

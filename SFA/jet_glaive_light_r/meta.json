@@ -1,0 +1,17 @@
+{
+  "effect": "jet_glaive_light_r",
+  "game": "sfa",
+  "sourceBundle": "3d9ae8b805784b067c06fdd3d4c6edd6",
+  "prefab": null,
+  "cover": 67.2,
+  "soft": 76.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Jet_Glaive_Light_r",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

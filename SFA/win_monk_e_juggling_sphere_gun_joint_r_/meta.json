@@ -1,0 +1,17 @@
+{
+  "effect": "win_monk_e_juggling_sphere(gun_joint_r)",
+  "game": "sfa",
+  "sourceBundle": "3afbb885cbf9a200dd47b5cc2e9375f2",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 12.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Win_Monk_E_juggling_Sphere(gun_joint_r)",
+  "particleSystemCount": 17,
+  "materialCount": 17,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

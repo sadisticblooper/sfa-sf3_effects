@@ -1,0 +1,17 @@
+{
+  "effect": "present_buble_hit",
+  "game": "sfa",
+  "sourceBundle": "3d74ce99b15c2b9cf0799d4b457f22f6",
+  "prefab": null,
+  "cover": 0.17,
+  "soft": 19.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Present_Buble_Hit",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 2
+}
