@@ -1,0 +1,17 @@
+{
+  "effect": "helga_win_raylight",
+  "game": "sfa",
+  "sourceBundle": "c83ab437487b2675f874166b821176d3",
+  "prefab": null,
+  "cover": 3.06,
+  "soft": 38.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Helga_Win_RayLight",
+  "particleSystemCount": 16,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

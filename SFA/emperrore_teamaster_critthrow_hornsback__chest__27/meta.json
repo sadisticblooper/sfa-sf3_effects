@@ -1,0 +1,17 @@
+{
+  "effect": "emperrore_teamaster_critthrow_hornsback_(chest)_27",
+  "game": "sfa",
+  "sourceBundle": "c41471dc65d4b0228085ad837fd946fd",
+  "prefab": null,
+  "cover": 35.41,
+  "soft": 84.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EmperrorE_Teamaster_CritThrow_HornsBack_(chest)_27",
+  "particleSystemCount": 38,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 25
+}

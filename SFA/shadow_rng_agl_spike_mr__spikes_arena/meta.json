@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_rng_agl_spike(mr)_spikes_arena",
+  "game": "sfa",
+  "sourceBundle": "c1eff448d03ae41f371a158e860e62e8",
+  "prefab": null,
+  "cover": 6.63,
+  "soft": 64.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_rng_agl_spike(mr)_spikes_arena",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 39
+}

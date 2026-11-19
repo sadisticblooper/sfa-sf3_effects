@@ -1,0 +1,17 @@
+{
+  "effect": "helgawin_divineray_(pevlis)_80",
+  "game": "sfa",
+  "sourceBundle": "c83ab437487b2675f874166b821176d3",
+  "prefab": null,
+  "cover": 55.05,
+  "soft": 91.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HelgaWin_DivineRay_(Pevlis)_80",
+  "particleSystemCount": 18,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

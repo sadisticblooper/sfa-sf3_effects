@@ -1,0 +1,17 @@
+{
+  "effect": "helgawin_weaponimpact_(w_onehanded_sword_trail1_l)_14",
+  "game": "sfa",
+  "sourceBundle": "c83ab437487b2675f874166b821176d3",
+  "prefab": null,
+  "cover": 34.54,
+  "soft": 53.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HelgaWin_WeaponImpact_(w_onehanded_sword_trail1_l)_14",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 5
+}

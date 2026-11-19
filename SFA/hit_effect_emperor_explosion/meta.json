@@ -1,0 +1,17 @@
+{
+  "effect": "hit_effect_emperor_explosion",
+  "game": "sfa",
+  "sourceBundle": "c1eff448d03ae41f371a158e860e62e8",
+  "prefab": null,
+  "cover": 7.49,
+  "soft": 80.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Hit_Effect_Emperor_Explosion",
+  "particleSystemCount": 8,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "hongjoorangedhit",
+  "game": "sfa",
+  "sourceBundle": "cbc61edfe2216a46d4534c06d749e844",
+  "prefab": null,
+  "cover": 48.92,
+  "soft": 75.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HongJooRangedHit",
+  "particleSystemCount": 9,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

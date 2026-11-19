@@ -1,0 +1,17 @@
+{
+  "effect": "emperrorcritthrow_hornsback_(chest)_27",
+  "game": "sfa",
+  "sourceBundle": "c1eff448d03ae41f371a158e860e62e8",
+  "prefab": null,
+  "cover": 43.46,
+  "soft": 83.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EmperrorCritThrow_HornsBack_(chest)_27",
+  "particleSystemCount": 38,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 25
+}

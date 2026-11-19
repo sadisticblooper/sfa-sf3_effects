@@ -1,0 +1,17 @@
+{
+  "effect": "hongjoorangedshort",
+  "game": "sfa",
+  "sourceBundle": "cbc61edfe2216a46d4534c06d749e844",
+  "prefab": null,
+  "cover": 31.06,
+  "soft": 76.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HongJooRangedShort",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}
