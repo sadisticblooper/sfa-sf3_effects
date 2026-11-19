@@ -1,0 +1,17 @@
+{
+  "effect": "halloween_22_wep_fx_heal",
+  "game": "sfa",
+  "sourceBundle": "9c440aac150bee9bedd5980a84990a4d",
+  "prefab": null,
+  "cover": 6.02,
+  "soft": 82.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Halloween_22_Wep_FX_Heal",
+  "particleSystemCount": 11,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}

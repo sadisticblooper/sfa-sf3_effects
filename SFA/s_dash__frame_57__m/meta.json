@@ -1,0 +1,17 @@
+{
+  "effect": "s_dash_(frame_57)_m",
+  "game": "sfa",
+  "sourceBundle": "9ec8b2e22d700b3de7b64d39761845d8",
+  "prefab": null,
+  "cover": 43.55,
+  "soft": 76.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "S_Dash_(frame_57)_m",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 17
+}

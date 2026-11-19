@@ -1,0 +1,17 @@
+{
+  "effect": "super_slash_1_(frame_21)",
+  "game": "sfa",
+  "sourceBundle": "9ec8b2e22d700b3de7b64d39761845d8",
+  "prefab": null,
+  "cover": 16.42,
+  "soft": 80.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Super_Slash_1_(frame_21)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

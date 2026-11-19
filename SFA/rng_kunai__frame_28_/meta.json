@@ -1,0 +1,17 @@
+{
+  "effect": "rng_kunai_(frame_28)",
+  "game": "sfa",
+  "sourceBundle": "9ec8b2e22d700b3de7b64d39761845d8",
+  "prefab": null,
+  "cover": 26.99,
+  "soft": 81.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "rng_kunai_(frame_28)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

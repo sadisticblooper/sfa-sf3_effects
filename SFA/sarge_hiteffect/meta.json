@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_hiteffect",
+  "game": "sfa",
+  "sourceBundle": "9e0cf6243b9a789d9a3d69e2898ab90a",
+  "prefab": null,
+  "cover": 3.93,
+  "soft": 52.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_HitEffect",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 4
+}

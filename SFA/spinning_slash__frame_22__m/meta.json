@@ -1,0 +1,17 @@
+{
+  "effect": "spinning_slash_(frame_22)_m",
+  "game": "sfa",
+  "sourceBundle": "9ec8b2e22d700b3de7b64d39761845d8",
+  "prefab": null,
+  "cover": 20.09,
+  "soft": 82.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Spinning_Slash_(frame_22)_m",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}
