@@ -1,0 +1,17 @@
+{
+  "effect": "xiang_tzu_explosion(chest)",
+  "game": "sfa",
+  "sourceBundle": "34986aca36f3462c0c32bb214f1b7dc2",
+  "prefab": null,
+  "cover": 1.42,
+  "soft": 34.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Xiang_Tzu_Explosion(chest)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 5
+}

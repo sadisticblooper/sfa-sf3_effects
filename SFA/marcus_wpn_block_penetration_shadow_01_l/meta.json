@@ -1,0 +1,17 @@
+{
+  "effect": "marcus_wpn_block_penetration_shadow_01_l",
+  "game": "sfa",
+  "sourceBundle": "33f9701b79cc3c07006df9a25b75fa79",
+  "prefab": null,
+  "cover": 0.77,
+  "soft": 69.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Marcus_wpn_Block_Penetration_Shadow_01_l",
+  "particleSystemCount": 10,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

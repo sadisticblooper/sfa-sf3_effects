@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_xiang_tzu_wpn_e_red(forearm_l)",
+  "game": "sfa",
+  "sourceBundle": "34986aca36f3462c0c32bb214f1b7dc2",
+  "prefab": null,
+  "cover": 15.56,
+  "soft": 44.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Xiang_Tzu_Wpn_E_Red(forearm_l)",
+  "particleSystemCount": 19,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

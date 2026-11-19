@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_rng_str_pilum_hit_passive(pelvis_ground)",
+  "game": "sfa",
+  "sourceBundle": "33f9701b79cc3c07006df9a25b75fa79",
+  "prefab": null,
+  "cover": 22.54,
+  "soft": 56.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_rng_str_pilum_hit_passive(pelvis_ground)",
+  "particleSystemCount": 17,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

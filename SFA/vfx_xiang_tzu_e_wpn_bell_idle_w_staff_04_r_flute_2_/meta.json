@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_xiang_tzu_e_wpn_bell_idle(w_staff_04_r_flute_2)",
+  "game": "sfa",
+  "sourceBundle": "34986aca36f3462c0c32bb214f1b7dc2",
+  "prefab": null,
+  "cover": 4.14,
+  "soft": 79.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Xiang_Tzu_E_Wpn_Bell_Idle(w_staff_04_r_flute_2)",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}

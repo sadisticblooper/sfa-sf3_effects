@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_xiang_tzu_e_wpn_sword(w_onehanded_sword_01_r)",
+  "game": "sfa",
+  "sourceBundle": "34986aca36f3462c0c32bb214f1b7dc2",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Xiang_Tzu_E_Wpn_Sword(w_onehanded_sword_01_r)",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 51
+}

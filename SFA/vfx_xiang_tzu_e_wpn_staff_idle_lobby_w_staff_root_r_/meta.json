@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_xiang_tzu_e_wpn_staff_idle_lobby(w_staff_root_r)",
+  "game": "sfa",
+  "sourceBundle": "34986aca36f3462c0c32bb214f1b7dc2",
+  "prefab": null,
+  "cover": 0.44,
+  "soft": 82.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Xiang_Tzu_E_Wpn_Staff_Idle_Lobby(w_staff_root_r)",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}

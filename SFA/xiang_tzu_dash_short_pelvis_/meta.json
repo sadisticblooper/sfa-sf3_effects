@@ -1,0 +1,17 @@
+{
+  "effect": "xiang_tzu_dash_short(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "34986aca36f3462c0c32bb214f1b7dc2",
+  "prefab": null,
+  "cover": 15.96,
+  "soft": 82.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Xiang_Tzu_Dash_short(pelvis)",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 24
+}
