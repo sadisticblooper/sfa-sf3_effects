@@ -1,0 +1,17 @@
+{
+  "effect": "xiang_tzu_hiteffect_weapon",
+  "game": "sf3",
+  "sourceBundle": "3b6e262e83e81bd198d0ddccde6e1dbd",
+  "prefab": null,
+  "cover": 4.83,
+  "soft": 66.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "XIANG_TZU_HitEffect_Weapon",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

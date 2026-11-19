@@ -1,0 +1,17 @@
+{
+  "effect": "hardmode_okada_portal",
+  "game": "sf3",
+  "sourceBundle": "3d798967456c59f78f37593694ca6815",
+  "prefab": null,
+  "cover": 86.72,
+  "soft": 71.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Hardmode_Okada_Portal",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 43
+}

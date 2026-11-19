@@ -1,0 +1,17 @@
+{
+  "effect": "hardmode_okada_bot_dissolve",
+  "game": "sf3",
+  "sourceBundle": "3d798967456c59f78f37593694ca6815",
+  "prefab": null,
+  "cover": 61.8,
+  "soft": 75.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Hardmode_Okada_Bot_Dissolve",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

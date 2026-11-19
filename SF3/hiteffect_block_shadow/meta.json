@@ -1,0 +1,17 @@
+{
+  "effect": "hiteffect_block_shadow",
+  "game": "sf3",
+  "sourceBundle": "3b6e262e83e81bd198d0ddccde6e1dbd",
+  "prefab": null,
+  "cover": 4.52,
+  "soft": 74.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HitEffect_Block_Shadow",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}
