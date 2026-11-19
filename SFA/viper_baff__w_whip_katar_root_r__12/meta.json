@@ -1,0 +1,17 @@
+{
+  "effect": "viper_baff_(w_whip_katar_root_r)_12",
+  "game": "sfa",
+  "sourceBundle": "fdbabf645a68eae159bf55fa7c720a74",
+  "prefab": null,
+  "cover": 0.42,
+  "soft": 37.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Viper_Baff_(w_whip_katar_root_r)_12",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 5
+}

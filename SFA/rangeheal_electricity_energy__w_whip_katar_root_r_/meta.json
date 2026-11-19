@@ -1,0 +1,17 @@
+{
+  "effect": "rangeheal_electricity_energy_(w_whip_katar_root_r)",
+  "game": "sfa",
+  "sourceBundle": "fdbabf645a68eae159bf55fa7c720a74",
+  "prefab": null,
+  "cover": 18.08,
+  "soft": 84.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "RangeHeal_Electricity_Energy_(w_whip_katar_root_r)",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

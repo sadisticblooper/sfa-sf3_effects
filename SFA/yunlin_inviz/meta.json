@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_inviz",
+  "game": "sfa",
+  "sourceBundle": "fe0062f5caf6d7e76409d941891fc0c7",
+  "prefab": null,
+  "cover": 54.17,
+  "soft": 78.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_Inviz",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 17
+}

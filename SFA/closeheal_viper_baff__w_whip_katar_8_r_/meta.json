@@ -1,0 +1,17 @@
+{
+  "effect": "closeheal_viper_baff_(w_whip_katar_8_r)",
+  "game": "sfa",
+  "sourceBundle": "fdbabf645a68eae159bf55fa7c720a74",
+  "prefab": null,
+  "cover": 10.07,
+  "soft": 73.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "CloseHeal_Viper_Baff_(w_whip_katar_8_r)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}
