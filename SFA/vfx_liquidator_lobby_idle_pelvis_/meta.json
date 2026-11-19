@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_liquidator_lobby_idle(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "11aef6e83f001073c80ddda164ebb63f",
+  "prefab": null,
+  "cover": 4.29,
+  "soft": 87.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Liquidator_lobby_idle(pelvis)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 30
+}

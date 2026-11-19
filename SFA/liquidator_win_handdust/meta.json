@@ -1,0 +1,17 @@
+{
+  "effect": "liquidator_win_handdust",
+  "game": "sfa",
+  "sourceBundle": "0de9591f4e17b915261767c1e7678228",
+  "prefab": null,
+  "cover": 22.16,
+  "soft": 86.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liquidator_Win_HandDust",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}

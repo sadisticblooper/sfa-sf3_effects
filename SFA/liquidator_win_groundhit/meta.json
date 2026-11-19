@@ -1,0 +1,17 @@
+{
+  "effect": "liquidator_win_groundhit",
+  "game": "sfa",
+  "sourceBundle": "0de9591f4e17b915261767c1e7678228",
+  "prefab": null,
+  "cover": 28.75,
+  "soft": 85.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liquidator_Win_GroundHit",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

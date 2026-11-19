@@ -1,0 +1,17 @@
+{
+  "effect": "monkeyking_nephritis_wind1",
+  "game": "sfa",
+  "sourceBundle": "07a1ef3628e2f7d3a797232bd6e3697c",
+  "prefab": null,
+  "cover": 17.98,
+  "soft": 51.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MonkeyKing_Nephritis_Wind1",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 17
+}

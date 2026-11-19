@@ -1,0 +1,17 @@
+{
+  "effect": "fx_yunlin_e_flowers_steps(toe_r 126)",
+  "game": "sfa",
+  "sourceBundle": "1525c747e8c8a64538536353ddb49bc6",
+  "prefab": null,
+  "cover": 1.06,
+  "soft": 82.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_Yunlin_E_flowers_steps(toe_r 126)",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 44
+}

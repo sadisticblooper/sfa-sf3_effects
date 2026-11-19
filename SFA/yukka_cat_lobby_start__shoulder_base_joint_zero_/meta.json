@@ -1,0 +1,17 @@
+{
+  "effect": "yukka_cat_lobby_start(_shoulder_base_joint_zero)",
+  "game": "sfa",
+  "sourceBundle": "11aef6e83f001073c80ddda164ebb63f",
+  "prefab": null,
+  "cover": 7.72,
+  "soft": 50.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yukka_Cat_Lobby_Start(_shoulder_base_joint_zero)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 28
+}
