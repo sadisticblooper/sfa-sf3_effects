@@ -1,0 +1,17 @@
+{
+  "effect": "butcher_cage_hit(chest)",
+  "game": "sfa",
+  "sourceBundle": "4156de9910909c68d2a67a2a0f04ec07",
+  "prefab": null,
+  "cover": 31.02,
+  "soft": 77.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Butcher_Cage_Hit(chest)",
+  "particleSystemCount": 9,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "butcher_l_gore_knuckles_flash(weapon_l)",
+  "game": "sfa",
+  "sourceBundle": "4156de9910909c68d2a67a2a0f04ec07",
+  "prefab": null,
+  "cover": 16.45,
+  "soft": 58.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Butcher_L_Gore_Knuckles_Flash(weapon_l)",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "butcher_l_gore_club_hit_floor(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "4156de9910909c68d2a67a2a0f04ec07",
+  "prefab": null,
+  "cover": 65.78,
+  "soft": 45.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Butcher_L_Gore_Club_Hit_Floor(pelvis)",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

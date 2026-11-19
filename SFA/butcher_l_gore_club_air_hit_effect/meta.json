@@ -1,0 +1,17 @@
+{
+  "effect": "butcher_l_gore_club_air_hit_effect",
+  "game": "sfa",
+  "sourceBundle": "4156de9910909c68d2a67a2a0f04ec07",
+  "prefab": null,
+  "cover": 44.23,
+  "soft": 44.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Butcher_L_Gore_Club_Air_Hit_Effect",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 7
+}
