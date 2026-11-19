@@ -1,0 +1,17 @@
+{
+  "effect": "helga_kara_stage_1",
+  "game": "sfa",
+  "sourceBundle": "34b4fb32b25295bfd75052854c863a91",
+  "prefab": null,
+  "cover": 11.92,
+  "soft": 76.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Helga_Kara_Stage_1",
+  "particleSystemCount": 13,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

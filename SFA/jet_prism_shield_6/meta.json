@@ -1,0 +1,17 @@
+{
+  "effect": "jet_prism_shield_6",
+  "game": "sfa",
+  "sourceBundle": "3d9ae8b805784b067c06fdd3d4c6edd6",
+  "prefab": null,
+  "cover": 3.42,
+  "soft": 65.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Jet_Prism_Shield_6",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

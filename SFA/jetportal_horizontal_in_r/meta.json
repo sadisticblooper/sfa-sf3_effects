@@ -1,0 +1,17 @@
+{
+  "effect": "jetportal_horizontal_in_r",
+  "game": "sfa",
+  "sourceBundle": "3d9ae8b805784b067c06fdd3d4c6edd6",
+  "prefab": null,
+  "cover": 10.3,
+  "soft": 58.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "JetPortal_horizontal_In_r",
+  "particleSystemCount": 17,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

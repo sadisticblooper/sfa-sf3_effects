@@ -1,0 +1,17 @@
+{
+  "effect": "present_buble_(scapular_l)",
+  "game": "sfa",
+  "sourceBundle": "3d74ce99b15c2b9cf0799d4b457f22f6",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 51.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Present_Buble_(scapular_l)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
