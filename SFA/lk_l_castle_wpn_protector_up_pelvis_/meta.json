@@ -1,0 +1,17 @@
+{
+  "effect": "lk_l_castle_wpn_protector_up(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "923c08d062223fd52a7ecbf223c61f01",
+  "prefab": null,
+  "cover": 8.46,
+  "soft": 57.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "LK_L_Castle_wpn_protector_Up(pelvis)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 3
+}

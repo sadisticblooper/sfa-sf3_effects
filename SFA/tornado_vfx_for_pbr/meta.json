@@ -1,0 +1,17 @@
+{
+  "effect": "tornado_vfx_for_pbr",
+  "game": "sfa",
+  "sourceBundle": "91d5e2c58975b620ea7c9036721016ce",
+  "prefab": null,
+  "cover": 88.82,
+  "soft": 2.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Tornado_VFX_for_pbr",
+  "particleSystemCount": 17,
+  "materialCount": 14,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
