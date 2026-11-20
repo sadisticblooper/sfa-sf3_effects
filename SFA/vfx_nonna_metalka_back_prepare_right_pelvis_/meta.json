@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_nonna_metalka_back_prepare_right(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "76337274b4d32c125cd5441a91e9a62e",
+  "prefab": null,
+  "cover": 0.87,
+  "soft": 73.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Nonna_Metalka_Back_Prepare_Right(pelvis)",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

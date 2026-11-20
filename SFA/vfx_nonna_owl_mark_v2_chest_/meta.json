@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_nonna_owl_mark_v2(chest)",
+  "game": "sfa",
+  "sourceBundle": "76337274b4d32c125cd5441a91e9a62e",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Nonna_Owl_Mark_v2(Chest)",
+  "particleSystemCount": 9,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 1
+}
