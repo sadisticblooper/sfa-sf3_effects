@@ -1,0 +1,17 @@
+{
+  "effect": "legendary_itu_e_cosmic_glow(cloth_joint5_r)",
+  "game": "sfa",
+  "sourceBundle": "88a7b5d63f9280f77ec05e7ec7890097",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legendary_Itu_E_Cosmic_Glow(cloth_joint5_r)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

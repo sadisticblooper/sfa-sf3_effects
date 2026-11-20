@@ -1,0 +1,17 @@
+{
+  "effect": "legendary_itu_slowdown_vignette(camera)",
+  "game": "sfa",
+  "sourceBundle": "88a7b5d63f9280f77ec05e7ec7890097",
+  "prefab": null,
+  "cover": 31.7,
+  "soft": 90.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legendary_Itu_Slowdown_vignette(camera)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

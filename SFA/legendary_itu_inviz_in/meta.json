@@ -1,0 +1,17 @@
+{
+  "effect": "legendary_itu_inviz_in",
+  "game": "sfa",
+  "sourceBundle": "88a7b5d63f9280f77ec05e7ec7890097",
+  "prefab": null,
+  "cover": 55.03,
+  "soft": 63.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legendary_Itu_Inviz_In",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}

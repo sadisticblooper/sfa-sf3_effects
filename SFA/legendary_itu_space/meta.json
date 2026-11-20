@@ -1,0 +1,17 @@
+{
+  "effect": "legendary_itu_space",
+  "game": "sfa",
+  "sourceBundle": "88a7b5d63f9280f77ec05e7ec7890097",
+  "prefab": null,
+  "cover": 1.14,
+  "soft": 90.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legendary_Itu_Space",
+  "particleSystemCount": 9,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
