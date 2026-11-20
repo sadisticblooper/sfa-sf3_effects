@@ -1,0 +1,17 @@
+{
+  "effect": "rabbit_sitting4_1710",
+  "game": "sfa",
+  "sourceBundle": "9436cdbee39f98a191b17e6a6fb53762",
+  "prefab": null,
+  "cover": 0.91,
+  "soft": 87.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Rabbit_Sitting4_1710",
+  "particleSystemCount": 9,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

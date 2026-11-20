@@ -1,0 +1,17 @@
+{
+  "effect": "rabbit_1_nonpbr2",
+  "game": "sfa",
+  "sourceBundle": "9436cdbee39f98a191b17e6a6fb53762",
+  "prefab": null,
+  "cover": 8.89,
+  "soft": 81.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Rabbit_1_nonpbr2",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
