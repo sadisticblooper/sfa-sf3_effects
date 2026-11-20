@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_e_flower_preindication_enemy",
+  "game": "sfa",
+  "sourceBundle": "fe0062f5caf6d7e76409d941891fc0c7",
+  "prefab": null,
+  "cover": 2.14,
+  "soft": 70.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_E_Flower_preindication_Enemy",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 43
+}

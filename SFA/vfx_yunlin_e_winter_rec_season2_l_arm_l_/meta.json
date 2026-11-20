@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_yunlin_e_winter_rec_season2_l(arm_l)",
+  "game": "sfa",
+  "sourceBundle": "fe0062f5caf6d7e76409d941891fc0c7",
+  "prefab": null,
+  "cover": 7.53,
+  "soft": 1.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "vfx_Yunlin_E_Winter_Rec_Season2_l(arm_l)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

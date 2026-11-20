@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_manadrain_indication(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "fe0062f5caf6d7e76409d941891fc0c7",
+  "prefab": null,
+  "cover": 42.3,
+  "soft": 57.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_Manadrain_Indication(pelvis)",
+  "particleSystemCount": 10,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 6
+}

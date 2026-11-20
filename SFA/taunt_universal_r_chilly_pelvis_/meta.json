@@ -1,0 +1,17 @@
+{
+  "effect": "taunt_universal_r_chilly(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "fd8b8da553f354a8cad7c645294e140d",
+  "prefab": null,
+  "cover": 21.53,
+  "soft": 82.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "taunt_Universal_R_chilly(pelvis)",
+  "particleSystemCount": 8,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
