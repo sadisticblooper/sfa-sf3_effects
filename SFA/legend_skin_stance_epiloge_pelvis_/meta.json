@@ -1,0 +1,17 @@
+{
+  "effect": "legend_skin_stance_epiloge(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "8cc3b30ff1d5653b70f684a2e62d0a5d",
+  "prefab": null,
+  "cover": 79.89,
+  "soft": 90.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legend_skin_stance_epiloge(pelvis)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

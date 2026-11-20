@@ -1,0 +1,17 @@
+{
+  "effect": "marcus_weaponepic_idle_shadow_(w_giant_sword_01_r)",
+  "game": "sfa",
+  "sourceBundle": "7febc31f0094a5d32817852006712f46",
+  "prefab": null,
+  "cover": 1.49,
+  "soft": 68.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Marcus_WeaponEpic_Idle_shadow_(w_giant_sword_01_r)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

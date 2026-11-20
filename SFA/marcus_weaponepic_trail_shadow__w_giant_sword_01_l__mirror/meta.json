@@ -1,0 +1,17 @@
+{
+  "effect": "marcus_weaponepic_trail_shadow_(w_giant_sword_01_l)_mirror",
+  "game": "sfa",
+  "sourceBundle": "7febc31f0094a5d32817852006712f46",
+  "prefab": null,
+  "cover": 2.34,
+  "soft": 80.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Marcus_WeaponEpic_Trail_shadow_(w_giant_sword_01_l)_Mirror",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 39
+}

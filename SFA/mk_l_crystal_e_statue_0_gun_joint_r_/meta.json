@@ -1,0 +1,17 @@
+{
+  "effect": "mk_l_crystal_e_statue_0(gun_joint_r)",
+  "game": "sfa",
+  "sourceBundle": "87ad570a6624b8cb0b18fafb10aafe4e",
+  "prefab": null,
+  "cover": 1.18,
+  "soft": 1.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MK_L_Crystal_E_Statue_0(gun_joint_r)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 53
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "win_mk_l_crystal_statue_anim",
+  "game": "sfa",
+  "sourceBundle": "87ad570a6624b8cb0b18fafb10aafe4e",
+  "prefab": null,
+  "cover": 83.33,
+  "soft": 51.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "win_MK_L_Crystal_Statue_anim",
+  "particleSystemCount": 3,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 39
+}

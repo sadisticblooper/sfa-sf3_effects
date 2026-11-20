@@ -1,0 +1,17 @@
+{
+  "effect": "pve_vfx_emperrorstancehornhand_(biceps_twist_l)_62",
+  "game": "sfa",
+  "sourceBundle": "8ca07366e6dfa282614486c7cba739fd",
+  "prefab": null,
+  "cover": 65.26,
+  "soft": 88.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_VFX_EmperrorStanceHornHand_(biceps_twist_l)_62",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

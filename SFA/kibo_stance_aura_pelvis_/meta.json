@@ -1,0 +1,17 @@
+{
+  "effect": "kibo_stance_aura(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "84b482dd9b36247c33d26622caf28137",
+  "prefab": null,
+  "cover": 0.03,
+  "soft": 75.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Kibo_stance_aura(pelvis)",
+  "particleSystemCount": 12,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "kibo_l_eclipse_epic_indication",
+  "game": "sfa",
+  "sourceBundle": "845f9baddabc080a1c739fd83c56a012",
+  "prefab": null,
+  "cover": 86.88,
+  "soft": 0.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Kibo_L_Eclipse_Epic_Indication",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 24
+}
