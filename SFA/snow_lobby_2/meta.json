@@ -1,0 +1,17 @@
+{
+  "effect": "snow_lobby_2",
+  "game": "sfa",
+  "sourceBundle": "40b5464fb76e52855847ffd44f4855de",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Snow_lobby_2",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

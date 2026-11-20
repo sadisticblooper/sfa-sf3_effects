@@ -1,0 +1,17 @@
+{
+  "effect": "sakura_leafs_lobby",
+  "game": "sfa",
+  "sourceBundle": "40b5464fb76e52855847ffd44f4855de",
+  "prefab": null,
+  "cover": 0.08,
+  "soft": 97.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sakura_Leafs_Lobby",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "bulwark_e_wpn_debuff",
+  "game": "sfa",
+  "sourceBundle": "3ee7c890479792774df95940494d4334",
+  "prefab": null,
+  "cover": 7.09,
+  "soft": 91.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Bulwark_e_wpn_debuff",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

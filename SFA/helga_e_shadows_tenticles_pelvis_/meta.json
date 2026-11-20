@@ -1,0 +1,17 @@
+{
+  "effect": "helga_e_shadows_tenticles(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "416ed10f9da43e03394b0d81a15e1947",
+  "prefab": null,
+  "cover": 2.78,
+  "soft": 20.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Helga_E_Shadows_tenticles(pelvis)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 46
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "bulwark_e_wpn_crater",
+  "game": "sfa",
+  "sourceBundle": "3ee7c890479792774df95940494d4334",
+  "prefab": null,
+  "cover": 29.41,
+  "soft": 75.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Bulwark_e_wpn_crater",
+  "particleSystemCount": 24,
+  "materialCount": 19,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
