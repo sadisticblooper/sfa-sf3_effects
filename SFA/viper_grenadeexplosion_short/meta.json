@@ -1,0 +1,17 @@
+{
+  "effect": "viper_grenadeexplosion_short",
+  "game": "sfa",
+  "sourceBundle": "fdbabf645a68eae159bf55fa7c720a74",
+  "prefab": null,
+  "cover": 57.89,
+  "soft": 76.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Viper_grenadeExplosion_short",
+  "particleSystemCount": 14,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}

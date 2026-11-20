@@ -1,0 +1,17 @@
+{
+  "effect": "viper_chargeboom_snake_through_hand(arm_l)",
+  "game": "sfa",
+  "sourceBundle": "fdbabf645a68eae159bf55fa7c720a74",
+  "prefab": null,
+  "cover": 0.16,
+  "soft": 25.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Viper_Chargeboom_snake_through_hand(arm_L)",
+  "particleSystemCount": 6,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

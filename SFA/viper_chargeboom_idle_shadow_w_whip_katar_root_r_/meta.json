@@ -1,0 +1,17 @@
+{
+  "effect": "viper_chargeboom_idle_shadow(w_whip_katar_root_r)",
+  "game": "sfa",
+  "sourceBundle": "fdbabf645a68eae159bf55fa7c720a74",
+  "prefab": null,
+  "cover": 12.73,
+  "soft": 68.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Viper_Chargeboom_idle_shadow(w_whip_katar_root_R)",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

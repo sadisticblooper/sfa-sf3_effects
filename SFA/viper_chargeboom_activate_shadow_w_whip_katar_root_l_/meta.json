@@ -1,0 +1,17 @@
+{
+  "effect": "viper_chargeboom_activate_shadow(w_whip_katar_root_l)",
+  "game": "sfa",
+  "sourceBundle": "fdbabf645a68eae159bf55fa7c720a74",
+  "prefab": null,
+  "cover": 9.17,
+  "soft": 78.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Viper_Chargeboom_Activate_shadow(w_whip_katar_root_L)",
+  "particleSystemCount": 9,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
