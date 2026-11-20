@@ -1,0 +1,17 @@
+{
+  "effect": "helga_pray_hand_right",
+  "game": "sfa",
+  "sourceBundle": "e0df3eb027e4041bf7439490edc18e3c",
+  "prefab": null,
+  "cover": 41.67,
+  "soft": 30.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Helga_Pray_Hand_Right",
+  "particleSystemCount": 6,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 36
+}
