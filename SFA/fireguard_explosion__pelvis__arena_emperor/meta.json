@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_explosion_(pelvis)_arena_emperor",
+  "game": "sfa",
+  "sourceBundle": "c1eff448d03ae41f371a158e860e62e8",
+  "prefab": null,
+  "cover": 48.77,
+  "soft": 84.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_Explosion_(pelvis)_arena_Emperor",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}
