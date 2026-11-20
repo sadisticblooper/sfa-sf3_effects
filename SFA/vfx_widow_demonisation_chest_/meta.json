@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_demonisation(chest)",
+  "game": "sfa",
+  "sourceBundle": "f400b103845c43f18bac71b39650a2ee",
+  "prefab": null,
+  "cover": 34.38,
+  "soft": 95.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_Demonisation(chest)",
+  "particleSystemCount": 10,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
