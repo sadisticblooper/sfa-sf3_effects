@@ -1,0 +1,17 @@
+{
+  "effect": "hongju_winfireworks_fireworks_l_(pelvis)_88",
+  "game": "sfa",
+  "sourceBundle": "e6e672b50faab8901280338b04935a65",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HongJu_WinFireWorks_FireWorks_l_(pelvis)_88",
+  "particleSystemCount": 34,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

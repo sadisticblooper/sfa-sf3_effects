@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_feldsher_e_diver_wpn(weapon_l)",
+  "game": "sfa",
+  "sourceBundle": "ea0c1b878d521ee1ea3643c7da427d2f",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Feldsher_E_Diver_Wpn(weapon_l)",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 42
+}

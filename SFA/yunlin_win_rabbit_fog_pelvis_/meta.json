@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_win_rabbit_fog(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "e24d8296140556b5f1f2d495499216f8",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_win_Rabbit_Fog(pelvis)",
+  "particleSystemCount": 6,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 43
+}

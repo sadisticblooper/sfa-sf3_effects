@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_monk_e_pray(pelvis)_mirror",
+  "game": "sfa",
+  "sourceBundle": "ebe0e9d6d115f7648b78d376a4698ac0",
+  "prefab": null,
+  "cover": 0.21,
+  "soft": 12.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Monk_E_Pray(pelvis)_Mirror",
+  "particleSystemCount": 40,
+  "materialCount": 18,
+  "unityVersion": "6000.2.14f1",
+  "frames": 38
+}

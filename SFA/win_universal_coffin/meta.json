@@ -1,0 +1,17 @@
+{
+  "effect": "win_universal_coffin",
+  "game": "sfa",
+  "sourceBundle": "e854211080cbd26fa8ef399b75d17297",
+  "prefab": null,
+  "cover": 38.13,
+  "soft": 27.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Win_Universal_Coffin",
+  "particleSystemCount": 7,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 26
+}

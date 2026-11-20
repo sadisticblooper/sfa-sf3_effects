@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_blade(weapon_l)",
+  "game": "sfa",
+  "sourceBundle": "e137eccad9397580762f5e70824261e3",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 71.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_blade(weapon_l)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_jet_e_burglar_season_enemy_r(arm_r)",
+  "game": "sfa",
+  "sourceBundle": "e304f7402420df05024dc55e3240bc15",
+  "prefab": null,
+  "cover": 7.53,
+  "soft": 1.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Jet_E_Burglar_Season_enemy_r(arm_r)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
