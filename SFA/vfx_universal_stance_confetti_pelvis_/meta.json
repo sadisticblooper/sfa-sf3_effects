@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_universal_stance_confetti(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "0d2d5d2feff33ddedcb0547d7f18aaf2",
+  "prefab": null,
+  "cover": 0.24,
+  "soft": 56.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Universal_Stance_Confetti(pelvis)",
+  "particleSystemCount": 11,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 49
+}

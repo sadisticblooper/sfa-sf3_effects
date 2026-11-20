@@ -1,0 +1,17 @@
+{
+  "effect": "e_heart(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "0f146dedc5032225e3d562a766d0e62c",
+  "prefab": null,
+  "cover": 2.33,
+  "soft": 18.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "E_Heart(pelvis)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 27
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "kibo_win_shadowmind_mirror",
+  "game": "sfa",
+  "sourceBundle": "13c41e78cc1335627c1431dca7bba689",
+  "prefab": null,
+  "cover": 0.17,
+  "soft": 40.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Kibo_Win_ShadowMind_Mirror",
+  "particleSystemCount": 20,
+  "materialCount": 14,
+  "unityVersion": "6000.2.14f1",
+  "frames": 37
+}

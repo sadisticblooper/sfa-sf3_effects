@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_stance_roll_(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "1635005de84308cad29d033dd0b86179",
+  "prefab": null,
+  "cover": 1.36,
+  "soft": 52.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_Stance_Roll_(pelvis)",
+  "particleSystemCount": 2,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 42
+}
