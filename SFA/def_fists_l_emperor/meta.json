@@ -1,0 +1,17 @@
+{
+  "effect": "def_fists_l_emperor",
+  "game": "sfa",
+  "sourceBundle": "c1eff448d03ae41f371a158e860e62e8",
+  "prefab": null,
+  "cover": 0.49,
+  "soft": 64.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Def_fists_l_emperor",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}

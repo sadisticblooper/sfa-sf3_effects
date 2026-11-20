@@ -1,0 +1,17 @@
+{
+  "effect": "creature_fullenergyhorn_(head)",
+  "game": "sfa",
+  "sourceBundle": "c1eff448d03ae41f371a158e860e62e8",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Creature_FullEnergyHorn_(head)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

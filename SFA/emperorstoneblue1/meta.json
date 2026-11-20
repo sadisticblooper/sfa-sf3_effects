@@ -1,0 +1,17 @@
+{
+  "effect": "emperorstoneblue1",
+  "game": "sfa",
+  "sourceBundle": "c1eff448d03ae41f371a158e860e62e8",
+  "prefab": null,
+  "cover": 0.05,
+  "soft": 25.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EmperorStoneBlue1",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 44
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_win_e_overclock_soul(head)",
+  "game": "sfa",
+  "sourceBundle": "c0031e4886ae0c5611aa620585041cd1",
+  "prefab": null,
+  "cover": 20.73,
+  "soft": 65.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_Win_E_Overclock_Soul(head)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 42
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "emperor_explosion_plus",
+  "game": "sfa",
+  "sourceBundle": "c1eff448d03ae41f371a158e860e62e8",
+  "prefab": null,
+  "cover": 1.48,
+  "soft": 88.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Emperor_Explosion_Plus",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}
