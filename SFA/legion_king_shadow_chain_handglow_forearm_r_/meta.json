@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_shadow_chain_handglow(forearm_r)",
+  "game": "sfa",
+  "sourceBundle": "923c08d062223fd52a7ecbf223c61f01",
+  "prefab": null,
+  "cover": 14.82,
+  "soft": 69.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_Shadow_Chain_HandGlow(forearm_r)",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}

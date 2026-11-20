@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_vampiric_pilum",
+  "game": "sfa",
+  "sourceBundle": "923c08d062223fd52a7ecbf223c61f01",
+  "prefab": null,
+  "cover": 3.07,
+  "soft": 75.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_Vampiric_Pilum",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_dead_hands_puddle(armature)",
+  "game": "sfa",
+  "sourceBundle": "923c08d062223fd52a7ecbf223c61f01",
+  "prefab": null,
+  "cover": 0.02,
+  "soft": 52.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_dead_hands_Puddle(Armature)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}
