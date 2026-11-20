@@ -1,0 +1,17 @@
+{
+  "effect": "pve_vfx_glass_start_left",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 15.76,
+  "soft": 57.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_VFX_Glass_Start_Left",
+  "particleSystemCount": 2,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

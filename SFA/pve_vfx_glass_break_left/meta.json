@@ -1,0 +1,17 @@
+{
+  "effect": "pve_vfx_glass_break_left",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 90.45,
+  "soft": 73.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_VFX_Glass_Break_Left",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 17
+}
