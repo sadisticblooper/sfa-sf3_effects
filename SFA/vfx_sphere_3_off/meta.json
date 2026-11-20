@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_sphere_3_off",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 3.03,
+  "soft": 90.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_sphere_3_off",
+  "particleSystemCount": 11,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

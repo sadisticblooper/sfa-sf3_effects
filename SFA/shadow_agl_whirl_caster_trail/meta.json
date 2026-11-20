@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_agl_whirl_caster_trail",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 14.26,
+  "soft": 36.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_agl_whirl_caster_trail",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 31
+}

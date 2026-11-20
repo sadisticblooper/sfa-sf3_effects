@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_enemysmallexplos_purpleblue",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 14.3,
+  "soft": 80.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_enemySmallExplos_PURPLEBLUE",
+  "particleSystemCount": 9,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_sphere_2_on_enemy",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 3.49,
+  "soft": 81.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_sphere_2_on_enemy",
+  "particleSystemCount": 11,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
