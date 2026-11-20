@@ -1,0 +1,17 @@
+{
+  "effect": "lynx_stance_claws_trail(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "721c621085688a4629f8340177dba4e7",
+  "prefab": null,
+  "cover": 2.41,
+  "soft": 86.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Lynx_stance_claws_Trail(pelvis)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}

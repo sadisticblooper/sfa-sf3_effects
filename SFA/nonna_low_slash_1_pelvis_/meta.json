@@ -1,0 +1,17 @@
+{
+  "effect": "nonna_low_slash_1(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "76337274b4d32c125cd5441a91e9a62e",
+  "prefab": null,
+  "cover": 23.05,
+  "soft": 84.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Nonna_Low_slash_1(pelvis)",
+  "particleSystemCount": 12,
+  "materialCount": 13,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "marcus_upper_glitch(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "6d77fb17f11f76ea42bed42bbea8cea4",
+  "prefab": null,
+  "cover": 0.39,
+  "soft": 73.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Marcus_upper_glitch(pelvis)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

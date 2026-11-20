@@ -1,0 +1,17 @@
+{
+  "effect": "nonna_transformation_explosion",
+  "game": "sfa",
+  "sourceBundle": "76337274b4d32c125cd5441a91e9a62e",
+  "prefab": null,
+  "cover": 39.6,
+  "soft": 63.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Nonna_Transformation_Explosion",
+  "particleSystemCount": 12,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 24
+}

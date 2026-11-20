@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_twohanded_hammer_slash_downhit",
+  "game": "sfa",
+  "sourceBundle": "76337274b4d32c125cd5441a91e9a62e",
+  "prefab": null,
+  "cover": 7.46,
+  "soft": 31.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Shadow_twohanded_hammer_slash_DownHit",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

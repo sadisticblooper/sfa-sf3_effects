@@ -1,0 +1,17 @@
+{
+  "effect": "marcusglich_idle_arena",
+  "game": "sfa",
+  "sourceBundle": "6d77fb17f11f76ea42bed42bbea8cea4",
+  "prefab": null,
+  "cover": 0.36,
+  "soft": 90.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MarcusGlich_idle_arena",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

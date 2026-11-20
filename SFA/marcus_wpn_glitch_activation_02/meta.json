@@ -1,0 +1,17 @@
+{
+  "effect": "marcus_wpn_glitch_activation_02",
+  "game": "sfa",
+  "sourceBundle": "6d77fb17f11f76ea42bed42bbea8cea4",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 15.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Marcus_wpn_Glitch_Activation_02",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 2
+}

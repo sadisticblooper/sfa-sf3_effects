@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_fireguard_e_slicing_explosion(pelvis_235)",
+  "game": "sfa",
+  "sourceBundle": "725e3c3860269c010a1aa5520b5b4873",
+  "prefab": null,
+  "cover": 27.47,
+  "soft": 65.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "vfx_Fireguard_E_slicing_explosion(pelvis_235)",
+  "particleSystemCount": 15,
+  "materialCount": 13,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}
