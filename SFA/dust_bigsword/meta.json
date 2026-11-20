@@ -1,0 +1,17 @@
+{
+  "effect": "dust_bigsword",
+  "game": "sfa",
+  "sourceBundle": "d53f3c3e2a913c5206543eb3cbd7ea56",
+  "prefab": null,
+  "cover": 33.75,
+  "soft": 17.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Dust_BigSword",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

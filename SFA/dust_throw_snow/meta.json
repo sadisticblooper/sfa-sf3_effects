@@ -1,0 +1,17 @@
+{
+  "effect": "dust_throw_snow",
+  "game": "sfa",
+  "sourceBundle": "d53f3c3e2a913c5206543eb3cbd7ea56",
+  "prefab": null,
+  "cover": 31.5,
+  "soft": 11.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Dust_Throw_Snow",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}

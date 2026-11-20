@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_epic_golden_red_hit",
+  "game": "sfa",
+  "sourceBundle": "cc70aaff5538c1667be9882849e15dff",
+  "prefab": null,
+  "cover": 7.28,
+  "soft": 80.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_Epic_Golden_Red_Hit",
+  "particleSystemCount": 14,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

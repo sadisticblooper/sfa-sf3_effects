@@ -1,0 +1,17 @@
+{
+  "effect": "june_stance_e_planet_slash(armature)",
+  "game": "sfa",
+  "sourceBundle": "cf0c9d97dbab985ee8583680955f28f3",
+  "prefab": null,
+  "cover": 1.51,
+  "soft": 37.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "June_stance_E_planet_Slash(Armature)",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 5
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "monk_e_druid_active_buff(weapon_r)",
+  "game": "sfa",
+  "sourceBundle": "d306aca8e1b226ff9c0cfd3aaf9b8818",
+  "prefab": null,
+  "cover": 7.36,
+  "soft": 59.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_E_Druid_Active_Buff(weapon_r)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "jet_stance_e_walljump(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "cf9d72e1e87708d511e29e60f846c4fd",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Jet_Stance_E_walljump(pelvis)",
+  "particleSystemCount": 30,
+  "materialCount": 14,
+  "unityVersion": "6000.2.14f1",
+  "frames": 37
+}

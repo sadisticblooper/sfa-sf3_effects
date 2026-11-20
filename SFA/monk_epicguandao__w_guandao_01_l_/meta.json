@@ -1,0 +1,17 @@
+{
+  "effect": "monk_epicguandao_(w_guandao_01_l)",
+  "game": "sfa",
+  "sourceBundle": "d306aca8e1b226ff9c0cfd3aaf9b8818",
+  "prefab": null,
+  "cover": 0.26,
+  "soft": 84.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_EpicGuandao_(w_guandao_01_l)",
+  "particleSystemCount": 8,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_lynx_win_l_portal_smoke_out(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "d5407fa5d9eddc9f075f9cd9e98aea74",
+  "prefab": null,
+  "cover": 16.66,
+  "soft": 38.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Lynx_Win_L_Portal_Smoke_Out(pelvis)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}

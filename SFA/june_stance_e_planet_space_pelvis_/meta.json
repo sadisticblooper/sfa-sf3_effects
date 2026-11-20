@@ -1,0 +1,17 @@
+{
+  "effect": "june_stance_e_planet_space(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "cf0c9d97dbab985ee8583680955f28f3",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 45.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "June_stance_E_planet_Space(pelvis)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

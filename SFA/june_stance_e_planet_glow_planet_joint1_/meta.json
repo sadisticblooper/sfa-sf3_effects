@@ -1,0 +1,17 @@
+{
+  "effect": "june_stance_e_planet_glow(planet_joint1)",
+  "game": "sfa",
+  "sourceBundle": "cf0c9d97dbab985ee8583680955f28f3",
+  "prefab": null,
+  "cover": 3.57,
+  "soft": 84.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "June_stance_E_planet_Glow(planet_joint1)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

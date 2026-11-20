@@ -1,0 +1,17 @@
+{
+  "effect": "dust_jump",
+  "game": "sfa",
+  "sourceBundle": "d53f3c3e2a913c5206543eb3cbd7ea56",
+  "prefab": null,
+  "cover": 7.1,
+  "soft": 84.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Dust_Jump",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 26
+}

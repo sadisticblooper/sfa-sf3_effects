@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_epic_golden_red_staff_spark_default(w_staff_04_l_flutee_3)",
+  "game": "sfa",
+  "sourceBundle": "cc70aaff5538c1667be9882849e15dff",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_Epic_Golden_Red_Staff_Spark_default(w_staff_04_l_fluteE_3)",
+  "particleSystemCount": 4,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 52
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "dust_jump_snow",
+  "game": "sfa",
+  "sourceBundle": "d53f3c3e2a913c5206543eb3cbd7ea56",
+  "prefab": null,
+  "cover": 1.9,
+  "soft": 74.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Dust_Jump_Snow",
+  "particleSystemCount": 4,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 25
+}
