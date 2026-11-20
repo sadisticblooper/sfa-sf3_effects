@@ -1,0 +1,17 @@
+{
+  "effect": "legendary_itu_draft(f_pointer1_r)",
+  "game": "sfa",
+  "sourceBundle": "88a7b5d63f9280f77ec05e7ec7890097",
+  "prefab": null,
+  "cover": 35.81,
+  "soft": 85.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legendary_Itu_Draft(f_pointer1_r)",
+  "particleSystemCount": 2,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

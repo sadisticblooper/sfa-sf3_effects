@@ -1,0 +1,17 @@
+{
+  "effect": "itu_slowmotion_eyes(head)",
+  "game": "sfa",
+  "sourceBundle": "88a7b5d63f9280f77ec05e7ec7890097",
+  "prefab": null,
+  "cover": 54.55,
+  "soft": 82.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Itu_Slowmotion_Eyes(head)",
+  "particleSystemCount": 20,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
