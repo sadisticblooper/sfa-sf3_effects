@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_fireguard_e_porcelain_rec_season_enemy(head)",
+  "game": "sfa",
+  "sourceBundle": "df85927d0f83b62cd3c634504d544cc7",
+  "prefab": null,
+  "cover": 100.0,
+  "soft": 50.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Fireguard_E_Porcelain_Rec_Season_enemy(head)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
