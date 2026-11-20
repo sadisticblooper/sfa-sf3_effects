@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_stance_allsmoke_mirror",
+  "game": "sfa",
+  "sourceBundle": "ed357008e04ad3bd399143062bf2fe4c",
+  "prefab": null,
+  "cover": 0.2,
+  "soft": 59.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_Stance_AllSmoke_Mirror",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 53
+}

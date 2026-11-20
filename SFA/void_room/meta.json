@@ -1,0 +1,17 @@
+{
+  "effect": "void_room",
+  "game": "sfa",
+  "sourceBundle": "eca165d11dd5c4a2e72425c9c3012dbb",
+  "prefab": null,
+  "cover": 0.15,
+  "soft": 96.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "void_room",
+  "particleSystemCount": 1,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

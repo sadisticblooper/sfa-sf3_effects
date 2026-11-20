@@ -1,0 +1,17 @@
+{
+  "effect": "win_monkeyking_e_cloud",
+  "game": "sfa",
+  "sourceBundle": "eabc52dd091f5023d95cb5b5d0d39d08",
+  "prefab": null,
+  "cover": 4.57,
+  "soft": 55.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "win_MonkeyKing_E_Cloud",
+  "particleSystemCount": 10,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 52
+}

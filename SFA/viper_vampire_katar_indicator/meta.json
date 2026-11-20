@@ -1,0 +1,17 @@
+{
+  "effect": "viper_vampire_katar_indicator",
+  "game": "sfa",
+  "sourceBundle": "e99a2df9dc7efff77a5069640fd8b79e",
+  "prefab": null,
+  "cover": 2.09,
+  "soft": 56.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Viper_Vampire_Katar_Indicator",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}
