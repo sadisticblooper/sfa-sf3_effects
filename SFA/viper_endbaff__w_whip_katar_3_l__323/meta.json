@@ -1,0 +1,17 @@
+{
+  "effect": "viper_endbaff_(w_whip_katar_3_l)_323",
+  "game": "sfa",
+  "sourceBundle": "fdbabf645a68eae159bf55fa7c720a74",
+  "prefab": null,
+  "cover": 1.06,
+  "soft": 51.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Viper_EndBaff_(w_whip_katar_3_l)_323",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 7
+}

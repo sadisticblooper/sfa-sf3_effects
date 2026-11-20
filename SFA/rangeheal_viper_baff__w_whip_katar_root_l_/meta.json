@@ -1,0 +1,17 @@
+{
+  "effect": "rangeheal_viper_baff_(w_whip_katar_root_l)",
+  "game": "sfa",
+  "sourceBundle": "fdbabf645a68eae159bf55fa7c720a74",
+  "prefab": null,
+  "cover": 13.18,
+  "soft": 81.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "RangeHeal_Viper_Baff_(w_whip_katar_root_l)",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}
