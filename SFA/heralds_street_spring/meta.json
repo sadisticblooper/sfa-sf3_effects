@@ -1,0 +1,17 @@
+{
+  "effect": "heralds_street_spring",
+  "game": "sfa",
+  "sourceBundle": "f698a9652722bf8a564fb5e28f8bd5da",
+  "prefab": null,
+  "cover": 5.91,
+  "soft": 83.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "heralds_street_spring",
+  "particleSystemCount": 15,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

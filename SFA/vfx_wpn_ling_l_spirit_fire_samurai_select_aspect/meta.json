@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_wpn_ling_l_spirit_fire_samurai_select_aspect",
+  "game": "sfa",
+  "sourceBundle": "f54070a23d2a450c81319baff70ad213",
+  "prefab": null,
+  "cover": 33.33,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Wpn_Ling_L_Spirit_Fire_Samurai_Select_Aspect",
+  "particleSystemCount": 12,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 4
+}
