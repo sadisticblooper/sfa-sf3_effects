@@ -1,0 +1,17 @@
+{
+  "effect": "pve_soul_idle",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 56.97,
+  "soft": 77.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_Soul_Idle",
+  "particleSystemCount": 10,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}
