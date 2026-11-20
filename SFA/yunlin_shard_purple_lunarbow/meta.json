@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_shard_purple_lunarbow",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 19.69,
+  "soft": 85.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_shard_PURPLE_lunarBow",
+  "particleSystemCount": 9,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
