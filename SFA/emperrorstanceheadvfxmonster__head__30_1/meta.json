@@ -1,0 +1,17 @@
+{
+  "effect": "emperrorstanceheadvfxmonster_(head)_30_1",
+  "game": "sfa",
+  "sourceBundle": "8014d241314e004798a314737edb8bee",
+  "prefab": null,
+  "cover": 10.31,
+  "soft": 51.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EmperrorStanceHeadVfxMonster_(head)_30_1",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 50
+}
