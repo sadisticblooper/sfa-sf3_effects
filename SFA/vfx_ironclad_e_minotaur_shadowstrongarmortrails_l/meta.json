@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_ironclad_e_minotaur_shadowstrongarmortrails_l",
+  "game": "sfa",
+  "sourceBundle": "749b5cfd52ab935374bffa4bc671cc3f",
+  "prefab": null,
+  "cover": 12.78,
+  "soft": 79.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Ironclad_E_Minotaur_shadowStrongArmorTrails_L",
+  "particleSystemCount": 30,
+  "materialCount": 24,
+  "unityVersion": "6000.2.14f1",
+  "frames": 52
+}
