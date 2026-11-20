@@ -1,0 +1,17 @@
+{
+  "effect": "sunstrike_ray",
+  "game": "sfa",
+  "sourceBundle": "8e594082488bd16136d592385138fd5d",
+  "prefab": null,
+  "cover": 19.92,
+  "soft": 85.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sunstrike_Ray",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

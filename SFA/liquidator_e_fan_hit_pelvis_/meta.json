@@ -1,0 +1,17 @@
+{
+  "effect": "liquidator_e_fan_hit(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "8d8796b9829b664989349c5b2c3b0f2c",
+  "prefab": null,
+  "cover": 1.57,
+  "soft": 34.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liquidator_E_fan_Hit(pelvis)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
