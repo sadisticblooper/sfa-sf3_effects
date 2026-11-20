@@ -1,0 +1,17 @@
+{
+  "effect": "viper_smokepoison",
+  "game": "sfa",
+  "sourceBundle": "fdbabf645a68eae159bf55fa7c720a74",
+  "prefab": null,
+  "cover": 29.69,
+  "soft": 67.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Viper_smokePoison",
+  "particleSystemCount": 7,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}
