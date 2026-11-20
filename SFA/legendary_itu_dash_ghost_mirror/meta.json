@@ -1,0 +1,17 @@
+{
+  "effect": "legendary_itu_dash_ghost_mirror",
+  "game": "sfa",
+  "sourceBundle": "88a7b5d63f9280f77ec05e7ec7890097",
+  "prefab": null,
+  "cover": 40.82,
+  "soft": 0.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legendary_Itu_Dash_Ghost_Mirror",
+  "particleSystemCount": 15,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

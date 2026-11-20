@@ -1,0 +1,17 @@
+{
+  "effect": "legendary_itu_e_portal_cut(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "88a7b5d63f9280f77ec05e7ec7890097",
+  "prefab": null,
+  "cover": 3.21,
+  "soft": 62.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legendary_Itu_E_portal_cut(Pelvis)",
+  "particleSystemCount": 20,
+  "materialCount": 18,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}

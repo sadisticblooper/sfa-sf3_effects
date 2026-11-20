@@ -1,0 +1,17 @@
+{
+  "effect": "legendary_itu_dash_cuts_2",
+  "game": "sfa",
+  "sourceBundle": "88a7b5d63f9280f77ec05e7ec7890097",
+  "prefab": null,
+  "cover": 28.8,
+  "soft": 73.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legendary_Itu_Dash_Cuts_2",
+  "particleSystemCount": 33,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
