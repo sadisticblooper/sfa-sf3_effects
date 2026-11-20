@@ -1,0 +1,17 @@
+{
+  "effect": "redeyes(r_eye)_ling",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 22.14,
+  "soft": 97.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "RedEyes(r_eye)_Ling",
+  "particleSystemCount": 8,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

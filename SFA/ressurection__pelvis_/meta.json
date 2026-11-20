@@ -1,0 +1,17 @@
+{
+  "effect": "ressurection_(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 59.26,
+  "soft": 86.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Ressurection_(pelvis)",
+  "particleSystemCount": 14,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 30
+}
