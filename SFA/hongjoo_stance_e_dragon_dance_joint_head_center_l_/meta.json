@@ -1,0 +1,17 @@
+{
+  "effect": "hongjoo_stance_e_dragon_dance(joint_head_center_l)",
+  "game": "sfa",
+  "sourceBundle": "cbc61edfe2216a46d4534c06d749e844",
+  "prefab": null,
+  "cover": 22.88,
+  "soft": 75.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HongJoo_Stance_E_Dragon_Dance(joint_Head_center_l)",
+  "particleSystemCount": 11,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "glass_fragment_idle",
+  "game": "sfa",
+  "sourceBundle": "c97e379c107ebf1793d30bd22dff2611",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 55.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Glass_fragment_Idle",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 52
+}

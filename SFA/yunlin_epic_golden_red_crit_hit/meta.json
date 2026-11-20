@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_epic_golden_red_crit_hit",
+  "game": "sfa",
+  "sourceBundle": "cc70aaff5538c1667be9882849e15dff",
+  "prefab": null,
+  "cover": 31.71,
+  "soft": 70.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_Epic_Golden_Red_Crit_Hit",
+  "particleSystemCount": 14,
+  "materialCount": 14,
+  "unityVersion": "6000.2.14f1",
+  "frames": 22
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "decay_sf",
+  "game": "sfa",
+  "sourceBundle": "c97e379c107ebf1793d30bd22dff2611",
+  "prefab": null,
+  "cover": 0.02,
+  "soft": 88.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "decay_sf",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "hongjooearthquake",
+  "game": "sfa",
+  "sourceBundle": "cbc61edfe2216a46d4534c06d749e844",
+  "prefab": null,
+  "cover": 0.73,
+  "soft": 87.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HongJooEarthquake",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 32
+}

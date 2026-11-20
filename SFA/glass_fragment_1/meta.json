@@ -1,0 +1,17 @@
+{
+  "effect": "glass_fragment_1",
+  "game": "sfa",
+  "sourceBundle": "c97e379c107ebf1793d30bd22dff2611",
+  "prefab": null,
+  "cover": 0.02,
+  "soft": 87.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Glass_fragment_1",
+  "particleSystemCount": 17,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

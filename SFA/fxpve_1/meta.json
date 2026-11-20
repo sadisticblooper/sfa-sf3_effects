@@ -1,0 +1,17 @@
+{
+  "effect": "fxpve_1",
+  "game": "sfa",
+  "sourceBundle": "c97e379c107ebf1793d30bd22dff2611",
+  "prefab": null,
+  "cover": 0.09,
+  "soft": 40.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "FXPVE_1",
+  "particleSystemCount": 38,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
