@@ -1,0 +1,17 @@
+{
+  "effect": "healeffect_valentine_idle_(chest)",
+  "game": "sfa",
+  "sourceBundle": "f17635b978f7dac9bdb94baa3f6629ee",
+  "prefab": null,
+  "cover": 51.35,
+  "soft": 72.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HealEffect_valentine_Idle_(chest)",
+  "particleSystemCount": 8,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

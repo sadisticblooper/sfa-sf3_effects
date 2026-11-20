@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_stance_headsmoke(neck)_mirror",
+  "game": "sfa",
+  "sourceBundle": "ed357008e04ad3bd399143062bf2fe4c",
+  "prefab": null,
+  "cover": 13.0,
+  "soft": 32.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_Stance_HeadSmoke(neck)_Mirror",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 51
+}
