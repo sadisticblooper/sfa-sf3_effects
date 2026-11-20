@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_shadow_delay",
+  "game": "sfa",
+  "sourceBundle": "fb747e1eaaf5fad0b482fd8e83231625",
+  "prefab": null,
+  "cover": 9.28,
+  "soft": 69.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_Shadow_Delay",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 22
+}

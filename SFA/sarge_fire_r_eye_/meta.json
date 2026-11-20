@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_fire(r_eye)",
+  "game": "sfa",
+  "sourceBundle": "fb747e1eaaf5fad0b482fd8e83231625",
+  "prefab": null,
+  "cover": 26.78,
+  "soft": 95.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_Fire(r_eye)",
+  "particleSystemCount": 8,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

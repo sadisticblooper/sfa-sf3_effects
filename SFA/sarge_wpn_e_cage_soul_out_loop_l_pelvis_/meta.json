@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_wpn_e_cage_soul_out_loop_l(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "fb747e1eaaf5fad0b482fd8e83231625",
+  "prefab": null,
+  "cover": 18.59,
+  "soft": 82.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_Wpn_E_Cage_Soul_Out_Loop_L(pelvis)",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

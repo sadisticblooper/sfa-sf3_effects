@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_wpn_e_cage_soul_in_loop(w_hammer_trail1_l)",
+  "game": "sfa",
+  "sourceBundle": "fb747e1eaaf5fad0b482fd8e83231625",
+  "prefab": null,
+  "cover": 44.08,
+  "soft": 84.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_Wpn_E_Cage_Soul_In_Loop(w_hammer_trail1_l)",
+  "particleSystemCount": 11,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
