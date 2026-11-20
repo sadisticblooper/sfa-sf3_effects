@@ -1,0 +1,17 @@
+{
+  "effect": "blackmarket_bleeding_r",
+  "game": "sfa",
+  "sourceBundle": "487fa1b5c2f737831231a0f89df02d8b",
+  "prefab": null,
+  "cover": 18.96,
+  "soft": 86.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "BlackMarket_Bleeding_R",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

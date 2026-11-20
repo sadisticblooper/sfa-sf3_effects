@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_e_fiery_hit",
+  "game": "sfa",
+  "sourceBundle": "4b00c37dd0a682252ae919b5e93dde47",
+  "prefab": null,
+  "cover": 10.28,
+  "soft": 49.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_E_Fiery_Hit",
+  "particleSystemCount": 10,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

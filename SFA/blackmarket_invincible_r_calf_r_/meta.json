@@ -1,0 +1,17 @@
+{
+  "effect": "blackmarket_invincible_r(calf_r)",
+  "game": "sfa",
+  "sourceBundle": "487fa1b5c2f737831231a0f89df02d8b",
+  "prefab": null,
+  "cover": 14.66,
+  "soft": 5.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "BlackMarket_Invincible_R(calf_r)",
+  "particleSystemCount": 9,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

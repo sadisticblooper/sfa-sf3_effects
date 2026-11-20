@@ -1,0 +1,17 @@
+{
+  "effect": "butcher_r_sharp_knives_spark(w_axe_02_r)",
+  "game": "sfa",
+  "sourceBundle": "482eb09a274b76200b445ed186870aea",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Butcher_R_sharp_knives_spark(w_axe_02_r)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

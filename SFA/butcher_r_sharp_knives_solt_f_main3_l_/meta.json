@@ -1,0 +1,17 @@
+{
+  "effect": "butcher_r_sharp_knives_solt(f_main3_l)",
+  "game": "sfa",
+  "sourceBundle": "482eb09a274b76200b445ed186870aea",
+  "prefab": null,
+  "cover": 12.41,
+  "soft": 64.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Butcher_R_sharp_knives_Solt(f_main3_l)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 52
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_e_fiery_wpn_2(weapon_l)",
+  "game": "sfa",
+  "sourceBundle": "4b00c37dd0a682252ae919b5e93dde47",
+  "prefab": null,
+  "cover": 1.6,
+  "soft": 83.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_E_Fiery_Wpn_2(weapon_l)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}
