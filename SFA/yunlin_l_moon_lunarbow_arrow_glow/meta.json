@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_l_moon_lunarbow_arrow_glow",
+  "game": "sfa",
+  "sourceBundle": "990b21a9c1f4ddce2de21b8730edefd1",
+  "prefab": null,
+  "cover": 82.23,
+  "soft": 86.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_L_Moon_Lunarbow_Arrow_Glow",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}
