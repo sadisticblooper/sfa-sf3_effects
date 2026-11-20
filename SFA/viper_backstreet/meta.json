@@ -1,0 +1,17 @@
+{
+  "effect": "viper_backstreet",
+  "game": "sfa",
+  "sourceBundle": "72a1eeb4d9853d9ee7dd3c42373ac06a",
+  "prefab": null,
+  "cover": 10.66,
+  "soft": 46.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "viper_backstreet",
+  "particleSystemCount": 15,
+  "materialCount": 23,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
