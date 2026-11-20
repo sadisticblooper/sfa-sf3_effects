@@ -1,0 +1,17 @@
+{
+  "effect": "pve_liquidator_taunt_w_dual_swords_02_r",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 3.55,
+  "soft": 71.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_Liquidator_Taunt_w_dual_swords_02_r",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}
