@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_e_porcelain_rec_star(head)",
+  "game": "sfa",
+  "sourceBundle": "79297b5402f61f0a63dd77bdc069a8fc",
+  "prefab": null,
+  "cover": 100.0,
+  "soft": 48.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_E_Porcelain_Rec_Star(head)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
