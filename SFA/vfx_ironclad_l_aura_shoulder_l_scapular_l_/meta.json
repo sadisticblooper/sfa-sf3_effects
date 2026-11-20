@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_ironclad_l_aura_shoulder_l(scapular_l)",
+  "game": "sfa",
+  "sourceBundle": "749b5cfd52ab935374bffa4bc671cc3f",
+  "prefab": null,
+  "cover": 11.21,
+  "soft": 73.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Ironclad_L_Aura_Shoulder_L(scapular_l)",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
