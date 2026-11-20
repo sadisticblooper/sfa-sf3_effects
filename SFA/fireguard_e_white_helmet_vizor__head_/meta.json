@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_e_white_helmet_vizor_(head)",
+  "game": "sfa",
+  "sourceBundle": "dc4cac227a138b8f981b04eae056839e",
+  "prefab": null,
+  "cover": 6.25,
+  "soft": 91.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_E_White_helmet_vizor_(head)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "epic_buff_ray",
+  "game": "sfa",
+  "sourceBundle": "de481a7552de0414fb3a23601b3e732e",
+  "prefab": null,
+  "cover": 9.75,
+  "soft": 72.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "epic_buff_ray",
+  "particleSystemCount": 13,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}
