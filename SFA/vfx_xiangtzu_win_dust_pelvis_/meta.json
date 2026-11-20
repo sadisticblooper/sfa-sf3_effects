@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_xiangtzu_win_dust(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "08c4859e0f04bddcc217e210e2d273eb",
+  "prefab": null,
+  "cover": 17.49,
+  "soft": 84.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_XiangTzu_Win_Dust(pelvis)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 26
+}

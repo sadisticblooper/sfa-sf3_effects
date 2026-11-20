@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_stun_ray_preindication",
+  "game": "sfa",
+  "sourceBundle": "fe0062f5caf6d7e76409d941891fc0c7",
+  "prefab": null,
+  "cover": 1.94,
+  "soft": 4.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_Stun_Ray_Preindication",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}

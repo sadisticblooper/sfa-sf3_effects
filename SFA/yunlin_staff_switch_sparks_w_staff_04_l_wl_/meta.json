@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_staff_switch_sparks(w_staff_04_l_wl)",
+  "game": "sfa",
+  "sourceBundle": "fe0062f5caf6d7e76409d941891fc0c7",
+  "prefab": null,
+  "cover": 0.3,
+  "soft": 73.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_Staff_Switch_Sparks(w_staff_04_l_wl)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 31
+}

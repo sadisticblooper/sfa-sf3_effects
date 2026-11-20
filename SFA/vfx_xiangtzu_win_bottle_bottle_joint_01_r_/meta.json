@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_xiangtzu_win_bottle(bottle_joint_01_r)",
+  "game": "sfa",
+  "sourceBundle": "08c4859e0f04bddcc217e210e2d273eb",
+  "prefab": null,
+  "cover": 10.12,
+  "soft": 68.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_XiangTzu_Win_Bottle(bottle_joint_01_r)",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}
