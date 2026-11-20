@@ -1,0 +1,17 @@
+{
+  "effect": "pve_marcus_hitshield_r",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 16.75,
+  "soft": 85.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_Marcus_HitShield_r",
+  "particleSystemCount": 11,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}
