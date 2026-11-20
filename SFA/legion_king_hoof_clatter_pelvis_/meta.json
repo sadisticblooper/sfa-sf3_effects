@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_hoof_clatter(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "aab6c552093674489ef5d8a93770dd5e",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 13.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_Hoof_Clatter(pelvis)",
+  "particleSystemCount": 42,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 48
+}

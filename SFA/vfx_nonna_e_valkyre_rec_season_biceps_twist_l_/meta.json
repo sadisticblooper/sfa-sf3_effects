@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_nonna_e_valkyre_rec_season(biceps_twist_l)",
+  "game": "sfa",
+  "sourceBundle": "adbe6bfcc9444159fc6e2076703cb3cd",
+  "prefab": null,
+  "cover": 7.53,
+  "soft": 1.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "vfx_Nonna_E_Valkyre_Rec_Season(biceps_twist_l)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_stance_yunlin_e_bush_02(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "abf4ba4671619e7f29e91b3fa919357e",
+  "prefab": null,
+  "cover": 2.16,
+  "soft": 31.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Stance_Yunlin_E_Bush_02(Pelvis)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}

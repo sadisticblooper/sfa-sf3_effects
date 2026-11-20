@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_hoof_eyes(horse_head)",
+  "game": "sfa",
+  "sourceBundle": "aab6c552093674489ef5d8a93770dd5e",
+  "prefab": null,
+  "cover": 4.14,
+  "soft": 85.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_Hoof_Eyes(horse_head)",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}

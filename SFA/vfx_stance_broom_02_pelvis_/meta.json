@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_stance_broom_02(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "aa21abc9da5ea66cf8a72ec0f49c9d3f",
+  "prefab": null,
+  "cover": 15.39,
+  "soft": 75.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Stance_Broom_02(pelvis)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

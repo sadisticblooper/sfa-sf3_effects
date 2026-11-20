@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_raikichi_e_burned_bottle_stencil_1(chest)",
+  "game": "sfa",
+  "sourceBundle": "a30ad984951e18d77a224ccd5397bc3b",
+  "prefab": null,
+  "cover": 25.55,
+  "soft": 0.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Raikichi_E_Burned_Bottle_Stencil_1(chest)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

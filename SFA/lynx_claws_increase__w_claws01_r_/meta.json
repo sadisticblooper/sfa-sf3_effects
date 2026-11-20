@@ -1,0 +1,17 @@
+{
+  "effect": "lynx_claws_increase_(w_claws01_r)",
+  "game": "sfa",
+  "sourceBundle": "af05525318c29746779b7c182b30e59f_1",
+  "prefab": null,
+  "cover": 0.13,
+  "soft": 30.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Lynx_Claws_Increase_(w_claws01_r)",
+  "particleSystemCount": 11,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 6
+}
