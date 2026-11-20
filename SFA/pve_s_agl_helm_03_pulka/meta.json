@@ -1,0 +1,17 @@
+{
+  "effect": "pve_s_agl_helm_03_pulka",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 49.77,
+  "soft": 27.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_s_agl_helm_03_pulka",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

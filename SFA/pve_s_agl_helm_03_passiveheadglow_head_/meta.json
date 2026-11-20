@@ -1,0 +1,17 @@
+{
+  "effect": "pve_s_agl_helm_03_passiveheadglow(head)",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 0.4,
+  "soft": 77.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_s_agl_helm_03_passiveHeadGlow(head)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}
