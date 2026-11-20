@@ -1,0 +1,17 @@
+{
+  "effect": "fireleg_toe_r",
+  "game": "sfa",
+  "sourceBundle": "9395522d835fd5b470e790ecfedc4679",
+  "prefab": null,
+  "cover": 9.14,
+  "soft": 82.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "FireLeg_toe_r",
+  "particleSystemCount": 9,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

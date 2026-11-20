@@ -1,0 +1,17 @@
+{
+  "effect": "wpnpufferattacktrail_r",
+  "game": "sfa",
+  "sourceBundle": "9395522d835fd5b470e790ecfedc4679",
+  "prefab": null,
+  "cover": 22.05,
+  "soft": 50.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "wpnPufferAttackTrail_r",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

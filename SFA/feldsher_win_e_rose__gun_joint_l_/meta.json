@@ -1,0 +1,17 @@
+{
+  "effect": "feldsher_win_e_rose_(gun_joint_l)",
+  "game": "sfa",
+  "sourceBundle": "9a2169c4bab6f9a3cf03351c5fb50e61",
+  "prefab": null,
+  "cover": 100.0,
+  "soft": 56.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Feldsher_Win_E_Rose_(gun_joint_l)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

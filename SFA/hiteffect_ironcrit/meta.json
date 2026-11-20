@@ -1,0 +1,17 @@
+{
+  "effect": "hiteffect_ironcrit",
+  "game": "sfa",
+  "sourceBundle": "9395522d835fd5b470e790ecfedc4679",
+  "prefab": null,
+  "cover": 51.34,
+  "soft": 0.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HitEffect_IronCrit",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}
