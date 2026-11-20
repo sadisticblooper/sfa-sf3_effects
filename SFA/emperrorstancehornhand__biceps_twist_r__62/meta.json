@@ -1,0 +1,17 @@
+{
+  "effect": "emperrorstancehornhand_(biceps_twist_r)_62",
+  "game": "sfa",
+  "sourceBundle": "8014d241314e004798a314737edb8bee",
+  "prefab": null,
+  "cover": 78.94,
+  "soft": 89.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EmperrorStanceHornHand_(biceps_twist_r)_62",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
