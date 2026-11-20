@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_l_moon_teleport_out",
+  "game": "sfa",
+  "sourceBundle": "990b21a9c1f4ddce2de21b8730edefd1",
+  "prefab": null,
+  "cover": 57.04,
+  "soft": 17.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_L_Moon_Teleport_Out",
+  "particleSystemCount": 10,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_l_moon_stun_hypnosis(head_1)",
+  "game": "sfa",
+  "sourceBundle": "990b21a9c1f4ddce2de21b8730edefd1",
+  "prefab": null,
+  "cover": 12.07,
+  "soft": 84.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_L_Moon_Stun_Hypnosis(head_1)",
+  "particleSystemCount": 7,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}

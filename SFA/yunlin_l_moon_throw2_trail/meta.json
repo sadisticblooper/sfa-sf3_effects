@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_l_moon_throw2_trail",
+  "game": "sfa",
+  "sourceBundle": "990b21a9c1f4ddce2de21b8730edefd1",
+  "prefab": null,
+  "cover": 0.09,
+  "soft": 83.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_L_Moon_Throw2_Trail",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 28
+}

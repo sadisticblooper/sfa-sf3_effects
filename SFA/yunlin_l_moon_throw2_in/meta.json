@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_l_moon_throw2_in",
+  "game": "sfa",
+  "sourceBundle": "990b21a9c1f4ddce2de21b8730edefd1",
+  "prefab": null,
+  "cover": 53.95,
+  "soft": 18.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_L_Moon_Throw2_In",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}

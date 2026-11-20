@@ -1,0 +1,17 @@
+{
+  "effect": "midnight_sai_vortexidle_r(weapon_r)",
+  "game": "sfa",
+  "sourceBundle": "9ec8b2e22d700b3de7b64d39761845d8",
+  "prefab": null,
+  "cover": 92.37,
+  "soft": 100.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Midnight_sai_vortexIdle_R(weapon_r)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

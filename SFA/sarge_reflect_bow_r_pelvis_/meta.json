@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_reflect_bow_r(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "9e0cf6243b9a789d9a3d69e2898ab90a",
+  "prefab": null,
+  "cover": 0.64,
+  "soft": 76.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_reflect_Bow_R(pelvis)",
+  "particleSystemCount": 165,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

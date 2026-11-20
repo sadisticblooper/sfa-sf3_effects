@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_l_moon_staff_glow(w_staff_03_l_wr)",
+  "game": "sfa",
+  "sourceBundle": "990b21a9c1f4ddce2de21b8730edefd1",
+  "prefab": null,
+  "cover": 6.06,
+  "soft": 94.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_L_Moon_Staff_Glow(w_staff_03_l_wr)",
+  "particleSystemCount": 7,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

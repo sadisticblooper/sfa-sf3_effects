@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_raikichi_e_burned_rec_season_enemy(biceps_twist_r)",
+  "game": "sfa",
+  "sourceBundle": "9e7c2a279c3f5a72c083ae1ec3dedf82",
+  "prefab": null,
+  "cover": 7.9,
+  "soft": 1.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Raikichi_E_Burned_Rec_Season_Enemy(biceps_twist_r)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
