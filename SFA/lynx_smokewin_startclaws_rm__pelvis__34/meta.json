@@ -1,0 +1,17 @@
+{
+  "effect": "lynx_smokewin_startclaws_rm_(pelvis)_34",
+  "game": "sfa",
+  "sourceBundle": "978e80644ca07e436ac1b89db44cdc34",
+  "prefab": null,
+  "cover": 8.57,
+  "soft": 72.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Lynx_SmokeWin_StartClaws_rm_(pelvis)_34",
+  "particleSystemCount": 33,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}

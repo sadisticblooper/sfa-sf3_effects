@@ -1,0 +1,17 @@
+{
+  "effect": "lynx_smokewinclaws_(w_claws01_l)_31_epic",
+  "game": "sfa",
+  "sourceBundle": "978e80644ca07e436ac1b89db44cdc34",
+  "prefab": null,
+  "cover": 18.52,
+  "soft": 57.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Lynx_SmokeWinClaws_(w_claws01_l)_31_Epic",
+  "particleSystemCount": 7,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
