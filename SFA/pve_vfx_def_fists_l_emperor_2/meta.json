@@ -1,0 +1,17 @@
+{
+  "effect": "pve_vfx_def_fists_l_emperor_2",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 0.52,
+  "soft": 66.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_VFX_Def_fists_l_emperor_2",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}
