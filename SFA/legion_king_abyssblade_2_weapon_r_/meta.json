@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_abyssblade_2(weapon_r)",
+  "game": "sfa",
+  "sourceBundle": "7f4b2cc0747a2c00f9f64d9d77754c4f",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_Abyssblade_2(weapon_r)",
+  "particleSystemCount": 8,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
