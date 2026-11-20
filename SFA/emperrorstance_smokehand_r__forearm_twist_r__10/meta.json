@@ -1,0 +1,17 @@
+{
+  "effect": "emperrorstance_smokehand_r_(forearm_twist_r)_10",
+  "game": "sfa",
+  "sourceBundle": "8014d241314e004798a314737edb8bee",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EmperrorStance_SmokeHand_r_(forearm_twist_r)_10",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 6
+}
