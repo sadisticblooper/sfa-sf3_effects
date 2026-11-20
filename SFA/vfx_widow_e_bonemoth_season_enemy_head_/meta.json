@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_e_bonemoth_season_enemy(head)",
+  "game": "sfa",
+  "sourceBundle": "f400b103845c43f18bac71b39650a2ee",
+  "prefab": null,
+  "cover": 22.82,
+  "soft": 95.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_E_Bonemoth_Season_Enemy(head)",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
