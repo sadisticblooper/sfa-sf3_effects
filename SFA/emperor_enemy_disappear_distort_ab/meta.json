@@ -1,0 +1,17 @@
+{
+  "effect": "emperor_enemy_disappear_distort_ab",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 50.63,
+  "soft": 0.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Emperor_enemy_disappear_distort_ab",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}
