@@ -1,0 +1,17 @@
+{
+  "effect": "clown_nose_mid_deep",
+  "game": "sfa",
+  "sourceBundle": "1ca5aef2145b54d4417b96d8ded2a517",
+  "prefab": null,
+  "cover": 2.84,
+  "soft": 2.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Clown_nose_mid_deep",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

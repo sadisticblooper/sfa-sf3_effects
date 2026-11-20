@@ -1,0 +1,17 @@
+{
+  "effect": "clown_wig(head)_shadow",
+  "game": "sfa",
+  "sourceBundle": "1ca5aef2145b54d4417b96d8ded2a517",
+  "prefab": null,
+  "cover": 10.49,
+  "soft": 41.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Clown_wig(head)_shadow",
+  "particleSystemCount": 9,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

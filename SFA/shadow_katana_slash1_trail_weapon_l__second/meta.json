@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_katana_slash1_trail(weapon_l)_second",
+  "game": "sfa",
+  "sourceBundle": "1beadbf8b052712e7a20f06bf8f8f4d3",
+  "prefab": null,
+  "cover": 1.13,
+  "soft": 15.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Shadow_Katana_Slash1_trail(weapon_l)_second",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

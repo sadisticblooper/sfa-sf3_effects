@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_katana_slash1_blood(weapon_r)",
+  "game": "sfa",
+  "sourceBundle": "1beadbf8b052712e7a20f06bf8f8f4d3",
+  "prefab": null,
+  "cover": 0.48,
+  "soft": 14.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Shadow_Katana_Slash1_Blood(weapon_r)",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

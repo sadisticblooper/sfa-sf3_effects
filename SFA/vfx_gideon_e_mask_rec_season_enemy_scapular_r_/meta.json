@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_e_mask_rec_season_enemy(scapular_r)",
+  "game": "sfa",
+  "sourceBundle": "1ff2ac6e7acbde57c06d09a6e11de5ae",
+  "prefab": null,
+  "cover": 16.25,
+  "soft": 94.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_E_Mask_Rec_Season_enemy(scapular_r)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

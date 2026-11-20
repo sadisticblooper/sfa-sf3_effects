@@ -1,0 +1,17 @@
+{
+  "effect": "s_agl_helm_03_pulka_kibo_simple",
+  "game": "sfa",
+  "sourceBundle": "1beadbf8b052712e7a20f06bf8f8f4d3",
+  "prefab": null,
+  "cover": 7.17,
+  "soft": 83.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "s_agl_helm_03_pulka_kibo_simple",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
