@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_nonna_bear_wpn_idle(w_twohanded_axe_02_r)",
+  "game": "sfa",
+  "sourceBundle": "76337274b4d32c125cd5441a91e9a62e",
+  "prefab": null,
+  "cover": 2.0,
+  "soft": 47.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Nonna_Bear_Wpn_Idle(w_twohanded_axe_02_r)",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

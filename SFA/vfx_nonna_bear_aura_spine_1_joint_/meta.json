@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_nonna_bear_aura(spine_1_joint)",
+  "game": "sfa",
+  "sourceBundle": "76337274b4d32c125cd5441a91e9a62e",
+  "prefab": null,
+  "cover": 5.75,
+  "soft": 75.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Nonna_Bear_Aura(spine_1_joint)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

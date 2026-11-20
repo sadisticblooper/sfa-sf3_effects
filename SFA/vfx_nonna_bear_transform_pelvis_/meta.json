@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_nonna_bear_transform(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "76337274b4d32c125cd5441a91e9a62e",
+  "prefab": null,
+  "cover": 33.95,
+  "soft": 72.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Nonna_Bear_Transform(pelvis)",
+  "particleSystemCount": 21,
+  "materialCount": 17,
+  "unityVersion": "6000.2.14f1",
+  "frames": 25
+}
