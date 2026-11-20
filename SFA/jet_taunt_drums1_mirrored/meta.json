@@ -1,0 +1,17 @@
+{
+  "effect": "jet_taunt_drums1_mirrored",
+  "game": "sfa",
+  "sourceBundle": "597703938a593acb4565557aeeb33cd5",
+  "prefab": null,
+  "cover": 29.1,
+  "soft": 74.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Jet_Taunt_Drums1_Mirrored",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

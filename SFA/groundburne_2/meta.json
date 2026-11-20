@@ -1,0 +1,17 @@
+{
+  "effect": "groundburne_2",
+  "game": "sfa",
+  "sourceBundle": "5a14aafe88621473063505b9aabc6c83",
+  "prefab": null,
+  "cover": 0.02,
+  "soft": 14.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "GroundBurnE_2",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 49
+}

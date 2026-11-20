@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_lynx_vampire(w_claws01_r)",
+  "game": "sfa",
+  "sourceBundle": "520a83bf6391853d555addee65628e98",
+  "prefab": null,
+  "cover": 20.26,
+  "soft": 71.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Lynx_Vampire(w_claws01_r)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

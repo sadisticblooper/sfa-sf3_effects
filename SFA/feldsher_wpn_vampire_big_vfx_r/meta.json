@@ -1,0 +1,17 @@
+{
+  "effect": "feldsher_wpn_vampire_big_vfx_r",
+  "game": "sfa",
+  "sourceBundle": "5b2fb39c73268b875c86875dd4aead9f",
+  "prefab": null,
+  "cover": 0.46,
+  "soft": 85.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Feldsher_Wpn_Vampire_Big_VFX_r",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
