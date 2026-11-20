@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_ling_l_ghost_dragon_hand_brush",
+  "game": "sfa",
+  "sourceBundle": "f54070a23d2a450c81319baff70ad213",
+  "prefab": null,
+  "cover": 5.87,
+  "soft": 69.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Ling_L_Ghost_Dragon_Hand_Brush",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
