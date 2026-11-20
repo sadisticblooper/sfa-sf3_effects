@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_legion_king_shadowexplosion(chest)",
+  "game": "sfa",
+  "sourceBundle": "923c08d062223fd52a7ecbf223c61f01",
+  "prefab": null,
+  "cover": 26.39,
+  "soft": 83.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Legion_King_ShadowExplosion(chest)",
+  "particleSystemCount": 9,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

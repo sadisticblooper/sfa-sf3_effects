@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_june_e_sakura_rec_season(biceps_twist_r)",
+  "game": "sfa",
+  "sourceBundle": "8fbb0beb42de73970b5c912434399cbc",
+  "prefab": null,
+  "cover": 7.53,
+  "soft": 1.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_June_E_Sakura_Rec_Season(biceps_twist_r)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

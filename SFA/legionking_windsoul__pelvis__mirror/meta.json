@@ -1,0 +1,17 @@
+{
+  "effect": "legionking_windsoul_(pelvis)_mirror",
+  "game": "sfa",
+  "sourceBundle": "923c08d062223fd52a7ecbf223c61f01",
+  "prefab": null,
+  "cover": 0.29,
+  "soft": 4.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "LegionKing_WindSoul_(pelvis)_mirror",
+  "particleSystemCount": 11,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 48
+}

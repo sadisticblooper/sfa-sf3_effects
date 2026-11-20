@@ -1,0 +1,17 @@
+{
+  "effect": "legionking_floorattack_(pelvis_30)",
+  "game": "sfa",
+  "sourceBundle": "923c08d062223fd52a7ecbf223c61f01",
+  "prefab": null,
+  "cover": 0.5,
+  "soft": 86.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "LegionKIng_FloorAttack_(pelvis_30)",
+  "particleSystemCount": 20,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}
