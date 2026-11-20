@@ -1,0 +1,17 @@
+{
+  "effect": "glaive_to_knives_centerexplosion_left",
+  "game": "sfa",
+  "sourceBundle": "3d9ae8b805784b067c06fdd3d4c6edd6",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Glaive_to_Knives_CenterExplosion_Left",
+  "particleSystemCount": 15,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
