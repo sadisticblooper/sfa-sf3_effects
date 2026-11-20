@@ -1,0 +1,17 @@
+{
+  "effect": "kibo_taunt_sphere(forearm_twist_l)",
+  "game": "sfa",
+  "sourceBundle": "e129ddb6983f8db454d7810acc250373",
+  "prefab": null,
+  "cover": 57.24,
+  "soft": 87.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Kibo_taunt_sphere(forearm_twist_l)",
+  "particleSystemCount": 13,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 45
+}
