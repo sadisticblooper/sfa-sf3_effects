@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_intuition_hiteffect",
+  "game": "sfa",
+  "sourceBundle": "f400b103845c43f18bac71b39650a2ee",
+  "prefab": null,
+  "cover": 7.13,
+  "soft": 73.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_Intuition_HitEffect",
+  "particleSystemCount": 9,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

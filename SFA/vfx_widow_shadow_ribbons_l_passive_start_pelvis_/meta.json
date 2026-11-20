@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_shadow_ribbons_l_passive_start(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "f400b103845c43f18bac71b39650a2ee",
+  "prefab": null,
+  "cover": 16.2,
+  "soft": 0.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_Shadow_Ribbons_L_Passive_Start(pelvis)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 3
+}

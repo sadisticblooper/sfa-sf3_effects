@@ -1,0 +1,17 @@
+{
+  "effect": "ling_hit_dispersion",
+  "game": "sfa",
+  "sourceBundle": "f54070a23d2a450c81319baff70ad213",
+  "prefab": null,
+  "cover": 18.73,
+  "soft": 41.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Ling_Hit_dispersion",
+  "particleSystemCount": 11,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

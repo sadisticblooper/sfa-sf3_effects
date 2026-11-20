@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_shadow_starter_l",
+  "game": "sfa",
+  "sourceBundle": "f400b103845c43f18bac71b39650a2ee",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 6.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_Shadow_Starter_L",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}

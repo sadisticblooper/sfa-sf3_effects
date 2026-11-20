@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_teleport(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "f400b103845c43f18bac71b39650a2ee",
+  "prefab": null,
+  "cover": 10.14,
+  "soft": 45.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_Teleport(pelvis)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 41
+}

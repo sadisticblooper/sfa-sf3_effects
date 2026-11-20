@@ -1,0 +1,17 @@
+{
+  "effect": "crit1_l",
+  "game": "sfa",
+  "sourceBundle": "f54070a23d2a450c81319baff70ad213",
+  "prefab": null,
+  "cover": 0.21,
+  "soft": 83.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Crit1_l",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

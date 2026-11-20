@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_talent_second_life_sign",
+  "game": "sfa",
+  "sourceBundle": "f400b103845c43f18bac71b39650a2ee",
+  "prefab": null,
+  "cover": 1.85,
+  "soft": 83.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_Talent_Second_Life_Sign",
+  "particleSystemCount": 13,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 41
+}
