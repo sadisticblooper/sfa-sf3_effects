@@ -1,0 +1,17 @@
+{
+  "effect": "rare_buff_ray",
+  "game": "sfa",
+  "sourceBundle": "de481a7552de0414fb3a23601b3e732e",
+  "prefab": null,
+  "cover": 9.39,
+  "soft": 75.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "rare_buff_ray",
+  "particleSystemCount": 10,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}

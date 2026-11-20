@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_tournament_random_rare_long",
+  "game": "sfa",
+  "sourceBundle": "de481a7552de0414fb3a23601b3e732e",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Tournament_Random_Rare_Long",
+  "particleSystemCount": 10,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 26
+}

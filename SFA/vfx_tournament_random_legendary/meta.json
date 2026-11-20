@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_tournament_random_legendary",
+  "game": "sfa",
+  "sourceBundle": "de481a7552de0414fb3a23601b3e732e",
+  "prefab": null,
+  "cover": 0.87,
+  "soft": 54.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Tournament_Random_Legendary",
+  "particleSystemCount": 28,
+  "materialCount": 20,
+  "unityVersion": "6000.2.14f1",
+  "frames": 50
+}
