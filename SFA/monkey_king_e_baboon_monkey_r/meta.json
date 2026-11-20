@@ -1,0 +1,17 @@
+{
+  "effect": "monkey_king_e_baboon_monkey_r",
+  "game": "sfa",
+  "sourceBundle": "f67817e0247c5892e447f78157fbfea6",
+  "prefab": null,
+  "cover": 0.02,
+  "soft": 24.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monkey_King_E_baboon_Monkey_R",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

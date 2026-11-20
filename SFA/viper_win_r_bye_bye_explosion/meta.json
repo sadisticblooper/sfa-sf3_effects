@@ -1,0 +1,17 @@
+{
+  "effect": "viper_win_r_bye_bye_explosion",
+  "game": "sfa",
+  "sourceBundle": "f978bde49030eaffb6e35be2316bca9f",
+  "prefab": null,
+  "cover": 38.52,
+  "soft": 83.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Viper_win_R_bye_bye_Explosion",
+  "particleSystemCount": 16,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 25
+}

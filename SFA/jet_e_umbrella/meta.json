@@ -1,0 +1,17 @@
+{
+  "effect": "jet_e_umbrella",
+  "game": "sfa",
+  "sourceBundle": "fb08538550f6f2c3eabd3fade7ec8520",
+  "prefab": null,
+  "cover": 64.45,
+  "soft": 76.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Jet_E_umbrella",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}
