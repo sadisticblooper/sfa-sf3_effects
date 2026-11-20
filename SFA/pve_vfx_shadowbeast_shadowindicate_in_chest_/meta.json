@@ -1,0 +1,17 @@
+{
+  "effect": "pve_vfx_shadowbeast_shadowindicate_in(chest)",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 11.92,
+  "soft": 73.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_VFX_shadowBeast_ShadowIndicate_IN(chest)",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

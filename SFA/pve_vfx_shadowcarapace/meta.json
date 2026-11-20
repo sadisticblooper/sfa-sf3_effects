@@ -1,0 +1,17 @@
+{
+  "effect": "pve_vfx_shadowcarapace",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 2.68,
+  "soft": 54.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_VFX_ShadowCarapace",
+  "particleSystemCount": 1,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
