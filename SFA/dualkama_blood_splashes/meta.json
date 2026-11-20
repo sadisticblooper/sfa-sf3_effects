@@ -1,0 +1,17 @@
+{
+  "effect": "dualkama_blood_splashes",
+  "game": "sfa",
+  "sourceBundle": "aa02b43b86a788d8f60a2f9711f7f28b",
+  "prefab": null,
+  "cover": 25.87,
+  "soft": 48.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "DualKama_Blood_Splashes",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 6
+}

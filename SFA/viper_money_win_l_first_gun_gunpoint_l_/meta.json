@@ -1,0 +1,17 @@
+{
+  "effect": "viper_money_win_l(first_gun_gunpoint_l)",
+  "game": "sfa",
+  "sourceBundle": "9e2df35b656220088f6ddbf3a0936756",
+  "prefab": null,
+  "cover": 2.21,
+  "soft": 6.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Viper_Money_Win_L(first_gun_gunpoint_l)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}

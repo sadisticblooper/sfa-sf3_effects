@@ -1,0 +1,17 @@
+{
+  "effect": "dualkama_waeponglow_blood(w_dual_kama_02_r)",
+  "game": "sfa",
+  "sourceBundle": "aa02b43b86a788d8f60a2f9711f7f28b",
+  "prefab": null,
+  "cover": 20.53,
+  "soft": 57.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "DualKama_waeponGlow_blood(w_dual_kama_02_r)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

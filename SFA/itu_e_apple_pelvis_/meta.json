@@ -1,0 +1,17 @@
+{
+  "effect": "itu_e_apple(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "9d910c7a13d56c777f44afe690f8c079",
+  "prefab": null,
+  "cover": 0.17,
+  "soft": 35.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Itu_E_apple(pelvis)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 4
+}

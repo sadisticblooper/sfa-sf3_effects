@@ -1,0 +1,17 @@
+{
+  "effect": "viper_light_ray(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "9e2df35b656220088f6ddbf3a0936756",
+  "prefab": null,
+  "cover": 16.88,
+  "soft": 83.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Viper_Light_Ray(pelvis)",
+  "particleSystemCount": 6,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}
