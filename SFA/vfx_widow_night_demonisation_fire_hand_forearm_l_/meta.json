@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_night_demonisation_fire_hand(forearm_l)",
+  "game": "sfa",
+  "sourceBundle": "713afb30641b0ff9f75983901c90f5ac",
+  "prefab": null,
+  "cover": 14.97,
+  "soft": 78.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_Night_Demonisation_Fire_Hand(forearm_l)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_nonna_ready_wolf(scapular_l)",
+  "game": "sfa",
+  "sourceBundle": "76337274b4d32c125cd5441a91e9a62e",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 3.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Nonna_Ready_Wolf(scapular_l)",
+  "particleSystemCount": 9,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
