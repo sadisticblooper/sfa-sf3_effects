@@ -1,0 +1,17 @@
+{
+  "effect": "sai_megahit_l",
+  "game": "sfa",
+  "sourceBundle": "9ec8b2e22d700b3de7b64d39761845d8",
+  "prefab": null,
+  "cover": 43.1,
+  "soft": 83.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sai_MegaHit_l",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}
