@@ -1,0 +1,17 @@
+{
+  "effect": "creature_smokedissolution",
+  "game": "sfa",
+  "sourceBundle": "6bf153ce523feda744cf098f7e445114",
+  "prefab": null,
+  "cover": 23.83,
+  "soft": 87.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Creature_SmokeDissolution",
+  "particleSystemCount": 8,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

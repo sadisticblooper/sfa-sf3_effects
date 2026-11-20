@@ -1,0 +1,17 @@
+{
+  "effect": "yukka_cat_01_fly_red",
+  "game": "sfa",
+  "sourceBundle": "657141841f3ee4acd811c8526b15bff3",
+  "prefab": null,
+  "cover": 82.13,
+  "soft": 4.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "yukka_cat_01_fly_red",
+  "particleSystemCount": 8,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}

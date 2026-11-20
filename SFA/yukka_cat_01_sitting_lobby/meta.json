@@ -1,0 +1,17 @@
+{
+  "effect": "yukka_cat_01_sitting_lobby",
+  "game": "sfa",
+  "sourceBundle": "657141841f3ee4acd811c8526b15bff3",
+  "prefab": null,
+  "cover": 100.0,
+  "soft": 78.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "yukka_cat_01_sitting_lobby",
+  "particleSystemCount": 14,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

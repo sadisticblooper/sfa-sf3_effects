@@ -1,0 +1,17 @@
+{
+  "effect": "marcus_invul_shadow_ending",
+  "game": "sfa",
+  "sourceBundle": "65f32027d168d179e9be9a2f50d0443a",
+  "prefab": null,
+  "cover": 6.87,
+  "soft": 56.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Marcus_Invul_Shadow_ending",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

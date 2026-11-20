@@ -1,0 +1,17 @@
+{
+  "effect": "muzzle_fire_left",
+  "game": "sfa",
+  "sourceBundle": "6bf153ce523feda744cf098f7e445114",
+  "prefab": null,
+  "cover": 0.13,
+  "soft": 31.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Muzzle_fire_left",
+  "particleSystemCount": 9,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 2
+}
