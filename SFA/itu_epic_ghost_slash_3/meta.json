@@ -1,0 +1,17 @@
+{
+  "effect": "itu_epic_ghost_slash_3",
+  "game": "sfa",
+  "sourceBundle": "88a7b5d63f9280f77ec05e7ec7890097",
+  "prefab": null,
+  "cover": 39.76,
+  "soft": 86.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Itu_Epic_Ghost_slash_3",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 17
+}

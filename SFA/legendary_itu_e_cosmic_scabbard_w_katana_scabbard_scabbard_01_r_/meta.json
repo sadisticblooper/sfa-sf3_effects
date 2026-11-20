@@ -1,0 +1,17 @@
+{
+  "effect": "legendary_itu_e_cosmic_scabbard(w_katana_scabbard_scabbard_01_r)",
+  "game": "sfa",
+  "sourceBundle": "88a7b5d63f9280f77ec05e7ec7890097",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 77.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legendary_Itu_E_Cosmic_scabbard(w_katana_scabbard_scabbard_01_r)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
