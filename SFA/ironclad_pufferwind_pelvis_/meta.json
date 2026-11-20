@@ -1,0 +1,17 @@
+{
+  "effect": "ironclad_pufferwind(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "15a950f5b5770ffd9e97b92c0db00b9e",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Ironclad_PufferWind(pelvis)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}
