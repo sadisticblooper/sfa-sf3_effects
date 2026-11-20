@@ -1,0 +1,17 @@
+{
+  "effect": "pve_knobstick_meteor_boss_mirror",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 40.48,
+  "soft": 57.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PVE_Knobstick_Meteor_Boss_mirror",
+  "particleSystemCount": 7,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
