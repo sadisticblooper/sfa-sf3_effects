@@ -1,0 +1,17 @@
+{
+  "effect": "liquidator_weapon_epic_hit",
+  "game": "sfa",
+  "sourceBundle": "fe97a82d46ec77eedb53006caecf229e",
+  "prefab": null,
+  "cover": 4.43,
+  "soft": 79.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liquidator_Weapon_Epic_Hit",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

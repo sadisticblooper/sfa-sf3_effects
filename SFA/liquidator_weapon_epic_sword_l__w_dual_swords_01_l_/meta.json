@@ -1,0 +1,17 @@
+{
+  "effect": "liquidator_weapon_epic_sword_l_(w_dual_swords_01_l)",
+  "game": "sfa",
+  "sourceBundle": "fe97a82d46ec77eedb53006caecf229e",
+  "prefab": null,
+  "cover": 0.05,
+  "soft": 88.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liquidator_Weapon_Epic_Sword_l_(w_dual_swords_01_l)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_e_cyber_eyes_red(head)",
+  "game": "sfa",
+  "sourceBundle": "ffd42e0402e2a6f659ecd70f4a0eece2",
+  "prefab": null,
+  "cover": 3.9,
+  "soft": 83.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_E_Cyber_Eyes_Red(head)",
+  "particleSystemCount": 4,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
