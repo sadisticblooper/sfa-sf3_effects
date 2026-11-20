@@ -1,0 +1,17 @@
+{
+  "effect": "pwe_1_2_snow_location_fx",
+  "game": "sfa",
+  "sourceBundle": "381c1a97789a5941d01f4fa80e2eb6e7",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "pwe_1_2_Snow_location_FX",
+  "particleSystemCount": 7,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 33
+}

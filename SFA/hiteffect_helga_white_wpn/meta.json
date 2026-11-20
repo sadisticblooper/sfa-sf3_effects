@@ -1,0 +1,17 @@
+{
+  "effect": "hiteffect_helga_white_wpn",
+  "game": "sfa",
+  "sourceBundle": "3ba540c71b5c83e30e6b1288cd76a9a8",
+  "prefab": null,
+  "cover": 50.4,
+  "soft": 81.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HitEffect_Helga_White_wpn",
+  "particleSystemCount": 10,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

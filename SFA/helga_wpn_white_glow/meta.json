@@ -1,0 +1,17 @@
+{
+  "effect": "helga_wpn_white_glow",
+  "game": "sfa",
+  "sourceBundle": "3ba540c71b5c83e30e6b1288cd76a9a8",
+  "prefab": null,
+  "cover": 0.41,
+  "soft": 96.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Helga_wpn_White_Glow",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

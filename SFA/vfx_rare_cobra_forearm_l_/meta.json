@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_rare_cobra(forearm_l)",
+  "game": "sfa",
+  "sourceBundle": "37724fddfaeea8d81bb924dcbbae11bd",
+  "prefab": null,
+  "cover": 7.63,
+  "soft": 17.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Rare_Cobra(forearm_l)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}
