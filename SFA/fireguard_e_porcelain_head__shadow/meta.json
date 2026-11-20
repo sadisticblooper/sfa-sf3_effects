@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_e_porcelain(head)_shadow",
+  "game": "sfa",
+  "sourceBundle": "92f51ce9a159612885eef9f3a8459358",
+  "prefab": null,
+  "cover": 100.0,
+  "soft": 48.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_E_Porcelain(head)_shadow",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
