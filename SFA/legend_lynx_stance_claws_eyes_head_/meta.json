@@ -1,0 +1,17 @@
+{
+  "effect": "legend_lynx_stance_claws_eyes(head)",
+  "game": "sfa",
+  "sourceBundle": "af05525318c29746779b7c182b30e59f_1",
+  "prefab": null,
+  "cover": 11.74,
+  "soft": 1.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legend_Lynx_stance_claws_Eyes(head)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
