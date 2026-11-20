@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_corrupt_procs_teleport_2(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "f400b103845c43f18bac71b39650a2ee",
+  "prefab": null,
+  "cover": 9.11,
+  "soft": 76.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_Corrupt_Procs_Teleport_2(pelvis)",
+  "particleSystemCount": 10,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

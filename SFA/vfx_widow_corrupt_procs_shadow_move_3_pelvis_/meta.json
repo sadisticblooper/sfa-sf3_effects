@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_corrupt_procs_shadow_move_3(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "f400b103845c43f18bac71b39650a2ee",
+  "prefab": null,
+  "cover": 3.12,
+  "soft": 75.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_Corrupt_Procs_Shadow_Move_3(pelvis)",
+  "particleSystemCount": 13,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

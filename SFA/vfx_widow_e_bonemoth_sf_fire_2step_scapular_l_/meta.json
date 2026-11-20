@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_e_bonemoth_sf_fire_2step(scapular_l)",
+  "game": "sfa",
+  "sourceBundle": "f400b103845c43f18bac71b39650a2ee",
+  "prefab": null,
+  "cover": 50.73,
+  "soft": 76.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_E_Bonemoth_SF_Fire_2step(scapular_l)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}
