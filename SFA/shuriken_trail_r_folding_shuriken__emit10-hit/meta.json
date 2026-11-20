@@ -1,0 +1,17 @@
+{
+  "effect": "shuriken_trail(r_folding_shuriken)_emit10-hit",
+  "game": "sfa",
+  "sourceBundle": "aa02b43b86a788d8f60a2f9711f7f28b",
+  "prefab": null,
+  "cover": 10.16,
+  "soft": 0.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shuriken_Trail(r_folding_shuriken)_emit10-hit",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 31
+}

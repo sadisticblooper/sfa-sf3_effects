@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_emperor_monster_e_cage(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "b2ea697aad7d1b9d7a6a235414b3cba6",
+  "prefab": null,
+  "cover": 6.24,
+  "soft": 85.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Emperor_monster_E_cage(pelvis)",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 26
+}
