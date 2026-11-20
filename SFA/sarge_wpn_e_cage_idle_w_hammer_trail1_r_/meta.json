@@ -1,0 +1,17 @@
+{
+  "effect": "sarge_wpn_e_cage_idle(w_hammer_trail1_r)",
+  "game": "sfa",
+  "sourceBundle": "fb747e1eaaf5fad0b482fd8e83231625",
+  "prefab": null,
+  "cover": 14.13,
+  "soft": 66.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sarge_Wpn_E_Cage_Idle(w_hammer_trail1_r)",
+  "particleSystemCount": 5,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 52
+}
