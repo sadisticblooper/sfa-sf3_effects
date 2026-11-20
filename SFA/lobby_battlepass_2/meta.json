@@ -1,0 +1,17 @@
+{
+  "effect": "lobby_battlepass",
+  "game": "sfa",
+  "sourceBundle": "bcc2ecaac7cebc0d1229663a98a72c73",
+  "prefab": null,
+  "cover": 0.1,
+  "soft": 22.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "lobby_battlepass",
+  "particleSystemCount": 13,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

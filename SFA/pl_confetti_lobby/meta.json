@@ -1,0 +1,17 @@
+{
+  "effect": "pl_confetti_lobby",
+  "game": "sfa",
+  "sourceBundle": "b38a7b94fc054574dab07c21477a4c91",
+  "prefab": null,
+  "cover": 0.21,
+  "soft": 92.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PL_Confetti_Lobby",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_win_e_statue_168",
+  "game": "sfa",
+  "sourceBundle": "b25ed026d5366677d8bbb34b8a4ed012",
+  "prefab": null,
+  "cover": 100.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_win_E_statue_168",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

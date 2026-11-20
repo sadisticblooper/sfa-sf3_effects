@@ -1,0 +1,17 @@
+{
+  "effect": "hongjoo_fire_idle_(w_triple_staff06)_r",
+  "game": "sfa",
+  "sourceBundle": "b38158e292727afac88ff71f8215be5a",
+  "prefab": null,
+  "cover": 2.85,
+  "soft": 67.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HongJoo_Fire_Idle_(w_triple_staff06)_r",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "taunt_universal_r_disappointment_r(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "b42c1a8ff08ccec86658d7033e4ccf0f",
+  "prefab": null,
+  "cover": 4.69,
+  "soft": 83.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Taunt_Universal_R_disappointment_r(pelvis)",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 22
+}
