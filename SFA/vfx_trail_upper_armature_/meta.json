@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_trail_upper(armature)",
+  "game": "sfa",
+  "sourceBundle": "718ec01b7a0771916bacec20ed06efaf",
+  "prefab": null,
+  "cover": 0.7,
+  "soft": 61.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Trail_upper(armature)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

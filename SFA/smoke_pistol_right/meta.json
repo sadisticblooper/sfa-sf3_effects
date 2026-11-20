@@ -1,0 +1,17 @@
+{
+  "effect": "smoke_pistol_right",
+  "game": "sfa",
+  "sourceBundle": "6bf153ce523feda744cf098f7e445114",
+  "prefab": null,
+  "cover": 40.36,
+  "soft": 76.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "smoke_pistol_right",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 38
+}

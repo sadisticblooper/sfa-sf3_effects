@@ -1,0 +1,17 @@
+{
+  "effect": "ling_stance_liquid_(bottle_r)",
+  "game": "sfa",
+  "sourceBundle": "6f70242b5d71a85c8176e2ba68244d14",
+  "prefab": null,
+  "cover": 8.44,
+  "soft": 77.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Ling_Stance_Liquid_(bottle_r)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 49
+}

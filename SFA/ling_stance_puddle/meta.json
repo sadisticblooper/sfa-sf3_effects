@@ -1,0 +1,17 @@
+{
+  "effect": "ling_stance_puddle",
+  "game": "sfa",
+  "sourceBundle": "6f70242b5d71a85c8176e2ba68244d14",
+  "prefab": null,
+  "cover": 86.99,
+  "soft": 48.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Ling_Stance_Puddle",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 44
+}

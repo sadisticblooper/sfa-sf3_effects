@@ -1,0 +1,17 @@
+{
+  "effect": "cinematic_arena3",
+  "game": "sfa",
+  "sourceBundle": "708a663a2ccc595cdb519083334016af",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 100.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "cinematic_arena3",
+  "particleSystemCount": 19,
+  "materialCount": 16,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
