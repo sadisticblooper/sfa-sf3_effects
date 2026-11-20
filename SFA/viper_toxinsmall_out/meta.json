@@ -1,0 +1,17 @@
+{
+  "effect": "viper_toxinsmall_out",
+  "game": "sfa",
+  "sourceBundle": "fdbabf645a68eae159bf55fa7c720a74",
+  "prefab": null,
+  "cover": 63.08,
+  "soft": 73.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Viper_ToxinSmall_Out",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}
