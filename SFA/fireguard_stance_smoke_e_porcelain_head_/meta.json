@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_stance_smoke_e_porcelain(head)",
+  "game": "sfa",
+  "sourceBundle": "92f51ce9a159612885eef9f3a8459358",
+  "prefab": null,
+  "cover": 77.48,
+  "soft": 87.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_Stance_Smoke_E_Porcelain(head)",
+  "particleSystemCount": 12,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

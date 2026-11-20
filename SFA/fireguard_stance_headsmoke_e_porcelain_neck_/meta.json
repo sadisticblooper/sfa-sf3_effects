@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_stance_headsmoke_e_porcelain(neck)",
+  "game": "sfa",
+  "sourceBundle": "92f51ce9a159612885eef9f3a8459358",
+  "prefab": null,
+  "cover": 12.79,
+  "soft": 32.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_Stance_HeadSmoke_E_Porcelain(neck)",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 51
+}

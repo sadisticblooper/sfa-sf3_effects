@@ -1,0 +1,17 @@
+{
+  "effect": "lynx_smokewin_smoke_rm_(gun_joint_l)_55",
+  "game": "sfa",
+  "sourceBundle": "978e80644ca07e436ac1b89db44cdc34",
+  "prefab": null,
+  "cover": 43.9,
+  "soft": 70.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Lynx_SmokeWin_Smoke_rm_(gun_joint_l)_55",
+  "particleSystemCount": 13,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}

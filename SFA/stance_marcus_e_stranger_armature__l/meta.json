@@ -1,0 +1,17 @@
+{
+  "effect": "stance_marcus_e_stranger(armature)_l",
+  "game": "sfa",
+  "sourceBundle": "94ddc5951254066e5171bd03088143ba",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Stance_Marcus_E_Stranger(Armature)_L",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 33
+}
