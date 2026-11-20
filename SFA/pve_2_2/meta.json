@@ -1,10 +1,10 @@
 {
   "effect": "pve_2_2",
   "game": "sfa",
-  "sourceBundle": "25ece40a35dd8d4d92a44c2f926d4845",
+  "sourceBundle": "821e5f1c0977dbc0cedc1773802bd811",
   "prefab": null,
-  "cover": 7.06,
-  "soft": 71.1,
+  "cover": 7.23,
+  "soft": 72.8,
   "success": true,
   "frameCount": 60,
   "width": 512,

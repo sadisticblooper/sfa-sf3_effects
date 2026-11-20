@@ -1,0 +1,17 @@
+{
+  "effect": "bg_wall_r_fire",
+  "game": "sfa",
+  "sourceBundle": "83307ccfe483941e7abb0eb7f52452c3",
+  "prefab": null,
+  "cover": 47.1,
+  "soft": 99.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "BG_Wall_R_fire",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
