@@ -1,0 +1,17 @@
+{
+  "effect": "jet_iceskates_out_(pelvis_0)",
+  "game": "sfa",
+  "sourceBundle": "7f5e270775479f6e073a13b473d501d4",
+  "prefab": null,
+  "cover": 0.24,
+  "soft": 69.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Jet_IceSkates_Out_(pelvis_0)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

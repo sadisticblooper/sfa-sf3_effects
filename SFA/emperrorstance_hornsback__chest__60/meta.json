@@ -1,0 +1,17 @@
+{
+  "effect": "emperrorstance_hornsback_(chest)_60",
+  "game": "sfa",
+  "sourceBundle": "8014d241314e004798a314737edb8bee",
+  "prefab": null,
+  "cover": 26.14,
+  "soft": 59.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EmperrorStance_HornsBack_(chest)_60",
+  "particleSystemCount": 37,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

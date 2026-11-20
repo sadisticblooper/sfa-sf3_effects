@@ -1,0 +1,17 @@
+{
+  "effect": "emperrorstance_endsmoke_(pelvis)_135",
+  "game": "sfa",
+  "sourceBundle": "8014d241314e004798a314737edb8bee",
+  "prefab": null,
+  "cover": 72.97,
+  "soft": 88.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EmperrorStance_EndSmoke_(pelvis)_135",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}

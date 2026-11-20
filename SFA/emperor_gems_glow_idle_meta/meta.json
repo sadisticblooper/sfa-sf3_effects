@@ -1,0 +1,17 @@
+{
+  "effect": "emperor_gems_glow_idle_meta",
+  "game": "sfa",
+  "sourceBundle": "79f41576aa8b85ef2102b20b4b5acae9",
+  "prefab": null,
+  "cover": 0.63,
+  "soft": 86.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Emperor_Gems_Glow_Idle_meta",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

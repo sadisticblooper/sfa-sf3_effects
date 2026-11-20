@@ -1,0 +1,17 @@
+{
+  "effect": "jet_iceskate_(toe_r_0)_mirror",
+  "game": "sfa",
+  "sourceBundle": "7f5e270775479f6e073a13b473d501d4",
+  "prefab": null,
+  "cover": 48.35,
+  "soft": 87.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Jet_IceSkate_(toe_r_0)_mirror",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

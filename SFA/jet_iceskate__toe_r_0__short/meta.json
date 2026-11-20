@@ -1,0 +1,17 @@
+{
+  "effect": "jet_iceskate_(toe_r_0)_short",
+  "game": "sfa",
+  "sourceBundle": "7f5e270775479f6e073a13b473d501d4",
+  "prefab": null,
+  "cover": 0.03,
+  "soft": 88.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Jet_IceSkate_(toe_r_0)_short",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
