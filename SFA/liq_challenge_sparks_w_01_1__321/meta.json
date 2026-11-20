@@ -1,0 +1,17 @@
+{
+  "effect": "liq_challenge_sparks(w_01_1)_321",
+  "game": "sfa",
+  "sourceBundle": "da8fa1674c70217773a408dc4a0d6be6",
+  "prefab": null,
+  "cover": 0.16,
+  "soft": 13.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liq_Challenge_Sparks(w_01_1)_321",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

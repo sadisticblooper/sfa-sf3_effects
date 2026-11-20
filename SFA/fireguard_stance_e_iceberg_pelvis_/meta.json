@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_stance_e_iceberg(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "dd39306e66476eedb7042d06e34b0445",
+  "prefab": null,
+  "cover": 63.72,
+  "soft": 69.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_Stance_E_Iceberg(pelvis)",
+  "particleSystemCount": 3,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
