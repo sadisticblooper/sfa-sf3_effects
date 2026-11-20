@@ -1,0 +1,17 @@
+{
+  "effect": "hit_effect_wpn_nonna_e_owl",
+  "game": "sfa",
+  "sourceBundle": "76337274b4d32c125cd5441a91e9a62e",
+  "prefab": null,
+  "cover": 24.83,
+  "soft": 76.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Hit_Effect_wpn_Nonna_E_Owl",
+  "particleSystemCount": 8,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

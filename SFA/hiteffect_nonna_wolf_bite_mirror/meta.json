@@ -1,0 +1,17 @@
+{
+  "effect": "hiteffect_nonna_wolf_bite_mirror",
+  "game": "sfa",
+  "sourceBundle": "76337274b4d32c125cd5441a91e9a62e",
+  "prefab": null,
+  "cover": 10.82,
+  "soft": 73.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HitEffect_Nonna_wolf_bite_mirror",
+  "particleSystemCount": 10,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}
