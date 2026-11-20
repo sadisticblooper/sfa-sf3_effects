@@ -1,0 +1,17 @@
+{
+  "effect": "liq_fall_v2",
+  "game": "sfa",
+  "sourceBundle": "fc047ee9a474d39023508e0b6c250972",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liq_fall_v2",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

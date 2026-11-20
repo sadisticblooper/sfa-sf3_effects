@@ -1,0 +1,17 @@
+{
+  "effect": "liq_bird_smokedissolution",
+  "game": "sfa",
+  "sourceBundle": "fc047ee9a474d39023508e0b6c250972",
+  "prefab": null,
+  "cover": 15.87,
+  "soft": 82.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liq_Bird_SmokeDissolution",
+  "particleSystemCount": 8,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}
