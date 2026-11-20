@@ -1,0 +1,17 @@
+{
+  "effect": "emperor_e_tea_hornhand_(biceps_twist_l_0)",
+  "game": "sfa",
+  "sourceBundle": "c3af10cc687abe2845b2d04e4ff11123",
+  "prefab": null,
+  "cover": 49.38,
+  "soft": 80.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Emperor_E_tea_HornHand_(biceps_twist_l_0)",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "emperor_e_tea_energyeyes_(head_20)",
+  "game": "sfa",
+  "sourceBundle": "c3af10cc687abe2845b2d04e4ff11123",
+  "prefab": null,
+  "cover": 2.02,
+  "soft": 69.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Emperor_E_tea_EnergyEyes_(head_20)",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}
