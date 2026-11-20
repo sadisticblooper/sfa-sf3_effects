@@ -1,0 +1,17 @@
+{
+  "effect": "str_range_pistol(day_shoot)",
+  "game": "sfa",
+  "sourceBundle": "83307ccfe483941e7abb0eb7f52452c3",
+  "prefab": null,
+  "cover": 27.8,
+  "soft": 80.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Str_range_pistol(day_shoot)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 20
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "metalka_trail_temp",
+  "game": "sfa",
+  "sourceBundle": "83307ccfe483941e7abb0eb7f52452c3",
+  "prefab": null,
+  "cover": 2.96,
+  "soft": 84.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "metalka_trail_temp",
+  "particleSystemCount": 1,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
