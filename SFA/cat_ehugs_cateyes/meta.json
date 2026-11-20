@@ -1,0 +1,17 @@
+{
+  "effect": "cat_ehugs_cateyes",
+  "game": "sfa",
+  "sourceBundle": "ca6649a513851f9726343d495444aa7c",
+  "prefab": null,
+  "cover": 15.31,
+  "soft": 91.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Cat_EHugs_CatEyes",
+  "particleSystemCount": 4,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

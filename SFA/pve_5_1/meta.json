@@ -1,0 +1,17 @@
+{
+  "effect": "pve_5_1",
+  "game": "sfa",
+  "sourceBundle": "cc5fc72a46d3e20562ed829256580f73",
+  "prefab": null,
+  "cover": 1.2,
+  "soft": 66.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "pve_5_1",
+  "particleSystemCount": 2,
+  "materialCount": 21,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

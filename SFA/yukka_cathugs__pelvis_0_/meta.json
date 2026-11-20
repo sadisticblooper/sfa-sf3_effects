@@ -1,0 +1,17 @@
+{
+  "effect": "yukka_cathugs_(pelvis_0)",
+  "game": "sfa",
+  "sourceBundle": "ca6649a513851f9726343d495444aa7c",
+  "prefab": null,
+  "cover": 4.3,
+  "soft": 74.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yukka_CatHugs_(pelvis_0)",
+  "particleSystemCount": 13,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}

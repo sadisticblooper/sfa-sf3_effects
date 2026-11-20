@@ -1,0 +1,17 @@
+{
+  "effect": "cat_ehugs_catsmoke",
+  "game": "sfa",
+  "sourceBundle": "ca6649a513851f9726343d495444aa7c",
+  "prefab": null,
+  "cover": 25.61,
+  "soft": 93.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Cat_EHugs_CatSmoke",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
