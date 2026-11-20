@@ -1,0 +1,17 @@
+{
+  "effect": "pve_consumable_orange(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "819c9f34af6f31d4c5df42754cf13b7f",
+  "prefab": null,
+  "cover": 53.93,
+  "soft": 25.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "PvE_Consumable_orange(pelvis)",
+  "particleSystemCount": 8,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}
