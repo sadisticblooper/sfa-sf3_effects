@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_wpn_ling_l_spirit_shadow_raven_aspect_lobby_nopbr",
+  "game": "sfa",
+  "sourceBundle": "f54070a23d2a450c81319baff70ad213",
+  "prefab": null,
+  "cover": 1.08,
+  "soft": 3.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Wpn_Ling_L_Spirit_Shadow_Raven_Aspect_Lobby_NoPBR",
+  "particleSystemCount": 44,
+  "materialCount": 16,
+  "unityVersion": "6000.2.14f1",
+  "frames": 50
+}

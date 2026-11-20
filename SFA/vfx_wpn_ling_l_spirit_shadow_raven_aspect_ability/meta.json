@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_wpn_ling_l_spirit_shadow_raven_aspect_ability",
+  "game": "sfa",
+  "sourceBundle": "f54070a23d2a450c81319baff70ad213",
+  "prefab": null,
+  "cover": 10.19,
+  "soft": 17.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Wpn_Ling_L_Spirit_Shadow_Raven_Aspect_Ability",
+  "particleSystemCount": 12,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 46
+}

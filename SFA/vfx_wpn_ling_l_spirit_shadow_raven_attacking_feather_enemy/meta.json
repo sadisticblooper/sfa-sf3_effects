@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_wpn_ling_l_spirit_shadow_raven_attacking_feather_enemy",
+  "game": "sfa",
+  "sourceBundle": "f54070a23d2a450c81319baff70ad213",
+  "prefab": null,
+  "cover": 69.47,
+  "soft": 60.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Wpn_Ling_L_Spirit_Shadow_Raven_Attacking_Feather_Enemy",
+  "particleSystemCount": 15,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
