@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_l_moon_e_flowers_steps(toe_l 123)",
+  "game": "sfa",
+  "sourceBundle": "990b21a9c1f4ddce2de21b8730edefd1",
+  "prefab": null,
+  "cover": 8.87,
+  "soft": 17.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_L_Moon_E_flowers_steps(toe_l 123)",
+  "particleSystemCount": 10,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

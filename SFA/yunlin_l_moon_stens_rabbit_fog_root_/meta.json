@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_l_moon_stens_rabbit_fog(root)",
+  "game": "sfa",
+  "sourceBundle": "990b21a9c1f4ddce2de21b8730edefd1",
+  "prefab": null,
+  "cover": 13.18,
+  "soft": 68.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_L_Moon_stens_Rabbit_Fog(root)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

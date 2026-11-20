@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_l_moon_rabbit_out",
+  "game": "sfa",
+  "sourceBundle": "990b21a9c1f4ddce2de21b8730edefd1",
+  "prefab": null,
+  "cover": 8.23,
+  "soft": 61.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_L_Moon_rabbit_out",
+  "particleSystemCount": 38,
+  "materialCount": 14,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

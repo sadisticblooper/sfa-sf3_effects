@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_bunny_l_moon_draft(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "990b21a9c1f4ddce2de21b8730edefd1",
+  "prefab": null,
+  "cover": 31.12,
+  "soft": 5.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_Bunny_L_Moon_Draft(pelvis)",
+  "particleSystemCount": 2,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

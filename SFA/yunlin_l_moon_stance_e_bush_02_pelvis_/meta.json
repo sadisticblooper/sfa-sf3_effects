@@ -1,0 +1,17 @@
+{
+  "effect": "yunlin_l_moon_stance_e_bush_02(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "990b21a9c1f4ddce2de21b8730edefd1",
+  "prefab": null,
+  "cover": 3.17,
+  "soft": 52.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yunlin_L_Moon_Stance_E_Bush_02(Pelvis)",
+  "particleSystemCount": 16,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 52
+}
