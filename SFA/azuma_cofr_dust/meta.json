@@ -1,0 +1,17 @@
+{
+  "effect": "azuma_cofr_dust",
+  "game": "sfa",
+  "sourceBundle": "605d3bab661255fdf52700750e456920",
+  "prefab": null,
+  "cover": 2.93,
+  "soft": 70.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Azuma_cofr_dust",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "hiteffect_feldsher_redvampire",
+  "game": "sfa",
+  "sourceBundle": "5b2fb39c73268b875c86875dd4aead9f",
+  "prefab": null,
+  "cover": 50.12,
+  "soft": 78.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HitEffect_Feldsher_RedVampire",
+  "particleSystemCount": 11,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

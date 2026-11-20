@@ -1,10 +1,10 @@
 {
   "effect": "bamboo_arena",
   "game": "sfa",
-  "sourceBundle": "f5174f9ae0769a1edb4d3c7281c915d2",
+  "sourceBundle": "5ed81c5962f6f91b323adbb0bde10549",
   "prefab": null,
-  "cover": 0.19,
-  "soft": 94.4,
+  "cover": 0.63,
+  "soft": 99.1,
   "success": true,
   "frameCount": 60,
   "width": 512,

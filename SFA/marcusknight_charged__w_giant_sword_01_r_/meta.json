@@ -1,0 +1,17 @@
+{
+  "effect": "marcusknight_charged_(w_giant_sword_01_r)",
+  "game": "sfa",
+  "sourceBundle": "60d1d529db17491cdd682aeda42cd9eb",
+  "prefab": null,
+  "cover": 11.11,
+  "soft": 87.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MarcusKnight_Charged_(w_giant_sword_01_r)",
+  "particleSystemCount": 11,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

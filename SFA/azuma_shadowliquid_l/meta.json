@@ -1,0 +1,17 @@
+{
+  "effect": "azuma_shadowliquid_l",
+  "game": "sfa",
+  "sourceBundle": "605d3bab661255fdf52700750e456920",
+  "prefab": null,
+  "cover": 22.13,
+  "soft": 85.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Azuma_shadowLiquid_L",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 20
+}

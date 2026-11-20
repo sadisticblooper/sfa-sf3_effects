@@ -1,0 +1,17 @@
+{
+  "effect": "marcus_epic_weapon_healeffect_(chest)",
+  "game": "sfa",
+  "sourceBundle": "60d1d529db17491cdd682aeda42cd9eb",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Marcus_Epic_Weapon_HealEffect_(chest)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

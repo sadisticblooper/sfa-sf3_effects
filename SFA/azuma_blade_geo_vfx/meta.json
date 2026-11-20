@@ -1,0 +1,17 @@
+{
+  "effect": "azuma_blade_geo_vfx",
+  "game": "sfa",
+  "sourceBundle": "605d3bab661255fdf52700750e456920",
+  "prefab": null,
+  "cover": 0.05,
+  "soft": 31.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Azuma_blade_geo_vfx",
+  "particleSystemCount": 3,
+  "materialCount": 0,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

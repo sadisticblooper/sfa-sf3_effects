@@ -1,0 +1,17 @@
+{
+  "effect": "transform_chainglow_02",
+  "game": "sfa",
+  "sourceBundle": "605d3bab661255fdf52700750e456920",
+  "prefab": null,
+  "cover": 7.49,
+  "soft": 89.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "transform_chainGlow_02",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
