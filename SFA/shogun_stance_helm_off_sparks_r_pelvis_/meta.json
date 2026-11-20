@@ -1,0 +1,17 @@
+{
+  "effect": "shogun_stance_helm_off_sparks_r(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "c6499b1ac707594c550c96f1f0252e24",
+  "prefab": null,
+  "cover": 0.07,
+  "soft": 80.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Shogun_Stance_Helm_Off_Sparks_R(pelvis)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 39
+}

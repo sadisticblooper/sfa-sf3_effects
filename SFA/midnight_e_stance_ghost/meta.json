@@ -1,0 +1,17 @@
+{
+  "effect": "midnight_e_stance_ghost",
+  "game": "sfa",
+  "sourceBundle": "c6e94599346b919b46f3b232b2bdb103",
+  "prefab": null,
+  "cover": 17.8,
+  "soft": 85.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Midnight_E_stance_ghost",
+  "particleSystemCount": 25,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 31
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_june_stance_dagger(knife_l)_mirror",
+  "game": "sfa",
+  "sourceBundle": "c925139a09fe276a78d628fa24a398d4",
+  "prefab": null,
+  "cover": 6.45,
+  "soft": 71.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_June_Stance_Dagger(knife_l)_mirror",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

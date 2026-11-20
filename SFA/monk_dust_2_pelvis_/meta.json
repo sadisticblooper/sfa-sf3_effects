@@ -1,0 +1,17 @@
+{
+  "effect": "monk_dust_2(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "c2737f6bc7b98d67d125c515f75d1d91",
+  "prefab": null,
+  "cover": 4.75,
+  "soft": 65.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_dust_2(pelvis)",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 31
+}

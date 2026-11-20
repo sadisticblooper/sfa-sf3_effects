@@ -1,0 +1,17 @@
+{
+  "effect": "shogun_stance_helm_off_smoke_r(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "c6499b1ac707594c550c96f1f0252e24",
+  "prefab": null,
+  "cover": 23.6,
+  "soft": 4.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Shogun_Stance_Helm_Off_Smoke_R(pelvis)",
+  "particleSystemCount": 9,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

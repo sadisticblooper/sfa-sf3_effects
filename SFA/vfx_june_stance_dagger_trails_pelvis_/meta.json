@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_june_stance_dagger_trails(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "c925139a09fe276a78d628fa24a398d4",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_June_Stance_Dagger_trails(pelvis)",
+  "particleSystemCount": 10,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 39
+}

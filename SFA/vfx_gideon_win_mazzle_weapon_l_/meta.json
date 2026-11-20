@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_win_mazzle(weapon_l)",
+  "game": "sfa",
+  "sourceBundle": "ccd8b89b07ff52c18944750b2deb224c",
+  "prefab": null,
+  "cover": 11.25,
+  "soft": 64.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_Win_Mazzle(weapon_l)",
+  "particleSystemCount": 21,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 6
+}

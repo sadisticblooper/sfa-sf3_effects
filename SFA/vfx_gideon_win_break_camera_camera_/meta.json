@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_gideon_win_break_camera(camera)",
+  "game": "sfa",
+  "sourceBundle": "ccd8b89b07ff52c18944750b2deb224c",
+  "prefab": null,
+  "cover": 10.0,
+  "soft": 77.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Gideon_Win_Break_Camera(camera)",
+  "particleSystemCount": 16,
+  "materialCount": 14,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}

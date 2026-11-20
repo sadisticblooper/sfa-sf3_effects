@@ -1,0 +1,17 @@
+{
+  "effect": "monk_e_disguise(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "c2737f6bc7b98d67d125c515f75d1d91",
+  "prefab": null,
+  "cover": 47.22,
+  "soft": 59.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_E_disguise(pelvis)",
+  "particleSystemCount": 17,
+  "materialCount": 14,
+  "unityVersion": "6000.2.14f1",
+  "frames": 36
+}
