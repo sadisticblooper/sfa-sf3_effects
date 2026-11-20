@@ -1,0 +1,17 @@
+{
+  "effect": "helga_legendary_rays",
+  "game": "sfa",
+  "sourceBundle": "be8120efea1c6f190cd1f7385d72b4e4",
+  "prefab": null,
+  "cover": 100.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Helga_Legendary_Rays",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
