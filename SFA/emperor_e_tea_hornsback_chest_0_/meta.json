@@ -1,0 +1,17 @@
+{
+  "effect": "emperor_e_tea_hornsback(chest_0)",
+  "game": "sfa",
+  "sourceBundle": "c3af10cc687abe2845b2d04e4ff11123",
+  "prefab": null,
+  "cover": 21.06,
+  "soft": 77.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Emperor_E_tea_HornsBack(chest_0)",
+  "particleSystemCount": 19,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 56
+}

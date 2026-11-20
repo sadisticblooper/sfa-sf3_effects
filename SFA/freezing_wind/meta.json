@@ -1,0 +1,17 @@
+{
+  "effect": "freezing_wind",
+  "game": "sfa",
+  "sourceBundle": "c82089a6c9561de0113f3dbca127162e",
+  "prefab": null,
+  "cover": 11.99,
+  "soft": 68.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Freezing_Wind",
+  "particleSystemCount": 9,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}

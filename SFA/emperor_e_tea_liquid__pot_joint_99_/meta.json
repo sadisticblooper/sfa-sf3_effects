@@ -1,0 +1,17 @@
+{
+  "effect": "emperor_e_tea_liquid_(pot_joint_99)",
+  "game": "sfa",
+  "sourceBundle": "c3af10cc687abe2845b2d04e4ff11123",
+  "prefab": null,
+  "cover": 18.33,
+  "soft": 45.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Emperor_E_tea_Liquid_(pot_joint_99)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 20
+}

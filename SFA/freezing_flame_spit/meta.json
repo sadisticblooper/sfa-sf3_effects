@@ -1,0 +1,17 @@
+{
+  "effect": "freezing_flame_spit",
+  "game": "sfa",
+  "sourceBundle": "c82089a6c9561de0113f3dbca127162e",
+  "prefab": null,
+  "cover": 10.88,
+  "soft": 43.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "freezing_flame_spit",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}

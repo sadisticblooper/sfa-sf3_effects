@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_taunt_fire",
+  "game": "sfa",
+  "sourceBundle": "c72e70ae4fc512a19a543b3cb5099264",
+  "prefab": null,
+  "cover": 30.14,
+  "soft": 86.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_Taunt_Fire",
+  "particleSystemCount": 9,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 26
+}
