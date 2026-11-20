@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_sarge_e_banner_fade",
+  "game": "sfa",
+  "sourceBundle": "b29f8b9e0f8adffb2cff7f41a5246c95",
+  "prefab": null,
+  "cover": 4.92,
+  "soft": 82.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Sarge_E_banner_Fade",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 28
+}
