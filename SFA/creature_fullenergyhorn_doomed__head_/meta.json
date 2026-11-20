@@ -1,0 +1,17 @@
+{
+  "effect": "creature_fullenergyhorn_doomed_(head)",
+  "game": "sfa",
+  "sourceBundle": "cfc9f3049fcd3f9b108bcdd91782ec94",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Creature_FullEnergyHorn_Doomed_(head)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

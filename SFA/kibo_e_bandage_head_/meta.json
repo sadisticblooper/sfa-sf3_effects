@@ -1,0 +1,17 @@
+{
+  "effect": "kibo_e_bandage(head)",
+  "game": "sfa",
+  "sourceBundle": "d39b625eb75355ec598a539433a935d4",
+  "prefab": null,
+  "cover": 1.19,
+  "soft": 6.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Kibo_E_bandage(head)",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

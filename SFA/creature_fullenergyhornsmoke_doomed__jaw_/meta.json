@@ -1,0 +1,17 @@
+{
+  "effect": "creature_fullenergyhornsmoke_doomed_(jaw)",
+  "game": "sfa",
+  "sourceBundle": "cfc9f3049fcd3f9b108bcdd91782ec94",
+  "prefab": null,
+  "cover": 80.35,
+  "soft": 88.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Creature_FullEnergyHornSmoke_Doomed_(jaw)",
+  "particleSystemCount": 8,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 28
+}

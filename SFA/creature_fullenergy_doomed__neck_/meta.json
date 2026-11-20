@@ -1,0 +1,17 @@
+{
+  "effect": "creature_fullenergy_doomed_(neck)",
+  "game": "sfa",
+  "sourceBundle": "cfc9f3049fcd3f9b108bcdd91782ec94",
+  "prefab": null,
+  "cover": 2.4,
+  "soft": 84.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Creature_FullEnergy_Doomed_(neck)",
+  "particleSystemCount": 5,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}
