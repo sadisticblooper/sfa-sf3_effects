@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_wpn_e_start_3(w_fans_root_l)",
+  "game": "sfa",
+  "sourceBundle": "b95608d5a4a0c3a9dede42d28d1c4f56",
+  "prefab": null,
+  "cover": 2.23,
+  "soft": 55.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_Wpn_E_Start_3(w_fans_root_l)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

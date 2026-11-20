@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_widow_wpn_e_loop(weapon_r)",
+  "game": "sfa",
+  "sourceBundle": "b95608d5a4a0c3a9dede42d28d1c4f56",
+  "prefab": null,
+  "cover": 3.99,
+  "soft": 76.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Widow_Wpn_E_Loop(weapon_r)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}
