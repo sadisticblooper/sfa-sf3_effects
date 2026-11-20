@@ -1,0 +1,17 @@
+{
+  "effect": "legend_skin_lynx_claws_small_lobby(w_claws01_l)",
+  "game": "sfa",
+  "sourceBundle": "af05525318c29746779b7c182b30e59f_1",
+  "prefab": null,
+  "cover": 11.41,
+  "soft": 60.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legend_skin_Lynx_Claws_Small_Lobby(w_claws01_l)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

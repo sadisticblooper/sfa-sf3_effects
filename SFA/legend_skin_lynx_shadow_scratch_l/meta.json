@@ -1,0 +1,17 @@
+{
+  "effect": "legend_skin_lynx_shadow_scratch_l",
+  "game": "sfa",
+  "sourceBundle": "af05525318c29746779b7c182b30e59f_1",
+  "prefab": null,
+  "cover": 20.58,
+  "soft": 68.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legend_skin_Lynx_Shadow_Scratch_L",
+  "particleSystemCount": 12,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 32
+}

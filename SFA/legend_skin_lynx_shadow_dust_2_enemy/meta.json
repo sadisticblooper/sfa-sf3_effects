@@ -1,0 +1,17 @@
+{
+  "effect": "legend_skin_lynx_shadow_dust_2_enemy",
+  "game": "sfa",
+  "sourceBundle": "af05525318c29746779b7c182b30e59f_1",
+  "prefab": null,
+  "cover": 0.05,
+  "soft": 31.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legend_skin_Lynx_Shadow_Dust_2_Enemy",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}
