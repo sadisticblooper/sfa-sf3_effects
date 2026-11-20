@@ -1,0 +1,17 @@
+{
+  "effect": "eventfeather_sakurapetal",
+  "game": "sfa",
+  "sourceBundle": "86211ecd6d3c1a0cf06182a600a06944",
+  "prefab": null,
+  "cover": 2.41,
+  "soft": 85.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EventFeather_SakuraPetal",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

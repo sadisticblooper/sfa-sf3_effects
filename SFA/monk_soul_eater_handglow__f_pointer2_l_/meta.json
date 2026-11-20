@@ -1,0 +1,17 @@
+{
+  "effect": "monk_soul_eater_handglow_(f_pointer2_l)",
+  "game": "sfa",
+  "sourceBundle": "866019208cf2d27309168fa1067492d8",
+  "prefab": null,
+  "cover": 27.45,
+  "soft": 83.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_Soul_Eater_HandGlow_(f_pointer2_l)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

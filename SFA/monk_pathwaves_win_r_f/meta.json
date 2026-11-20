@@ -1,0 +1,17 @@
+{
+  "effect": "monk_pathwaves_win_r_f",
+  "game": "sfa",
+  "sourceBundle": "866019208cf2d27309168fa1067492d8",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Monk_PathWaves_win_R_F",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}
