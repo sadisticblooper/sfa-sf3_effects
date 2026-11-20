@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_shogun_demon_stacks_04(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "653c7b54648a619b8f4d538b0492db77",
+  "prefab": null,
+  "cover": 89.55,
+  "soft": 0.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "vfx_shogun_demon_stacks_04(pelvis)",
+  "particleSystemCount": 10,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

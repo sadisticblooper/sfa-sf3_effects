@@ -1,0 +1,17 @@
+{
+  "effect": "marcusknight_notcharged_cyan_(w_giant_sword_01_r)",
+  "game": "sfa",
+  "sourceBundle": "60d1d529db17491cdd682aeda42cd9eb",
+  "prefab": null,
+  "cover": 2.84,
+  "soft": 80.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MarcusKnight_NotCharged_Cyan_(w_giant_sword_01_r)",
+  "particleSystemCount": 9,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}

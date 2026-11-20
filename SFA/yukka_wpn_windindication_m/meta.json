@@ -1,0 +1,17 @@
+{
+  "effect": "yukka_wpn_windindication_m",
+  "game": "sfa",
+  "sourceBundle": "64729750091552a85a17ea670ad05c71",
+  "prefab": null,
+  "cover": 0.02,
+  "soft": 67.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yukka_wpn_WindIndication_m",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

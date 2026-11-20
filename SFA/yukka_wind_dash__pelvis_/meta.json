@@ -1,0 +1,17 @@
+{
+  "effect": "yukka_wind_dash_(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "64729750091552a85a17ea670ad05c71",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Yukka_Wind_Dash_(pelvis)",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

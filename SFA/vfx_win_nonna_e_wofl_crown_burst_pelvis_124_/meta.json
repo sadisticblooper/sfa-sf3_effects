@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_win_nonna_e_wofl_crown_burst(pelvis_124)",
+  "game": "sfa",
+  "sourceBundle": "63f4b33b4335d961f1227dbdb4a984bd",
+  "prefab": null,
+  "cover": 19.39,
+  "soft": 71.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_win_Nonna_E_wofl_crown_burst(pelvis_124)",
+  "particleSystemCount": 8,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}
