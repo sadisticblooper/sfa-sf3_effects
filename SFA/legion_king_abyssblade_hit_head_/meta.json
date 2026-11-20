@@ -1,0 +1,17 @@
+{
+  "effect": "legion_king_abyssblade_hit(head)",
+  "game": "sfa",
+  "sourceBundle": "7f4b2cc0747a2c00f9f64d9d77754c4f",
+  "prefab": null,
+  "cover": 5.65,
+  "soft": 66.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Legion_King_Abyssblade_Hit(head)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

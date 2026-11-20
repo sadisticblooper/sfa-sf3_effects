@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_dual_swords_hit_r",
+  "game": "sfa",
+  "sourceBundle": "7a002e4ea508f5b4fe5afad2af60ab18_1",
+  "prefab": null,
+  "cover": 2.34,
+  "soft": 60.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_dual_swords_hit_r",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 5
+}

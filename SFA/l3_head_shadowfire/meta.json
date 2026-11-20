@@ -1,0 +1,17 @@
+{
+  "effect": "l3_head_shadowfire",
+  "game": "sfa",
+  "sourceBundle": "7a002e4ea508f5b4fe5afad2af60ab18_1",
+  "prefab": null,
+  "cover": 2.12,
+  "soft": 94.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L3_Head_ShadowFire",
+  "particleSystemCount": 1,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

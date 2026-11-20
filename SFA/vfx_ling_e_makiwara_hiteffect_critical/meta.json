@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_ling_e_makiwara_hiteffect_critical",
+  "game": "sfa",
+  "sourceBundle": "79fcc4d4282b435c77bf5d5cc3e76284",
+  "prefab": null,
+  "cover": 57.49,
+  "soft": 69.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Ling_E_Makiwara_HitEffect_Critical",
+  "particleSystemCount": 9,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 7
+}

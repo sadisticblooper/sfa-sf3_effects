@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_rng_str_pistol_krot(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "7a002e4ea508f5b4fe5afad2af60ab18_1",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Shadow_Rng_Str_Pistol_Krot(Pelvis)",
+  "particleSystemCount": 13,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 43
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "eventpowerup_idle_(chest)",
+  "game": "sfa",
+  "sourceBundle": "7f34d8ea5d712f26069a0048e5af9644",
+  "prefab": null,
+  "cover": 0.07,
+  "soft": 17.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EventPowerUp_Idle_(chest)",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 42
+}

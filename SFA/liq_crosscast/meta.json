@@ -1,0 +1,17 @@
+{
+  "effect": "liq_crosscast",
+  "game": "sfa",
+  "sourceBundle": "7a002e4ea508f5b4fe5afad2af60ab18_1",
+  "prefab": null,
+  "cover": 4.84,
+  "soft": 67.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liq_CrossCast",
+  "particleSystemCount": 4,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

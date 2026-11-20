@@ -1,0 +1,17 @@
+{
+  "effect": "liq_crossswordtrail_second",
+  "game": "sfa",
+  "sourceBundle": "7a002e4ea508f5b4fe5afad2af60ab18_1",
+  "prefab": null,
+  "cover": 1.78,
+  "soft": 82.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Liq_CrossSwordTrail_Second",
+  "particleSystemCount": 2,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

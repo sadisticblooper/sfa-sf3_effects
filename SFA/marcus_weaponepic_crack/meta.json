@@ -1,0 +1,17 @@
+{
+  "effect": "marcus_weaponepic_crack",
+  "game": "sfa",
+  "sourceBundle": "7febc31f0094a5d32817852006712f46",
+  "prefab": null,
+  "cover": 25.4,
+  "soft": 61.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Marcus_WeaponEpic_Crack",
+  "particleSystemCount": 14,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 27
+}
