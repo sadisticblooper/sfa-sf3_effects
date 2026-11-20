@@ -1,0 +1,17 @@
+{
+  "effect": "june_energy_knife_out(knife)_v2",
+  "game": "sfa",
+  "sourceBundle": "8fbb0beb42de73970b5c912434399cbc",
+  "prefab": null,
+  "cover": 58.54,
+  "soft": 14.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "June_Energy_Knife_Out(knife)_v2",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 17
+}

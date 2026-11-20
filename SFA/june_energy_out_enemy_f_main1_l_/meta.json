@@ -1,0 +1,17 @@
+{
+  "effect": "june_energy_out_enemy(f_main1_l)",
+  "game": "sfa",
+  "sourceBundle": "8fbb0beb42de73970b5c912434399cbc",
+  "prefab": null,
+  "cover": 12.98,
+  "soft": 7.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "June_Energy_Out_Enemy(f_main1_l)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "june_knife_light_form_kara_is_ready(knife_l)_lobby",
+  "game": "sfa",
+  "sourceBundle": "8fbb0beb42de73970b5c912434399cbc",
+  "prefab": null,
+  "cover": 6.68,
+  "soft": 62.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "June_knife_Light_Form_Kara_Is_Ready(knife_l)_Lobby",
+  "particleSystemCount": 5,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

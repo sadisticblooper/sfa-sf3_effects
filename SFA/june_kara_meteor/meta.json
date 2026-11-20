@@ -1,0 +1,17 @@
+{
+  "effect": "june_kara_meteor",
+  "game": "sfa",
+  "sourceBundle": "8fbb0beb42de73970b5c912434399cbc",
+  "prefab": null,
+  "cover": 5.94,
+  "soft": 59.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "June_Kara_Meteor",
+  "particleSystemCount": 9,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

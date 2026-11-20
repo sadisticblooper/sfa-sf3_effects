@@ -1,0 +1,17 @@
+{
+  "effect": "june_knife_light_form_1stage(knife_l)",
+  "game": "sfa",
+  "sourceBundle": "8fbb0beb42de73970b5c912434399cbc",
+  "prefab": null,
+  "cover": 0.12,
+  "soft": 92.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "June_Knife_Light_Form_1Stage(knife_l)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

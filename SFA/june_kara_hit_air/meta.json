@@ -1,0 +1,17 @@
+{
+  "effect": "june_kara_hit_air",
+  "game": "sfa",
+  "sourceBundle": "8fbb0beb42de73970b5c912434399cbc",
+  "prefab": null,
+  "cover": 36.11,
+  "soft": 1.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "June_Kara_Hit_air",
+  "particleSystemCount": 18,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 30
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "june_knife_attack_slash_1_easy",
+  "game": "sfa",
+  "sourceBundle": "8fbb0beb42de73970b5c912434399cbc",
+  "prefab": null,
+  "cover": 0.06,
+  "soft": 33.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "June_knife_Attack_Slash_1_Easy",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 4
+}

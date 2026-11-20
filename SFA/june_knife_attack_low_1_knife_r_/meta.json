@@ -1,0 +1,17 @@
+{
+  "effect": "june_knife_attack_low_1(knife_r)",
+  "game": "sfa",
+  "sourceBundle": "8fbb0beb42de73970b5c912434399cbc",
+  "prefab": null,
+  "cover": 0.54,
+  "soft": 10.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "June_knife_Attack_Low_1(knife_r)",
+  "particleSystemCount": 17,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 7
+}
