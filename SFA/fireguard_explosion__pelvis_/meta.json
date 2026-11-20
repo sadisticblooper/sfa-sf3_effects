@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_explosion_(pelvis)",
+  "game": "sfa",
+  "sourceBundle": "aa02b43b86a788d8f60a2f9711f7f28b",
+  "prefab": null,
+  "cover": 39.6,
+  "soft": 63.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fireguard_Explosion_(pelvis)",
+  "particleSystemCount": 12,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 24
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "preexpl_1_(arm_l)",
+  "game": "sfa",
+  "sourceBundle": "aa02b43b86a788d8f60a2f9711f7f28b",
+  "prefab": null,
+  "cover": 0.6,
+  "soft": 5.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "preExpl_1_(arm_l)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 44
+}
