@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_lynx_win_portal_blood_wall(weapon_r_)",
+  "game": "sfa",
+  "sourceBundle": "d5407fa5d9eddc9f075f9cd9e98aea74",
+  "prefab": null,
+  "cover": 6.55,
+  "soft": 81.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Lynx_Win_Portal_Blood_wall(weapon_r_)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}
