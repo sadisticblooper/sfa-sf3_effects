@@ -1,0 +1,17 @@
+{
+  "effect": "freezestrikes_fire_ray",
+  "game": "sfa",
+  "sourceBundle": "917a8f94492b8da336d3f2a8e768f0d8",
+  "prefab": null,
+  "cover": 31.93,
+  "soft": 1.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Freezestrikes_Fire_Ray",
+  "particleSystemCount": 9,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

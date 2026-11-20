@@ -1,0 +1,17 @@
+{
+  "effect": "freezestrike_ray_blue",
+  "game": "sfa",
+  "sourceBundle": "917a8f94492b8da336d3f2a8e768f0d8",
+  "prefab": null,
+  "cover": 22.53,
+  "soft": 87.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Freezestrike_Ray_Blue",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}
