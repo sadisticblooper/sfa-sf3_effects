@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_ironclad_l_aura_step_3(foot_r)",
+  "game": "sfa",
+  "sourceBundle": "749b5cfd52ab935374bffa4bc671cc3f",
+  "prefab": null,
+  "cover": 1.42,
+  "soft": 4.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Ironclad_L_Aura_Step_3(foot_r)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

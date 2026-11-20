@@ -1,0 +1,17 @@
+{
+  "effect": "active_block_shield",
+  "game": "sfa",
+  "sourceBundle": "785e9a3b186e06bff31d76d211a24bc2",
+  "prefab": null,
+  "cover": 0.2,
+  "soft": 80.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Active_Block_Shield",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
