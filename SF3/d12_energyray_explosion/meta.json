@@ -1,0 +1,17 @@
+{
+  "effect": "d12_energyray_explosion",
+  "game": "sf3",
+  "sourceBundle": "731ffc0a4150415049c9a31d9e8a59df",
+  "prefab": null,
+  "cover": 5.87,
+  "soft": 84.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D12_energyRay_explosion",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

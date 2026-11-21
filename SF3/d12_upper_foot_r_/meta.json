@@ -1,0 +1,17 @@
+{
+  "effect": "d12_upper(foot_r)",
+  "game": "sf3",
+  "sourceBundle": "731ffc0a4150415049c9a31d9e8a59df",
+  "prefab": null,
+  "cover": 4.03,
+  "soft": 49.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D12_upper(foot_R)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

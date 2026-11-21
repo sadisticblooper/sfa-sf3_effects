@@ -1,0 +1,17 @@
+{
+  "effect": "fx_bamboo_arena_01",
+  "game": "sf3",
+  "sourceBundle": "74e42cdd8083d47a94da1d26ad28b1d7",
+  "prefab": null,
+  "cover": 0.02,
+  "soft": 46.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_bamboo_arena_01",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

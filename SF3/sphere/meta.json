@@ -1,0 +1,17 @@
+{
+  "effect": "sphere",
+  "game": "sf3",
+  "sourceBundle": "74e42cdd8083d47a94da1d26ad28b1d7",
+  "prefab": null,
+  "cover": 23.11,
+  "soft": 94.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Sphere",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

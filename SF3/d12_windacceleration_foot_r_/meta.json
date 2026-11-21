@@ -1,0 +1,17 @@
+{
+  "effect": "d12_windacceleration(foot_r)",
+  "game": "sf3",
+  "sourceBundle": "731ffc0a4150415049c9a31d9e8a59df",
+  "prefab": null,
+  "cover": 3.67,
+  "soft": 80.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D12_windAcceleration(foot_R)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

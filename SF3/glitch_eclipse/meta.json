@@ -1,0 +1,17 @@
+{
+  "effect": "glitch_eclipse",
+  "game": "sf3",
+  "sourceBundle": "7177d4c4be6922a9561cf09c390f59b7",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "glitch_eclipse",
+  "particleSystemCount": 17,
+  "materialCount": 16,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

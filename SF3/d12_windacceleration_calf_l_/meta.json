@@ -1,0 +1,17 @@
+{
+  "effect": "d12_windacceleration(calf_l)",
+  "game": "sf3",
+  "sourceBundle": "731ffc0a4150415049c9a31d9e8a59df",
+  "prefab": null,
+  "cover": 0.06,
+  "soft": 21.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D12_windAcceleration(calf_L)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 7
+}

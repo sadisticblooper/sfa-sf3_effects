@@ -1,0 +1,17 @@
+{
+  "effect": "d16_bomb_bowlingbomb",
+  "game": "sf3",
+  "sourceBundle": "7796ae989e795ed667f6dc6141d67f5c",
+  "prefab": null,
+  "cover": 7.14,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "d16_bomb_bowlingBomb",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 1
+}

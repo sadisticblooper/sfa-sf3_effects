@@ -1,0 +1,17 @@
+{
+  "effect": "d12_windshield_explosion",
+  "game": "sf3",
+  "sourceBundle": "731ffc0a4150415049c9a31d9e8a59df",
+  "prefab": null,
+  "cover": 0.12,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D12_Windshield_Explosion",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 4
+}

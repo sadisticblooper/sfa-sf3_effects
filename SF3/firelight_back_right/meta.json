@@ -1,0 +1,17 @@
+{
+  "effect": "firelight_back_right",
+  "game": "sf3",
+  "sourceBundle": "74e42cdd8083d47a94da1d26ad28b1d7",
+  "prefab": null,
+  "cover": 21.98,
+  "soft": 91.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "FireLight_Back_right",
+  "particleSystemCount": 1,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
