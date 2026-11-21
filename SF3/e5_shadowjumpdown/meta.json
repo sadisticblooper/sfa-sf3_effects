@@ -1,0 +1,17 @@
+{
+  "effect": "e5_shadowjumpdown",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 4.48,
+  "soft": 78.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "E5_ShadowJumpDown",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}

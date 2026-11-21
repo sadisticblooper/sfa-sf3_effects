@@ -1,0 +1,17 @@
+{
+  "effect": "e5_drain_(hand_l)_glowhand",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 3.17,
+  "soft": 81.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "E5_Drain_(hand_l)_glowHand",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}
