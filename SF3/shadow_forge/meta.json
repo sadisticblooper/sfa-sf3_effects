@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_forge",
+  "game": "sf3",
+  "sourceBundle": "50db92c43f10d40dbe359bbae436a774",
+  "prefab": null,
+  "cover": 94.73,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_forge",
+  "particleSystemCount": 30,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

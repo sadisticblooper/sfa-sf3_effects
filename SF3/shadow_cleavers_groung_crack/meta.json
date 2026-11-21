@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_cleavers_groung_crack",
+  "game": "sf3",
+  "sourceBundle": "535244503e402bd1589415e399cde85b",
+  "prefab": null,
+  "cover": 16.67,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_cleavers_groung_crack",
+  "particleSystemCount": 29,
+  "materialCount": 25,
+  "unityVersion": "6000.2.14f1",
+  "frames": 2
+}
