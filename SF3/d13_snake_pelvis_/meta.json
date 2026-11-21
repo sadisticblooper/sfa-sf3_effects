@@ -1,0 +1,17 @@
+{
+  "effect": "d13_snake(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "9149a613a518b5abc573132159b3f9c4",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 37.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D13_snake(pelvis)",
+  "particleSystemCount": 11,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

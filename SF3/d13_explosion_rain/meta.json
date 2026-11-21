@@ -1,0 +1,17 @@
+{
+  "effect": "d13_explosion_rain",
+  "game": "sf3",
+  "sourceBundle": "9149a613a518b5abc573132159b3f9c4",
+  "prefab": null,
+  "cover": 14.62,
+  "soft": 78.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D13_explosion_rain",
+  "particleSystemCount": 30,
+  "materialCount": 15,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
