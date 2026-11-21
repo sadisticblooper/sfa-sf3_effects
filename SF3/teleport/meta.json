@@ -1,0 +1,17 @@
+{
+  "effect": "teleport",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 18.39,
+  "soft": 1.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Teleport",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}
