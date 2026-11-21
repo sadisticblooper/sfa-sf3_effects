@@ -1,0 +1,17 @@
+{
+  "effect": "dojo_temple_fall_lobby",
+  "game": "sf3",
+  "sourceBundle": "6634d743236c3649b4924d739bbee154",
+  "prefab": null,
+  "cover": 85.29,
+  "soft": 8.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "dojo_temple_fall_lobby",
+  "particleSystemCount": 2,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

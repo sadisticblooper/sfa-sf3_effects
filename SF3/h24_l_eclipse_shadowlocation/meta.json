@@ -1,0 +1,17 @@
+{
+  "effect": "h24_l_eclipse_shadowlocation",
+  "game": "sf3",
+  "sourceBundle": "65b894b124d6d85624bacf77778dee99",
+  "prefab": null,
+  "cover": 0.13,
+  "soft": 78.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h24_L_Eclipse_ShadowLocation",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

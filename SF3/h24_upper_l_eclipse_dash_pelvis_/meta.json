@@ -1,0 +1,17 @@
+{
+  "effect": "h24_upper_l_eclipse_dash(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "65b894b124d6d85624bacf77778dee99",
+  "prefab": null,
+  "cover": 6.87,
+  "soft": 50.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h24_upper_L_Eclipse_dash(pelvis)",
+  "particleSystemCount": 7,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}

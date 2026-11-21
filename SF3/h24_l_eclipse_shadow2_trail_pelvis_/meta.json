@@ -1,0 +1,17 @@
+{
+  "effect": "h24_l_eclipse_shadow2_trail(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "65b894b124d6d85624bacf77778dee99",
+  "prefab": null,
+  "cover": 8.82,
+  "soft": 79.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h24_L_Eclipse_shadow2_Trail(pelvis)",
+  "particleSystemCount": 7,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

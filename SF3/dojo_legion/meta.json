@@ -1,0 +1,17 @@
+{
+  "effect": "dojo_legion",
+  "game": "sf3",
+  "sourceBundle": "6c9798420ae34b98b2a722b65fbff2fa",
+  "prefab": null,
+  "cover": 2.24,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "dojo_Legion",
+  "particleSystemCount": 4,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 1
+}

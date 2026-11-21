@@ -1,0 +1,17 @@
+{
+  "effect": "h24_upper_l_eclipse_trail3_(w_dual_swords_00_r)",
+  "game": "sf3",
+  "sourceBundle": "65b894b124d6d85624bacf77778dee99",
+  "prefab": null,
+  "cover": 10.56,
+  "soft": 71.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h24_upper_L_Eclipse_trail3_(w_dual_swords_00_r)",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

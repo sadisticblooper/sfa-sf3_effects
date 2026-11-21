@@ -1,0 +1,17 @@
+{
+  "effect": "h24_fx_spinattack_slash_1(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "65b894b124d6d85624bacf77778dee99",
+  "prefab": null,
+  "cover": 2.17,
+  "soft": 60.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h24_fx_SpinAttack_Slash_1(pelvis)",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

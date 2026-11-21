@@ -1,0 +1,17 @@
+{
+  "effect": "h24_kibo_l_eclipse_skin(chest)",
+  "game": "sf3",
+  "sourceBundle": "65b894b124d6d85624bacf77778dee99",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 91.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h24_Kibo_L_Eclipse_Skin(chest)",
+  "particleSystemCount": 20,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

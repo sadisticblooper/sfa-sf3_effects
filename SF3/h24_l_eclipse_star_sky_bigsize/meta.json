@@ -1,0 +1,17 @@
+{
+  "effect": "h24_l_eclipse_star_sky_bigsize",
+  "game": "sf3",
+  "sourceBundle": "65b894b124d6d85624bacf77778dee99",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h24_L_Eclipse_star_sky_bigSize",
+  "particleSystemCount": 8,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
