@@ -1,0 +1,17 @@
+{
+  "effect": "l19_rose_petalls_falldown(gun_joint_l)",
+  "game": "sf3",
+  "sourceBundle": "dc54a5dd582cbfc0366546ad6ad3dc0e",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L19_rose_petalls_fallDown(gun_joint_l)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

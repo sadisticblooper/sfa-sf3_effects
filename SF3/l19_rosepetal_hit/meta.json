@@ -1,0 +1,17 @@
+{
+  "effect": "l19_rosepetal_hit",
+  "game": "sf3",
+  "sourceBundle": "dc54a5dd582cbfc0366546ad6ad3dc0e",
+  "prefab": null,
+  "cover": 57.5,
+  "soft": 68.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L19_rosePetal_hit",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}
