@@ -1,0 +1,17 @@
+{
+  "effect": "queen_ability2_foothit_glow2_(calf_l_2)_43",
+  "game": "sf3",
+  "sourceBundle": "f479dd46d1b4b20ee584bf5001f5b772",
+  "prefab": null,
+  "cover": 66.27,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Queen_ability2_footHit_glow2_(calf_l_2)_43",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}

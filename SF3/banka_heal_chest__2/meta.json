@@ -1,0 +1,17 @@
+{
+  "effect": "banka_heal(chest)_2",
+  "game": "sf3",
+  "sourceBundle": "f479dd46d1b4b20ee584bf5001f5b772",
+  "prefab": null,
+  "cover": 30.35,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "banka_heal(chest)_2",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

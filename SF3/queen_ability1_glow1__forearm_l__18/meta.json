@@ -1,0 +1,17 @@
+{
+  "effect": "queen_ability1_glow1_(forearm_l)_18",
+  "game": "sf3",
+  "sourceBundle": "f479dd46d1b4b20ee584bf5001f5b772",
+  "prefab": null,
+  "cover": 6.26,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Queen_ability1_glow1_(forearm_l)_18",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}
