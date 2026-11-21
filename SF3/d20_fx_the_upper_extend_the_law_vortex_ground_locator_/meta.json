@@ -1,0 +1,17 @@
+{
+  "effect": "d20_fx_the_upper_extend_the_law_vortex(ground_locator)",
+  "game": "sf3",
+  "sourceBundle": "ace92f49fa54ff71753844d6b7aea175",
+  "prefab": null,
+  "cover": 57.3,
+  "soft": 83.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D20_fx_the_upper_extend_the_law_vortex(ground_locator)",
+  "particleSystemCount": 16,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 20
+}
