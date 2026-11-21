@@ -1,0 +1,17 @@
+{
+  "effect": "h26_fx_upper_pheromones_liquid_(bottle_joint_l)",
+  "game": "sf3",
+  "sourceBundle": "b65667a12736d5dfa256d10d0e5e8a12",
+  "prefab": null,
+  "cover": 19.08,
+  "soft": 85.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H26_fx_upper_pheromones_liquid_(bottle_joint_l)",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}

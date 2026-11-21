@@ -1,0 +1,17 @@
+{
+  "effect": "d15_fx_axe_light(weapon_r)",
+  "game": "sf3",
+  "sourceBundle": "b6e752f081ed58a8d0f721b50d8a4a43",
+  "prefab": null,
+  "cover": 0.88,
+  "soft": 22.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D15_fx_axe_light(weapon_r)",
+  "particleSystemCount": 16,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

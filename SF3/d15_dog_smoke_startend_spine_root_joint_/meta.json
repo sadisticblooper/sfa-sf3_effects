@@ -1,0 +1,17 @@
+{
+  "effect": "d15_dog_smoke_startend(spine_root_joint)",
+  "game": "sf3",
+  "sourceBundle": "b6e752f081ed58a8d0f721b50d8a4a43",
+  "prefab": null,
+  "cover": 34.17,
+  "soft": 85.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D15_dog_smoke_startEnd(spine_root_joint)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

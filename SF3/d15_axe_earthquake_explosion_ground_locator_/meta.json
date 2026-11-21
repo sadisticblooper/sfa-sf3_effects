@@ -1,0 +1,17 @@
+{
+  "effect": "d15_axe_earthquake_explosion(ground_locator)",
+  "game": "sf3",
+  "sourceBundle": "b6e752f081ed58a8d0f721b50d8a4a43",
+  "prefab": null,
+  "cover": 0.33,
+  "soft": 46.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D15_axe_earthquake_explosion(ground_locator)",
+  "particleSystemCount": 15,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 17
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "d15_fx_axe_groundcracksexplos(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "b6e752f081ed58a8d0f721b50d8a4a43",
+  "prefab": null,
+  "cover": 36.69,
+  "soft": 84.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D15_fx_axe_groundCracksExplos(pelvis)",
+  "particleSystemCount": 33,
+  "materialCount": 21,
+  "unityVersion": "6000.2.14f1",
+  "frames": 41
+}

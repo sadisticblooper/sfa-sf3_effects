@@ -1,0 +1,17 @@
+{
+  "effect": "d15_fx_avatar_start_explos_small(chest)",
+  "game": "sf3",
+  "sourceBundle": "b6e752f081ed58a8d0f721b50d8a4a43",
+  "prefab": null,
+  "cover": 83.1,
+  "soft": 39.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D15_fx_avatar_start_explos_small(chest)",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}
