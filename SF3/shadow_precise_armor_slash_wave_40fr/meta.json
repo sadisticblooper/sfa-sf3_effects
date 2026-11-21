@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_precise_armor_slash_wave_40fr",
+  "game": "sf3",
+  "sourceBundle": "806a6a3fa24e93ed77264ed665ce8b89",
+  "prefab": null,
+  "cover": 23.65,
+  "soft": 39.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_precise_armor_slash_Wave_40fr",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 20
+}

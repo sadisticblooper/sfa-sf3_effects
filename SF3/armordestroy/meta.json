@@ -1,0 +1,17 @@
+{
+  "effect": "armordestroy",
+  "game": "sf3",
+  "sourceBundle": "8197677cd0eae1ed014c70be0a507aac",
+  "prefab": null,
+  "cover": 73.8,
+  "soft": 35.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "ArmorDestroy",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

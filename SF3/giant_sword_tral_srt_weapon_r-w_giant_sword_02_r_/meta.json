@@ -1,0 +1,17 @@
+{
+  "effect": "giant_sword_tral_srt(weapon_r-w_giant_sword_02_r)",
+  "game": "sf3",
+  "sourceBundle": "7e81dcde83d75028789c289161f69de4",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "giant_sword_Tral_Srt(weapon_r-w_giant_sword_02_r)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 41
+}

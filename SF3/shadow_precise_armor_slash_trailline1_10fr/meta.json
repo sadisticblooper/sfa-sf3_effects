@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_precise_armor_slash_trailline1_10fr",
+  "game": "sf3",
+  "sourceBundle": "806a6a3fa24e93ed77264ed665ce8b89",
+  "prefab": null,
+  "cover": 21.48,
+  "soft": 8.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_precise_armor_slash_TrailLine1_10fr",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

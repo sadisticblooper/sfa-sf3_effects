@@ -1,0 +1,17 @@
+{
+  "effect": "final_boss_shadow_eye",
+  "game": "sf3",
+  "sourceBundle": "8197677cd0eae1ed014c70be0a507aac",
+  "prefab": null,
+  "cover": 2.94,
+  "soft": 83.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Final_Boss_Shadow_Eye",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

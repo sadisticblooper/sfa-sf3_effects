@@ -1,0 +1,17 @@
+{
+  "effect": "dojo_winter_lobby_lowrez",
+  "game": "sf3",
+  "sourceBundle": "7e1ac24251ed6576a31440a8c1b06ea0",
+  "prefab": null,
+  "cover": 56.05,
+  "soft": 3.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "dojo_winter_lobby_lowrez",
+  "particleSystemCount": 3,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
