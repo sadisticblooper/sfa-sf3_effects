@@ -6,6 +6,9 @@ on:
     paths:
       - 'SF3/**'
       - 'SFA/**'
+      - '.github/workflows/zip-frames.yml'
+      - 'zip_frames.py'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -18,13 +21,56 @@ jobs:
   zip:
     runs-on: ubuntu-latest
     steps:
+      # Partial clone: tree objects only, zero file blobs fetched upfront.
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          filter: blob:none
+          sparse-checkout: |
+            .github/workflows/zip-frames.yml
+            zip_frames.py
+          sparse-checkout-cone-mode: false
+          fetch-depth: 0
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+      - name: Find changed effect dirs
+        id: dirs
+        run: |
+          set -euo pipefail
+          BEFORE="${{ github.event.before }}"
+          SHA="${{ github.sha }}"
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            BEFORE=$(git rev-parse "$SHA^" 2>/dev/null || echo "")
+          fi
+          if [ -n "$BEFORE" ]; then
+            git diff --name-only "$BEFORE" "$SHA" -- 'SF3/**' 'SFA/**' \
+              | cut -d/ -f1,2 | sort -u > changed_dirs.txt
+          fi
+          if [ ! -s changed_dirs.txt ]; then
+            git ls-tree -d --name-only HEAD SF3/ SFA/ \
+              | sed 's#/$##' > changed_dirs.txt
+          fi
+          echo "effect dirs: $(wc -l < changed_dirs.txt)"
 
-      - name: Zip frames for effects changed by this push
-        run: python zip_frames.py --repo . --changed-ref HEAD~1 --chunk 50
+          # Expand sparse checkout to only the changed effect folders.
+          awk '{print $0 "/"}' changed_dirs.txt > patterns.txt
+          git sparse-checkout set --no-cone \
+            $(cat patterns.txt) \
+            .github/workflows/zip-frames.yml \
+            zip_frames.py
+
+      - name: Build frame archives
+        run: python zip_frames.py --repo . --dirs changed_dirs.txt --no-commit
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          git config user.name "VFX Pipeline"
+          git config user.email "vfx-pipeline@local"
+          if [ -s zip_paths.txt ]; then
+            git add -f -- $(cat zip_paths.txt)
+          fi
+          if git diff --cached --quiet; then
+            echo "No archive changes"
+          else
+            git commit -m "chore: update frame archives"
+            git push origin HEAD:refs/heads/main
+          fi
