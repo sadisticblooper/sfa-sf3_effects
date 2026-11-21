@@ -1,0 +1,17 @@
+{
+  "effect": "l22_fx_swordslash_wingsperia(wings_addxx)_7fr",
+  "game": "sf3",
+  "sourceBundle": "300ee82f53ba2e833fe028b8b578ded9",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L22_fx_SwordSlash_wingsPeria(wings_addxx)_7fr",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 1
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "market_destroyed_no_palace",
+  "game": "sf3",
+  "sourceBundle": "2ff2a17e22beda08c66dc26e21a70443",
+  "prefab": null,
+  "cover": 80.71,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "market_destroyed_no_palace",
+  "particleSystemCount": 2,
+  "materialCount": 16,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

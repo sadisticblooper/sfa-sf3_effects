@@ -1,0 +1,17 @@
+{
+  "effect": "l22_fx_chain_hit(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "300ee82f53ba2e833fe028b8b578ded9",
+  "prefab": null,
+  "cover": 30.21,
+  "soft": 69.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L22_fx_Chain_Hit(pelvis)",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 45
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "fireguard_flame_spit",
+  "game": "sf3",
+  "sourceBundle": "2f4948dd3037cd5e7d53ae8969a9ebee",
+  "prefab": null,
+  "cover": 11.78,
+  "soft": 48.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fireguard_flame_spit",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}

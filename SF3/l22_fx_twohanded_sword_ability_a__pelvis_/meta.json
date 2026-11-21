@@ -1,0 +1,17 @@
+{
+  "effect": "l22_fx_twohanded_sword_ability_a_(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "300ee82f53ba2e833fe028b8b578ded9",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 12.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L22_fx_twohanded_sword_ability_A_(pelvis)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}
