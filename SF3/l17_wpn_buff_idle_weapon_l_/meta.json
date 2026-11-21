@@ -1,0 +1,17 @@
+{
+  "effect": "l17_wpn_buff_idle(weapon_l)",
+  "game": "sf3",
+  "sourceBundle": "9d9dc4d0826338e64f8e8f4a2d873433",
+  "prefab": null,
+  "cover": 3.18,
+  "soft": 68.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L17_Wpn_Buff_Idle(weapon_l)",
+  "particleSystemCount": 10,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "l17_wpn_buff_in(weapon_r)",
+  "game": "sf3",
+  "sourceBundle": "9d9dc4d0826338e64f8e8f4a2d873433",
+  "prefab": null,
+  "cover": 22.33,
+  "soft": 51.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L17_Wpn_Buff_In(weapon_r)",
+  "particleSystemCount": 11,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

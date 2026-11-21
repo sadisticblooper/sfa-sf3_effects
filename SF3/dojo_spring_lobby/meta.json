@@ -1,0 +1,17 @@
+{
+  "effect": "dojo_spring_lobby",
+  "game": "sf3",
+  "sourceBundle": "9ef6a3168b0c79ed96482322371dbec6",
+  "prefab": null,
+  "cover": 77.15,
+  "soft": 10.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "dojo_spring_lobby",
+  "particleSystemCount": 17,
+  "materialCount": 35,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
