@@ -33,8 +33,9 @@ jobs:
           set -euo pipefail
           : > map.txt
           for game in SF3 SFA; do
-            git ls-tree --name-only HEAD "$game" | while read -r effect; do
-              echo "$effect | https://github.com/$GITHUB_REPOSITORY/tree/main/$game/$effect"
+            git ls-tree --name-only HEAD "$game/" | while read -r path; do
+              effect="${path#$game/}"
+              echo "$effect | https://github.com/$GITHUB_REPOSITORY/tree/main/$path"
             done >> map.txt
           done
           echo "map.txt: $(wc -l < map.txt) effects"
