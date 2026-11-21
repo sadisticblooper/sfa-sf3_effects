@@ -13,5 +13,6 @@
   "particleSystemCount": 8,
   "materialCount": 8,
   "unityVersion": "6000.2.14f1",
-  "frames": 19
+  "frames": 19,
+  "shaderFix": "restored missing dependency bundles"
 }
