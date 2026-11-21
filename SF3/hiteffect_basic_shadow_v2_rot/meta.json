@@ -1,0 +1,17 @@
+{
+  "effect": "hiteffect_basic_shadow_v2_rot",
+  "game": "sf3",
+  "sourceBundle": "9149a613a518b5abc573132159b3f9c4",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "HitEffect_Basic_Shadow_v2_Rot",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

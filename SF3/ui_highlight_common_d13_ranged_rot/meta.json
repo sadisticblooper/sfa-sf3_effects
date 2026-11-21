@@ -1,0 +1,17 @@
+{
+  "effect": "ui_highlight_common_d13_ranged_rot",
+  "game": "sf3",
+  "sourceBundle": "9149a613a518b5abc573132159b3f9c4",
+  "prefab": null,
+  "cover": 3.65,
+  "soft": 73.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "UI_Highlight_Common_D13_Ranged_Rot",
+  "particleSystemCount": 8,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

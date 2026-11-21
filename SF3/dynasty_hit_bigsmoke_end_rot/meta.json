@@ -1,0 +1,17 @@
+{
+  "effect": "dynasty_hit_bigsmoke_end_rot",
+  "game": "sf3",
+  "sourceBundle": "9149a613a518b5abc573132159b3f9c4",
+  "prefab": null,
+  "cover": 2.99,
+  "soft": 63.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Dynasty_Hit_BigSmoke_end_Rot",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 24
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_rot_poison_gas_3_bigsize_start_idle",
+  "game": "sf3",
+  "sourceBundle": "9149a613a518b5abc573132159b3f9c4",
+  "prefab": null,
+  "cover": 0.33,
+  "soft": 6.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_Rot_poison_gas_3_bigSize_start_idle",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 1
+}
