@@ -1,0 +1,17 @@
+{
+  "effect": "h22_fx_totem_unfolding_yellow(w_glaive_01_r)",
+  "game": "sf3",
+  "sourceBundle": "5843df64823e56d6d115aac944343200",
+  "prefab": null,
+  "cover": 15.04,
+  "soft": 78.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H22_fx_totem_unfolding_yellow(w_glaive_01_r)",
+  "particleSystemCount": 31,
+  "materialCount": 22,
+  "unityVersion": "6000.2.14f1",
+  "frames": 20
+}

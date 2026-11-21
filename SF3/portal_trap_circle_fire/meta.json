@@ -1,0 +1,17 @@
+{
+  "effect": "portal_trap_circle_fire",
+  "game": "sf3",
+  "sourceBundle": "5ea2c392b1952860b6451e1ff6848167",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "portal_trap_circle_fire",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 39
+}
