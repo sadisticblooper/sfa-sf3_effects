@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_dual_axes2_trail_main_fire",
+  "game": "sf3",
+  "sourceBundle": "138136ce22f5600ad6638f64e1d844e6",
+  "prefab": null,
+  "cover": 18.14,
+  "soft": 46.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_dual_axes2_trail_main_fire",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

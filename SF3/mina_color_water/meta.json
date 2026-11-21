@@ -1,0 +1,17 @@
+{
+  "effect": "mina_color_water",
+  "game": "sf3",
+  "sourceBundle": "1485d6c2def5ef6ca9ce20421d659eda",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "mina_color_water",
+  "particleSystemCount": 10,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}

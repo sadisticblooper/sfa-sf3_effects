@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_swarm_crown(head)",
+  "game": "sf3",
+  "sourceBundle": "1765dae69000b395376c3e05001d21e1",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 24.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Shadow_Swarm_crown(head)",
+  "particleSystemCount": 8,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 43
+}

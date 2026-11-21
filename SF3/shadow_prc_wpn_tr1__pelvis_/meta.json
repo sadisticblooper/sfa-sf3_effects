@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_prc_wpn_tr1_(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "14a9aaa7e2218481ae103f65b9c19f1b",
+  "prefab": null,
+  "cover": 0.12,
+  "soft": 37.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_prc_wpn_tr1_(pelvis)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "dark_portal_long",
+  "game": "sf3",
+  "sourceBundle": "1485d6c2def5ef6ca9ce20421d659eda",
+  "prefab": null,
+  "cover": 3.64,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Dark_Portal_Long",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

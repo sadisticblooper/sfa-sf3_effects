@@ -1,0 +1,17 @@
+{
+  "effect": "beast_shadow_explosion",
+  "game": "sf3",
+  "sourceBundle": "178066e97cd6c74fb0533d53e11afffc",
+  "prefab": null,
+  "cover": 35.33,
+  "soft": 74.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Beast_shadow_explosion",
+  "particleSystemCount": 11,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "shadowstrongweapon_glow(hand_l)_fire",
+  "game": "sf3",
+  "sourceBundle": "138136ce22f5600ad6638f64e1d844e6",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "ShadowStrongWeapon_Glow(hand_l)_fire",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}
