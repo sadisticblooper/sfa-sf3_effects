@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_agl_helmet_vortex",
+  "game": "sf3",
+  "sourceBundle": "7a8a2288e99591aa681d2f374b97d95b",
+  "prefab": null,
+  "cover": 0.62,
+  "soft": 83.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_agl_helmet_vortex",
+  "particleSystemCount": 10,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

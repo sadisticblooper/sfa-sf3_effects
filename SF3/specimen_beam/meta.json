@@ -1,0 +1,17 @@
+{
+  "effect": "specimen_beam",
+  "game": "sf3",
+  "sourceBundle": "786558a81cf0175c44f1b8daa8e175f0",
+  "prefab": null,
+  "cover": 0.04,
+  "soft": 11.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Specimen_Beam",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "specimen_mine_fx",
+  "game": "sf3",
+  "sourceBundle": "786558a81cf0175c44f1b8daa8e175f0",
+  "prefab": null,
+  "cover": 3.95,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Specimen_Mine_FX",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

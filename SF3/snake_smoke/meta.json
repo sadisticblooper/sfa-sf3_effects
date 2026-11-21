@@ -1,0 +1,17 @@
+{
+  "effect": "snake_smoke",
+  "game": "sf3",
+  "sourceBundle": "786558a81cf0175c44f1b8daa8e175f0",
+  "prefab": null,
+  "cover": 6.4,
+  "soft": 68.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Snake_Smoke",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "specimen_mine_appear",
+  "game": "sf3",
+  "sourceBundle": "786558a81cf0175c44f1b8daa8e175f0",
+  "prefab": null,
+  "cover": 41.9,
+  "soft": 88.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Specimen_Mine_Appear",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

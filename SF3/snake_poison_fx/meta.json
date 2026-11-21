@@ -1,0 +1,17 @@
+{
+  "effect": "snake_poison_fx",
+  "game": "sf3",
+  "sourceBundle": "786558a81cf0175c44f1b8daa8e175f0",
+  "prefab": null,
+  "cover": 10.4,
+  "soft": 61.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Snake_Poison_FX",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}

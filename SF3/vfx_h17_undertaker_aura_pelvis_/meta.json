@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_h17_undertaker_aura(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "786558a81cf0175c44f1b8daa8e175f0",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_H17_Undertaker_Aura(pelvis)",
+  "particleSystemCount": 8,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 46
+}

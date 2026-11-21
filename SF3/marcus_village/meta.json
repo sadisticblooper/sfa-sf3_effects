@@ -1,0 +1,17 @@
+{
+  "effect": "marcus_village",
+  "game": "sf3",
+  "sourceBundle": "77e8887399f7cef94c3e4ee18ccbfcd0",
+  "prefab": null,
+  "cover": 0.3,
+  "soft": 87.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Marcus_village",
+  "particleSystemCount": 2,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

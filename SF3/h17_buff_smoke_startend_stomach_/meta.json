@@ -1,0 +1,17 @@
+{
+  "effect": "h17_buff_smoke_startend(stomach)",
+  "game": "sf3",
+  "sourceBundle": "7afb9900a4cc40f806f7784c8b492327",
+  "prefab": null,
+  "cover": 28.12,
+  "soft": 87.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h17_buff_smoke_startEnd(stomach)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

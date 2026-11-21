@@ -1,0 +1,17 @@
+{
+  "effect": "h17_ninjatofire_fire_r(weapon_r)",
+  "game": "sf3",
+  "sourceBundle": "7afb9900a4cc40f806f7784c8b492327",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 6.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h17_ninjatoFire_fire_R(weapon_r)",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 1
+}

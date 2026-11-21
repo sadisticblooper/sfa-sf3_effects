@@ -1,0 +1,17 @@
+{
+  "effect": "specimen_explosion_cast(chest)",
+  "game": "sf3",
+  "sourceBundle": "786558a81cf0175c44f1b8daa8e175f0",
+  "prefab": null,
+  "cover": 36.78,
+  "soft": 84.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Specimen_Explosion_Cast(chest)",
+  "particleSystemCount": 3,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}
