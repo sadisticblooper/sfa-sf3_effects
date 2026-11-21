@@ -1,0 +1,17 @@
+{
+  "effect": "consumablehandglowred(weapon_r)",
+  "game": "sf3",
+  "sourceBundle": "11c36ac100ea10ecc98f8c7bd68acab0",
+  "prefab": null,
+  "cover": 1.34,
+  "soft": 86.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "ConsumableHandGlowRed(weapon_r)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

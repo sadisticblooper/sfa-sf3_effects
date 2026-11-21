@@ -1,0 +1,17 @@
+{
+  "effect": "fireboomray",
+  "game": "sf3",
+  "sourceBundle": "13702a8f5c04cebfe137392dd95af438",
+  "prefab": null,
+  "cover": 6.69,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "FireBoomRay",
+  "particleSystemCount": 12,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 38
+}

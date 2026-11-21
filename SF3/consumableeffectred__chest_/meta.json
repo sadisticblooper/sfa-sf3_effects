@@ -1,0 +1,17 @@
+{
+  "effect": "consumableeffectred_(chest)",
+  "game": "sf3",
+  "sourceBundle": "11c36ac100ea10ecc98f8c7bd68acab0",
+  "prefab": null,
+  "cover": 83.44,
+  "soft": 38.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "ConsumableEffectRed_(chest)",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 36
+}

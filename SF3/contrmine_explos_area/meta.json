@@ -1,0 +1,17 @@
+{
+  "effect": "contrmine_explos_area",
+  "game": "sf3",
+  "sourceBundle": "138136ce22f5600ad6638f64e1d844e6",
+  "prefab": null,
+  "cover": 11.8,
+  "soft": 83.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "contrmine_explos_area",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 30
+}

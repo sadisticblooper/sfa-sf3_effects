@@ -1,0 +1,17 @@
+{
+  "effect": "heralds_street",
+  "game": "sf3",
+  "sourceBundle": "0bd49dd571978446185ac197b1251a69",
+  "prefab": null,
+  "cover": 23.32,
+  "soft": 2.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "heralds_street",
+  "particleSystemCount": 5,
+  "materialCount": 15,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

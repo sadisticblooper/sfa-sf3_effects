@@ -1,0 +1,17 @@
+{
+  "effect": "consumable_stun_projectile",
+  "game": "sf3",
+  "sourceBundle": "11c36ac100ea10ecc98f8c7bd68acab0",
+  "prefab": null,
+  "cover": 5.32,
+  "soft": 69.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Consumable_stun_projectile",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 53
+}

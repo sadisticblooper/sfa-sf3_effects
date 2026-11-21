@@ -1,0 +1,17 @@
+{
+  "effect": "castle",
+  "game": "sf3",
+  "sourceBundle": "1102d290d8adf14ff58c32e9339859df",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 89.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Castle",
+  "particleSystemCount": 12,
+  "materialCount": 16,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "l16_ground_mid(armature)",
+  "game": "sf3",
+  "sourceBundle": "0d2bbe399549738a849633f987d56e92",
+  "prefab": null,
+  "cover": 0.66,
+  "soft": 59.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L16_ground_mid(Armature)",
+  "particleSystemCount": 10,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

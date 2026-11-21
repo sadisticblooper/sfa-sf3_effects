@@ -1,0 +1,17 @@
+{
+  "effect": "l16_model(w_knobstick_07_r)",
+  "game": "sf3",
+  "sourceBundle": "0d2bbe399549738a849633f987d56e92",
+  "prefab": null,
+  "cover": 0.31,
+  "soft": 3.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L16_model(w_knobstick_07_r)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

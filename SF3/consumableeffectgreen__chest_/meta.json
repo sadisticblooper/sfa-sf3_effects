@@ -1,0 +1,17 @@
+{
+  "effect": "consumableeffectgreen_(chest)",
+  "game": "sf3",
+  "sourceBundle": "11c36ac100ea10ecc98f8c7bd68acab0",
+  "prefab": null,
+  "cover": 19.69,
+  "soft": 73.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "ConsumableEffectGreen_(chest)",
+  "particleSystemCount": 3,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 43
+}

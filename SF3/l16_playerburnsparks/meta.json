@@ -1,0 +1,17 @@
+{
+  "effect": "l16_playerburnsparks",
+  "game": "sf3",
+  "sourceBundle": "0d2bbe399549738a849633f987d56e92",
+  "prefab": null,
+  "cover": 0.45,
+  "soft": 66.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L16_PlayerBurnSparks",
+  "particleSystemCount": 4,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 55
+}
