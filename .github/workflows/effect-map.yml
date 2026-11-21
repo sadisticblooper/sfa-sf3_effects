@@ -19,11 +19,33 @@ jobs:
   map:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Generate map.txt and commit via GitHub API
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+          {
+            for game in SF3 SFA; do
+              gh api "repos/$GITHUB_REPOSITORY/contents/$game?per_page=100" --paginate \
+                --jq ".[] | select(.type == \"dir\") | \"\(.name) | https://github.com/$GITHUB_REPOSITORY/tree/main/$game/\(.name)\""
+            done
+          } > map.txt
 
-      - name: Generate map.txt
-        run: python build_effect_map.py --repo .
+          echo "map.txt lines: $(wc -l < map.txt)"
+
+          SHA=$(gh api "repos/$GITHUB_REPOSITORY/contents/map.txt?ref=main" --jq '.sha' 2>/dev/null || true)
+          CONTENT=$(base64 -w0 map.txt)
+
+          if [ -n "$SHA" ]; then
+            gh api -X PUT "repos/$GITHUB_REPOSITORY/contents/map.txt" \
+              -F message="docs: update map.txt" \
+              -F content="$CONTENT" \
+              -F sha="$SHA" \
+              -F branch=main
+          else
+            gh api -X PUT "repos/$GITHUB_REPOSITORY/contents/map.txt" \
+              -F message="docs: add map.txt" \
+              -F content="$CONTENT" \
+              -F branch=main
+          fi
