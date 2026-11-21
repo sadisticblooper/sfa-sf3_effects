@@ -7,7 +7,6 @@ on:
       - 'SF3/**'
       - 'SFA/**'
       - '.github/workflows/effect-map.yml'
-      - 'build_map_api.py'
   workflow_dispatch:
 
 permissions:
@@ -21,13 +20,68 @@ jobs:
   map:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout (just the script)
-        uses: actions/checkout@v4
-        with:
-          sparse-checkout: build_map_api.py
-          sparse-checkout-cone-mode: false
-
-      - name: Generate and commit map.txt
+      - name: Generate and commit map.txt via GitHub API
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python build_map_api.py
+        run: |
+          python - <<'PY'
+          import base64, json, os, urllib.request
+
+          token = os.environ["GH_TOKEN"]
+          repo = os.environ["GITHUB_REPOSITORY"]
+          headers = {
+              "Authorization": f"Bearer {token}",
+              "Accept": "application/vnd.github+json",
+              "X-GitHub-Api-Version": "2022-11-28",
+              "User-Agent": "effect-map-builder",
+          }
+
+          def api(url, method="GET", data=None):
+              body = json.dumps(data).encode() if data is not None else None
+              req = urllib.request.Request(
+                  url, data=body, headers=headers, method=method)
+              with urllib.request.urlopen(req, timeout=120) as r:
+                  return json.load(r)
+
+          lines = []
+          for game in ("SF3", "SFA"):
+              page = 1
+              while True:
+                  items = api(
+                      f"https://api.github.com/repos/{repo}/contents/{game}"
+                      f"?per_page=100&page={page}")
+                  if not items:
+                      break
+                  for item in items:
+                      if item.get("type") == "dir":
+                          lines.append(
+                              f"{item['name']} | "
+                              f"https://github.com/{repo}/tree/main/"
+                              f"{game}/{item['name']}")
+                  if len(items) < 100:
+                      break
+                  page += 1
+
+          content = "\n".join(lines) + "\n"
+          print(f"map.txt: {len(lines)} lines")
+
+          sha = None
+          try:
+              sha = api(
+                  f"https://api.github.com/repos/{repo}/contents/"
+                  f"map.txt?ref=main")["sha"]
+          except Exception:
+              pass
+
+          data = {
+              "message": "docs: update map.txt",
+              "content": base64.b64encode(content.encode()).decode(),
+              "branch": "main",
+          }
+          if sha:
+              data["sha"] = sha
+
+          api(f"https://api.github.com/repos/{repo}/contents/map.txt",
+              "PUT", data)
+          print("committed map.txt")
+          PY
