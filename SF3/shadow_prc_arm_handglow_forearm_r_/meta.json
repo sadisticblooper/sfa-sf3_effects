@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_prc_arm_handglow(forearm_r)",
+  "game": "sf3",
+  "sourceBundle": "e91b01f1de40a42df9ac14904714a6c5",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_prc_arm_handGlow(forearm_r)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

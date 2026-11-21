@@ -1,0 +1,17 @@
+{
+  "effect": "transform_teleport_mask_in(root)",
+  "game": "sf3",
+  "sourceBundle": "e72bfacbb10fa070417d809d1a1b779c",
+  "prefab": null,
+  "cover": 4.88,
+  "soft": 46.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "transform_teleport_mask_IN(root)",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 7
+}

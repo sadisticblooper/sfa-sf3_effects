@@ -1,0 +1,17 @@
+{
+  "effect": "h18_electroexplosion(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "ed3ae91f1ef87c4e85f7a50d326cd32b",
+  "prefab": null,
+  "cover": 91.66,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H18_Electroexplosion(pelvis)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 44
+}

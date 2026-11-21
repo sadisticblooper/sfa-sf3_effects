@@ -1,0 +1,17 @@
+{
+  "effect": "transform_teleport_star_out(root)",
+  "game": "sf3",
+  "sourceBundle": "e72bfacbb10fa070417d809d1a1b779c",
+  "prefab": null,
+  "cover": 2.75,
+  "soft": 29.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "transform_teleport_star_OUT(root)",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 4
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "prc_blaster_06_hit",
+  "game": "sf3",
+  "sourceBundle": "eb48aad900a4023ba153d881d6869ad3",
+  "prefab": null,
+  "cover": 1.81,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "prc_blaster_06_hit",
+  "particleSystemCount": 4,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 4
+}

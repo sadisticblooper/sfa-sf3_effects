@@ -1,0 +1,17 @@
+{
+  "effect": "teleport_mask_out_ltor_face(root)",
+  "game": "sf3",
+  "sourceBundle": "e72bfacbb10fa070417d809d1a1b779c",
+  "prefab": null,
+  "cover": 7.81,
+  "soft": 68.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "teleport_mask_OUT_LtoR_face(root)",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}
