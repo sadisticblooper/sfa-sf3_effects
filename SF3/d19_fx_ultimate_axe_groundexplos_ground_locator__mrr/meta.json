@@ -1,0 +1,17 @@
+{
+  "effect": "d19_fx_ultimate_axe_groundexplos(ground_locator)_mrr",
+  "game": "sf3",
+  "sourceBundle": "39895a63bfcdb180b58a70a942dd9d00",
+  "prefab": null,
+  "cover": 21.39,
+  "soft": 70.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D19_fx_ultimate_axe_groundExplos(ground_locator)_mrr",
+  "particleSystemCount": 15,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 38
+}

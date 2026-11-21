@@ -1,0 +1,17 @@
+{
+  "effect": "d19_fx_ultimate_axe_trail(weapon_l)",
+  "game": "sf3",
+  "sourceBundle": "39895a63bfcdb180b58a70a942dd9d00",
+  "prefab": null,
+  "cover": 22.92,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D19_fx_ultimate_axe_trail(weapon_l)",
+  "particleSystemCount": 1,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}
