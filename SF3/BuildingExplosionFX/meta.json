@@ -1,0 +1,17 @@
+{
+  "effect": "buildingexplosionfx",
+  "game": "sf3",
+  "sourceBundle": "49813441c4eac2e52641ae497293f156",
+  "prefab": null,
+  "cover": 15.2,
+  "soft": 85.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "BuildingExplosionFX",
+  "particleSystemCount": 15,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

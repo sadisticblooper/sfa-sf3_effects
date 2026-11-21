@@ -1,0 +1,17 @@
+{
+  "effect": "h27_fx_upper_ex_uppercut(ground_locator)",
+  "game": "sf3",
+  "sourceBundle": "4ab17dc7ab76404791084b91787f25d8",
+  "prefab": null,
+  "cover": 14.39,
+  "soft": 83.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h27_fx_upper_EX_uppercut(ground_locator)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

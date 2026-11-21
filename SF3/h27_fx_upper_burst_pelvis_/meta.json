@@ -1,0 +1,17 @@
+{
+  "effect": "h27_fx_upper_burst(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "4ab17dc7ab76404791084b91787f25d8",
+  "prefab": null,
+  "cover": 11.46,
+  "soft": 54.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h27_fx_upper_burst(pelvis)",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

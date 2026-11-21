@@ -1,0 +1,17 @@
+{
+  "effect": "h27_fx_upper_spin(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "4ab17dc7ab76404791084b91787f25d8",
+  "prefab": null,
+  "cover": 28.81,
+  "soft": 89.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h27_fx_upper_spin(pelvis)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}

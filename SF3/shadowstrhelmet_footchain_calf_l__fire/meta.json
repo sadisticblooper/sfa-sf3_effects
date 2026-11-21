@@ -1,0 +1,17 @@
+{
+  "effect": "shadowstrhelmet_footchain(calf_l)_fire",
+  "game": "sf3",
+  "sourceBundle": "4c8523640f4f907c398e6d93b11aa521",
+  "prefab": null,
+  "cover": 35.59,
+  "soft": 79.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "ShadowStrHelmet_FootChain(calf_l)_fire",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}

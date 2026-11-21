@@ -1,0 +1,17 @@
+{
+  "effect": "destroyed_village_shadow",
+  "game": "sf3",
+  "sourceBundle": "4954bf13b10036ae7fbce71e09bd3138",
+  "prefab": null,
+  "cover": 10.68,
+  "soft": 0.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "destroyed_village_shadow",
+  "particleSystemCount": 23,
+  "materialCount": 16,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "h27_fx_style_upper_spin_3(ground_locator)",
+  "game": "sf3",
+  "sourceBundle": "4ab17dc7ab76404791084b91787f25d8",
+  "prefab": null,
+  "cover": 4.14,
+  "soft": 77.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h27_fx_Style_Upper_Spin_3(ground_locator)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}
