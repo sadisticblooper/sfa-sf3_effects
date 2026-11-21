@@ -7,6 +7,7 @@ on:
       - 'SF3/**'
       - 'SFA/**'
       - '.github/workflows/effect-map.yml'
+      - 'build_map_api.py'
   workflow_dispatch:
 
 permissions:
@@ -20,33 +21,13 @@ jobs:
   map:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate map.txt and commit via GitHub API
+      - name: Checkout (just the script)
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: build_map_api.py
+          sparse-checkout-cone-mode: false
+
+      - name: Generate and commit map.txt
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          set -euo pipefail
-
-          {
-            for game in SF3 SFA; do
-              gh api "repos/$GITHUB_REPOSITORY/contents/$game?per_page=100" --paginate \
-                --jq ".[] | select(.type == \"dir\") | \"\(.name) | https://github.com/$GITHUB_REPOSITORY/tree/main/$game/\(.name)\""
-            done
-          } > map.txt
-
-          echo "map.txt lines: $(wc -l < map.txt)"
-
-          SHA=$(gh api "repos/$GITHUB_REPOSITORY/contents/map.txt?ref=main" --jq '.sha' 2>/dev/null || true)
-          CONTENT=$(base64 -w0 map.txt)
-
-          if [ -n "$SHA" ]; then
-            gh api -X PUT "repos/$GITHUB_REPOSITORY/contents/map.txt" \
-              -F message="docs: update map.txt" \
-              -F content="$CONTENT" \
-              -F sha="$SHA" \
-              -F branch=main
-          else
-            gh api -X PUT "repos/$GITHUB_REPOSITORY/contents/map.txt" \
-              -F message="docs: add map.txt" \
-              -F content="$CONTENT" \
-              -F branch=main
-          fi
+        run: python build_map_api.py
