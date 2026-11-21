@@ -1,0 +1,17 @@
+{
+  "effect": "fx_fire",
+  "game": "sf3",
+  "sourceBundle": "01c2b22d2d71db578ec842efef5e6557",
+  "prefab": null,
+  "cover": 23.61,
+  "soft": 10.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "fx_fire",
+  "particleSystemCount": 1,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

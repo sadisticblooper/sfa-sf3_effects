@@ -1,0 +1,17 @@
+{
+  "effect": "h21_black_hole_basic",
+  "game": "sf3",
+  "sourceBundle": "076421321c7bdf2a1d9dd255c8bc5d0f",
+  "prefab": null,
+  "cover": 42.45,
+  "soft": 75.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h21_black_hole_basic",
+  "particleSystemCount": 13,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

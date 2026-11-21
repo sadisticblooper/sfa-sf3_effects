@@ -1,0 +1,17 @@
+{
+  "effect": "chest1_fx",
+  "game": "sf3",
+  "sourceBundle": "02cd1288719460e5499469115dc618bc",
+  "prefab": null,
+  "cover": 100.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "chest1_fx",
+  "particleSystemCount": 15,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
