@@ -1,0 +1,17 @@
+{
+  "effect": "e9_vfx_crystalls_6_2",
+  "game": "sf3",
+  "sourceBundle": "dd5405f087c8634b79563dc81863bbbc",
+  "prefab": null,
+  "cover": 13.62,
+  "soft": 37.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "E9_VFX_crystalls_6_2",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 2
+}

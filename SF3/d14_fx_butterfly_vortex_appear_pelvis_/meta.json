@@ -1,0 +1,17 @@
+{
+  "effect": "d14_fx_butterfly_vortex_appear(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "e1134bae9a88e7da95adcc368a9e88a7",
+  "prefab": null,
+  "cover": 5.02,
+  "soft": 69.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D14_fx_butterfly_vortex_appear(pelvis)",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}

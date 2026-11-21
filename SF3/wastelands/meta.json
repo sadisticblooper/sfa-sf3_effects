@@ -1,0 +1,17 @@
+{
+  "effect": "wastelands",
+  "game": "sf3",
+  "sourceBundle": "db8f604519118e389b568e5a13af2af2",
+  "prefab": null,
+  "cover": 0.71,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "wastelands",
+  "particleSystemCount": 0,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

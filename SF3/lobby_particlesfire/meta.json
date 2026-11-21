@@ -1,0 +1,17 @@
+{
+  "effect": "lobby_particlesfire",
+  "game": "sf3",
+  "sourceBundle": "df79c7f78bb4bca41d1af8cda9bc8e9c",
+  "prefab": null,
+  "cover": 0.1,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Lobby_particlesFire",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

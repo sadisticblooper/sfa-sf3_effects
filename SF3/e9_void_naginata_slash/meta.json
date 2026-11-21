@@ -1,0 +1,17 @@
+{
+  "effect": "e9_void_naginata_slash",
+  "game": "sf3",
+  "sourceBundle": "dd5405f087c8634b79563dc81863bbbc",
+  "prefab": null,
+  "cover": 0.22,
+  "soft": 17.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "E9_Void_Naginata_Slash",
+  "particleSystemCount": 8,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 49
+}

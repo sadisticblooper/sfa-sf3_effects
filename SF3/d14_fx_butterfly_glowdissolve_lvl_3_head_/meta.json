@@ -1,0 +1,17 @@
+{
+  "effect": "d14_fx_butterfly_glowdissolve_lvl_3(head)",
+  "game": "sf3",
+  "sourceBundle": "e1134bae9a88e7da95adcc368a9e88a7",
+  "prefab": null,
+  "cover": 0.4,
+  "soft": 93.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D14_fx_butterfly_glowDissolve_lvl_3(head)",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
