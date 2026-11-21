@@ -1,0 +1,17 @@
+{
+  "effect": "d17_fx_bullet_start(bullet_joint)",
+  "game": "sf3",
+  "sourceBundle": "7bd06debc64782ca780a30260eca9d3b",
+  "prefab": null,
+  "cover": 3.88,
+  "soft": 44.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D17_fx_bullet_start(bullet_joint)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}

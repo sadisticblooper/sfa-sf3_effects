@@ -1,0 +1,17 @@
+{
+  "effect": "d17_firework_blue",
+  "game": "sf3",
+  "sourceBundle": "7bd06debc64782ca780a30260eca9d3b",
+  "prefab": null,
+  "cover": 5.81,
+  "soft": 75.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "d17_Firework_blue",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 53
+}

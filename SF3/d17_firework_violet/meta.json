@@ -1,0 +1,17 @@
+{
+  "effect": "d17_firework_violet",
+  "game": "sf3",
+  "sourceBundle": "7bd06debc64782ca780a30260eca9d3b",
+  "prefab": null,
+  "cover": 5.32,
+  "soft": 75.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "d17_Firework_violet",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 51
+}

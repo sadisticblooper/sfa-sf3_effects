@@ -1,0 +1,17 @@
+{
+  "effect": "backstreets",
+  "game": "sf3",
+  "sourceBundle": "79427cfb0f0d2d9087dcccca80c971cd",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "backstreets",
+  "particleSystemCount": 5,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

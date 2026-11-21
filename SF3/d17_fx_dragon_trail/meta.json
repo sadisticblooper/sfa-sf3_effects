@@ -1,0 +1,17 @@
+{
+  "effect": "d17_fx_dragon_trail",
+  "game": "sf3",
+  "sourceBundle": "7bd06debc64782ca780a30260eca9d3b",
+  "prefab": null,
+  "cover": 0.08,
+  "soft": 58.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D17_fx_dragon_trail",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}
