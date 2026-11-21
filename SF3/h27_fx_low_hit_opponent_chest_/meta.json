@@ -1,0 +1,17 @@
+{
+  "effect": "h27_fx_low_hit_opponent(chest)",
+  "game": "sf3",
+  "sourceBundle": "4ab17dc7ab76404791084b91787f25d8",
+  "prefab": null,
+  "cover": 41.22,
+  "soft": 86.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H27_fx_low_hit_opponent(chest)",
+  "particleSystemCount": 12,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 26
+}

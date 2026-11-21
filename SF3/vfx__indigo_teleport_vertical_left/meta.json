@@ -1,0 +1,17 @@
+{
+  "effect": "vfx__indigo_teleport_vertical_left",
+  "game": "sf3",
+  "sourceBundle": "47f7e75ccccdd85b32c4388ce24381d2",
+  "prefab": null,
+  "cover": 46.64,
+  "soft": 78.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX__Indigo_teleport_vertical_left",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 25
+}

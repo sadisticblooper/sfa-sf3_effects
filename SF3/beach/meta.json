@@ -1,0 +1,17 @@
+{
+  "effect": "beach",
+  "game": "sf3",
+  "sourceBundle": "490324156a8329e1f32df7202c4168d2",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 16.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "beach",
+  "particleSystemCount": 5,
+  "materialCount": 13,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

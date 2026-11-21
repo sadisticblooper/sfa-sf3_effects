@@ -1,0 +1,17 @@
+{
+  "effect": "vfx__inc_on_ground",
+  "game": "sf3",
+  "sourceBundle": "47f7e75ccccdd85b32c4388ce24381d2",
+  "prefab": null,
+  "cover": 0.75,
+  "soft": 57.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX__inc_on_ground",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 52
+}

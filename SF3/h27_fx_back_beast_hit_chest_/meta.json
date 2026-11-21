@@ -1,0 +1,17 @@
+{
+  "effect": "h27_fx_back_beast_hit(chest)",
+  "game": "sf3",
+  "sourceBundle": "4ab17dc7ab76404791084b91787f25d8",
+  "prefab": null,
+  "cover": 2.11,
+  "soft": 65.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H27_fx_back_beast_hit(chest)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}

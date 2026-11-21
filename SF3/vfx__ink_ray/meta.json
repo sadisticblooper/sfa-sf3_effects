@@ -1,0 +1,17 @@
+{
+  "effect": "vfx__ink_ray",
+  "game": "sf3",
+  "sourceBundle": "47f7e75ccccdd85b32c4388ce24381d2",
+  "prefab": null,
+  "cover": 6.47,
+  "soft": 2.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX__ink_ray",
+  "particleSystemCount": 18,
+  "materialCount": 15,
+  "unityVersion": "6000.2.14f1",
+  "frames": 37
+}
