@@ -1,0 +1,17 @@
+{
+  "effect": "h26_fx_upper_pheromones_burst_(w_naginata_02_blade_l)",
+  "game": "sf3",
+  "sourceBundle": "b65667a12736d5dfa256d10d0e5e8a12",
+  "prefab": null,
+  "cover": 0.18,
+  "soft": 84.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H26_fx_upper_pheromones_burst_(w_naginata_02_blade_l)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 52
+}

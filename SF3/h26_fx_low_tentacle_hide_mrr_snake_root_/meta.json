@@ -1,0 +1,17 @@
+{
+  "effect": "h26_fx_low_tentacle_hide_mrr(snake_root)",
+  "game": "sf3",
+  "sourceBundle": "b65667a12736d5dfa256d10d0e5e8a12",
+  "prefab": null,
+  "cover": 6.68,
+  "soft": 74.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H26_fx_low_tentacle_hide_mrr(snake_root)",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

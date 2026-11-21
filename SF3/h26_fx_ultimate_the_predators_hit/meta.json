@@ -1,0 +1,17 @@
+{
+  "effect": "h26_fx_ultimate_the_predators_hit",
+  "game": "sf3",
+  "sourceBundle": "b65667a12736d5dfa256d10d0e5e8a12",
+  "prefab": null,
+  "cover": 46.31,
+  "soft": 66.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H26_fx_ultimate_the_predators_hit",
+  "particleSystemCount": 12,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 6
+}
