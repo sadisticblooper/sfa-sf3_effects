@@ -1,0 +1,17 @@
+{
+  "effect": "l15_electroshock_long",
+  "game": "sf3",
+  "sourceBundle": "849162a6e6d3b90126782318763ebb3c",
+  "prefab": null,
+  "cover": 100.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L15_Electroshock_Long",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

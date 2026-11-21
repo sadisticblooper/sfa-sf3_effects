@@ -1,0 +1,17 @@
+{
+  "effect": "scars_chest_l",
+  "game": "sf3",
+  "sourceBundle": "8197677cd0eae1ed014c70be0a507aac",
+  "prefab": null,
+  "cover": 52.78,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Scars_chest_l",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

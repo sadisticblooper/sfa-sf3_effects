@@ -1,0 +1,17 @@
+{
+  "effect": "shadowstaff_1hit(w_staff)_20",
+  "game": "sf3",
+  "sourceBundle": "8197677cd0eae1ed014c70be0a507aac",
+  "prefab": null,
+  "cover": 10.12,
+  "soft": 14.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "ShadowStaff_1hit(w_staff)_20",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}
