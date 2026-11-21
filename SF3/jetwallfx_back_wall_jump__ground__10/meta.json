@@ -1,0 +1,17 @@
+{
+  "effect": "jetwallfx_back_wall_jump_(ground)_10",
+  "game": "sf3",
+  "sourceBundle": "3d6bbc071a195a159e0ab367ec73ddef",
+  "prefab": null,
+  "cover": 7.31,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "JetWallFX_back_wall_jump_(ground)_10",
+  "particleSystemCount": 24,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}

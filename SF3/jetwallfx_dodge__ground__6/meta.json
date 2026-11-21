@@ -1,0 +1,17 @@
+{
+  "effect": "jetwallfx_dodge_(ground)_6",
+  "game": "sf3",
+  "sourceBundle": "3d6bbc071a195a159e0ab367ec73ddef",
+  "prefab": null,
+  "cover": 28.22,
+  "soft": 36.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "JetWallFX_dodge_(ground)_6",
+  "particleSystemCount": 20,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}
