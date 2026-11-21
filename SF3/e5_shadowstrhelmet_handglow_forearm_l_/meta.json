@@ -1,0 +1,17 @@
+{
+  "effect": "e5_shadowstrhelmet_handglow(forearm_l)",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 75.99,
+  "soft": 86.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "E5_ShadowStrHelmet_HandGlow(forearm_l)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
