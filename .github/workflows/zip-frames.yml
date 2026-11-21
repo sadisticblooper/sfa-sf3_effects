@@ -6,7 +6,6 @@ on:
     paths:
       - 'SF3/**'
       - 'SFA/**'
-      - 'zip_frames.py'
 
 permissions:
   contents: write
@@ -20,22 +19,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Build frame archives for changed effects
-        run: python zip_frames.py --repo . --chunk 50
-
-      - name: Commit and push archives
-        run: |
-          git config user.name "VFX Pipeline"
-          git config user.email "vfx-pipeline@local"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No archive changes"
-          else
-            git commit -m "chore: update frame archives (workflow)"
-            git push origin HEAD:refs/heads/main
-          fi
+      - name: Zip frames for effects changed by this push
+        run: python zip_frames.py --repo . --changed-ref HEAD~1 --chunk 50

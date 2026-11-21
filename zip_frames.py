@@ -74,15 +74,28 @@ def main():
     ap.add_argument("--no-commit", action="store_true")
     ap.add_argument("--chunk", type=int, default=50,
                     help="effects per commit")
+    ap.add_argument("--changed-ref", default=None,
+                    help="only consider effects changed between REF and HEAD")
     args = ap.parse_args()
 
     repo = Path(args.repo).resolve()
+    only = None
+    if args.changed_ref:
+        diff = git(repo, "diff", "--name-only", args.changed_ref, "HEAD")
+        only = set()
+        for line in diff.stdout.splitlines():
+            parts = line.split("/")
+            if len(parts) >= 2 and parts[0] in GAMES:
+                only.add(repo / parts[0] / parts[1])
+
     changed = []
     for game in GAMES:
         root = repo / game
         if not root.is_dir():
             continue
         for folder in sorted(p for p in root.iterdir() if p.is_dir()):
+            if only is not None and folder not in only:
+                continue
             if not (folder / "frames").is_dir():
                 continue
             if needs_zip(folder):
