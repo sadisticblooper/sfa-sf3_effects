@@ -1,0 +1,17 @@
+{
+  "effect": "h19_lynx_bomb_explos",
+  "game": "sf3",
+  "sourceBundle": "0b75011c3b9c23b6926297a417e24974",
+  "prefab": null,
+  "cover": 5.79,
+  "soft": 63.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H19_Lynx_bomb_explos",
+  "particleSystemCount": 33,
+  "materialCount": 22,
+  "unityVersion": "6000.2.14f1",
+  "frames": 25
+}

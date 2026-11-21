@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_dual_swords_trail_r",
+  "game": "sf3",
+  "sourceBundle": "0a0b04ee08cfae397635d6e330290ef1",
+  "prefab": null,
+  "cover": 3.87,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_dual_swords_trail_r",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

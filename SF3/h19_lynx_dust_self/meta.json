@@ -1,0 +1,17 @@
+{
+  "effect": "h19_lynx_dust_self",
+  "game": "sf3",
+  "sourceBundle": "0b75011c3b9c23b6926297a417e24974",
+  "prefab": null,
+  "cover": 1.75,
+  "soft": 75.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H19_Lynx_Dust_Self",
+  "particleSystemCount": 5,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}

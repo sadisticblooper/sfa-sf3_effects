@@ -1,0 +1,17 @@
+{
+  "effect": "waterdrops",
+  "game": "sf3",
+  "sourceBundle": "0763f8ab1637fc62d7f6c1906d99ca67",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "waterDrops",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 53
+}

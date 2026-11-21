@@ -1,0 +1,17 @@
+{
+  "effect": "h19_claws_decrease_(w_claws01_l)",
+  "game": "sf3",
+  "sourceBundle": "0b75011c3b9c23b6926297a417e24974",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 34.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H19_Claws_Decrease_(w_claws01_l)",
+  "particleSystemCount": 5,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 7
+}

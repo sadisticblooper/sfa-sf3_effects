@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_dual_swords_hit_r",
+  "game": "sf3",
+  "sourceBundle": "0a0b04ee08cfae397635d6e330290ef1",
+  "prefab": null,
+  "cover": 2.34,
+  "soft": 60.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_dual_swords_hit_r",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 5
+}

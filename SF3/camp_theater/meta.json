@@ -1,0 +1,17 @@
+{
+  "effect": "camp_theater",
+  "game": "sf3",
+  "sourceBundle": "0435948da1bfc0b966e575b08edca274",
+  "prefab": null,
+  "cover": 4.38,
+  "soft": 10.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "camp_theater",
+  "particleSystemCount": 9,
+  "materialCount": 21,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

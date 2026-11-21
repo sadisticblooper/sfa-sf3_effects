@@ -1,0 +1,17 @@
+{
+  "effect": "h19_claws_line_startflash",
+  "game": "sf3",
+  "sourceBundle": "0b75011c3b9c23b6926297a417e24974",
+  "prefab": null,
+  "cover": 20.9,
+  "soft": 57.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H19_claws_line_startFlash",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 4
+}
