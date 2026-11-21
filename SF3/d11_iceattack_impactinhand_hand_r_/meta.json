@@ -1,0 +1,17 @@
+{
+  "effect": "d11_iceattack_impactinhand(hand_r)",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 1.58,
+  "soft": 54.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D11_iceAttack_impactInHand(hand_r)",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "d11_iceattack_crystal_l(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 3.42,
+  "soft": 79.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D11_iceAttack_crystal_L(pelvis)",
+  "particleSystemCount": 10,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
