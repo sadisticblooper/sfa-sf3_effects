@@ -1,0 +1,17 @@
+{
+  "effect": "markusglich_idle",
+  "game": "sf3",
+  "sourceBundle": "1e3fccb572e8fb0c49db021cd073fb95",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "MarkusGlich_idle",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

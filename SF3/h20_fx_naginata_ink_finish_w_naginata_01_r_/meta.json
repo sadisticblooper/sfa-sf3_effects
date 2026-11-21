@@ -1,0 +1,17 @@
+{
+  "effect": "h20_fx_naginata_ink_finish(w_naginata_01_r)",
+  "game": "sf3",
+  "sourceBundle": "1db7918b21ec780e70c6fcf98f5c1fae",
+  "prefab": null,
+  "cover": 0.07,
+  "soft": 0.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H20_fx_naginata_ink_finish(w_naginata_01_r)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 15
+}
