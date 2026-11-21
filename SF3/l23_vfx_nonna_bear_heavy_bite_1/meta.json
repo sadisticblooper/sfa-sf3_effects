@@ -1,0 +1,17 @@
+{
+  "effect": "l23_vfx_nonna_bear_heavy_bite_1",
+  "game": "sf3",
+  "sourceBundle": "ec1de63a5fdeb227c6724f3beb53b5c4",
+  "prefab": null,
+  "cover": 5.87,
+  "soft": 64.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L23_VFX_Nonna_Bear_Heavy_Bite_1",
+  "particleSystemCount": 15,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 20
+}

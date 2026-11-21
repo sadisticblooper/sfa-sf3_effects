@@ -1,0 +1,17 @@
+{
+  "effect": "l23_fx_super_slash_3(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "ec1de63a5fdeb227c6724f3beb53b5c4",
+  "prefab": null,
+  "cover": 10.55,
+  "soft": 78.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L23_fx_Super_Slash_3(pelvis)",
+  "particleSystemCount": 16,
+  "materialCount": 13,
+  "unityVersion": "6000.2.14f1",
+  "frames": 24
+}

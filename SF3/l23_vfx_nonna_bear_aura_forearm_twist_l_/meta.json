@@ -1,0 +1,17 @@
+{
+  "effect": "l23_vfx_nonna_bear_aura(forearm_twist_l)",
+  "game": "sf3",
+  "sourceBundle": "ec1de63a5fdeb227c6724f3beb53b5c4",
+  "prefab": null,
+  "cover": 7.36,
+  "soft": 63.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L23_VFX_Nonna_Bear_Aura(forearm_twist_l)",
+  "particleSystemCount": 8,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 53
+}
