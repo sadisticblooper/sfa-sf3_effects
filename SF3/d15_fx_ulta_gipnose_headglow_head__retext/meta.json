@@ -1,0 +1,17 @@
+{
+  "effect": "d15_fx_ulta_gipnose_headglow(head)_retext",
+  "game": "sf3",
+  "sourceBundle": "b6e752f081ed58a8d0f721b50d8a4a43",
+  "prefab": null,
+  "cover": 0.14,
+  "soft": 57.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D15_fx_ulta_gipnose_headGlow(head)_retext",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}

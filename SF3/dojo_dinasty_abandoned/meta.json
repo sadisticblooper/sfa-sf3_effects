@@ -1,0 +1,17 @@
+{
+  "effect": "dojo_dinasty_abandoned",
+  "game": "sf3",
+  "sourceBundle": "b8250c3e629d9f2b044e6e4e44e4df1e",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "dojo_dinasty_abandoned",
+  "particleSystemCount": 10,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

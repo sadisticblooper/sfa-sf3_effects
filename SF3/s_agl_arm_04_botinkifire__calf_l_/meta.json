@@ -1,0 +1,17 @@
+{
+  "effect": "s_agl_arm_04_botinkifire_(calf_l)",
+  "game": "sf3",
+  "sourceBundle": "b7ee92a9ae11fd936ffb4bc58bb8e195",
+  "prefab": null,
+  "cover": 4.12,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "s_agl_arm_04_botinkiFire_(calf_l)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 44
+}

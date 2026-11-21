@@ -1,0 +1,17 @@
+{
+  "effect": "gryphon_gaintsword_fx_(weapon_r)",
+  "game": "sf3",
+  "sourceBundle": "b907c4dd46856a9716d791d006c5e38f",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 68.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Gryphon_GaintSword_FX_(weapon_r)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

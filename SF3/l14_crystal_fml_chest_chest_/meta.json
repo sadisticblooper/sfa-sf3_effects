@@ -1,0 +1,17 @@
+{
+  "effect": "l14_crystal_fml_chest(chest)",
+  "game": "sf3",
+  "sourceBundle": "b9aa1559d3e1f131dbc8ab01d5f7971c",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L14_crystal_fml_chest(chest)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 43
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "l14_crystal_fml_shoulder_l(scapular_l)",
+  "game": "sf3",
+  "sourceBundle": "b9aa1559d3e1f131dbc8ab01d5f7971c",
+  "prefab": null,
+  "cover": 0.14,
+  "soft": 7.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L14_crystal_fml_shoulder_L(scapular_l)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 1
+}
