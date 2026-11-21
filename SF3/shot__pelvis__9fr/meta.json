@@ -1,0 +1,17 @@
+{
+  "effect": "shot_(pelvis)_9fr",
+  "game": "sf3",
+  "sourceBundle": "44f4f165af21104f4358a4fd3cac5b3e",
+  "prefab": null,
+  "cover": 100.0,
+  "soft": 94.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Shot_(pelvis)_9fr",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}
