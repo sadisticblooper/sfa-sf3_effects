@@ -1,0 +1,17 @@
+{
+  "effect": "h21_needles_cosmic_basic",
+  "game": "sf3",
+  "sourceBundle": "076421321c7bdf2a1d9dd255c8bc5d0f",
+  "prefab": null,
+  "cover": 20.63,
+  "soft": 84.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h21_Needles_Cosmic_Basic",
+  "particleSystemCount": 13,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 27
+}

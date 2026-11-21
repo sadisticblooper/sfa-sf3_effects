@@ -1,0 +1,17 @@
+{
+  "effect": "h_21_astral_ability_big_cut_01",
+  "game": "sf3",
+  "sourceBundle": "076421321c7bdf2a1d9dd255c8bc5d0f",
+  "prefab": null,
+  "cover": 4.66,
+  "soft": 6.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h_21_astral_ability_big_cut_01",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 1
+}
