@@ -1,0 +1,17 @@
+{
+  "effect": "fire",
+  "game": "sf3",
+  "sourceBundle": "c974e7da2f61d0602ca4567484cd66a3",
+  "prefab": null,
+  "cover": 0.8,
+  "soft": 24.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fire",
+  "particleSystemCount": 2,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "h15_stance_e_explosion(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "ca766ed6568f640a1a78fcc49d9f53ee",
+  "prefab": null,
+  "cover": 9.58,
+  "soft": 40.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h15_Stance_E_Explosion(pelvis)",
+  "particleSystemCount": 12,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 38
+}

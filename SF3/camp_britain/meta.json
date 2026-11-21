@@ -1,0 +1,17 @@
+{
+  "effect": "camp_britain",
+  "game": "sf3",
+  "sourceBundle": "c974e7da2f61d0602ca4567484cd66a3",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 100.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "camp_britain",
+  "particleSystemCount": 12,
+  "materialCount": 23,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "h15_win_firefly_dust(w_dual_kama_04_l_wl)",
+  "game": "sf3",
+  "sourceBundle": "ca766ed6568f640a1a78fcc49d9f53ee",
+  "prefab": null,
+  "cover": 31.55,
+  "soft": 57.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "h15_win_firefly_Dust(w_dual_kama_04_l_wl)",
+  "particleSystemCount": 8,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 7
+}

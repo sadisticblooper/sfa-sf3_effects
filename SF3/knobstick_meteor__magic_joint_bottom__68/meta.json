@@ -1,0 +1,17 @@
+{
+  "effect": "knobstick_meteor_(magic_joint_bottom)_68",
+  "game": "sf3",
+  "sourceBundle": "cb260e24b10271dd6dae4d25655c8bd0",
+  "prefab": null,
+  "cover": 81.06,
+  "soft": 77.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "knobstick_Meteor_(magic_joint_bottom)_68",
+  "particleSystemCount": 9,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

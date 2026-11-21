@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_hotair_var_2(chest)",
+  "game": "sf3",
+  "sourceBundle": "ca766ed6568f640a1a78fcc49d9f53ee",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_hotAir_var_2(chest)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 44
+}
