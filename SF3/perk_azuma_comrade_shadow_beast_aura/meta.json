@@ -1,0 +1,17 @@
+{
+  "effect": "perk_azuma_comrade_shadow_beast_aura",
+  "game": "sf3",
+  "sourceBundle": "8afcd31f31db159493725270983f4be2",
+  "prefab": null,
+  "cover": 0.64,
+  "soft": 36.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Perk_Azuma_Comrade_Shadow_Beast_Aura",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 52
+}

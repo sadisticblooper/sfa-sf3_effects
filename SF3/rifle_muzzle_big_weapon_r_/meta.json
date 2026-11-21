@@ -1,0 +1,17 @@
+{
+  "effect": "rifle_muzzle_big(weapon_r)",
+  "game": "sf3",
+  "sourceBundle": "8afcd31f31db159493725270983f4be2",
+  "prefab": null,
+  "cover": 21.81,
+  "soft": 81.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Rifle_muzzle_big(weapon_r)",
+  "particleSystemCount": 11,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

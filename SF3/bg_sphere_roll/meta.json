@@ -1,0 +1,17 @@
+{
+  "effect": "bg_sphere_roll",
+  "game": "sf3",
+  "sourceBundle": "8a9058044509623e9e3b0fcf22e6e0d2",
+  "prefab": null,
+  "cover": 75.66,
+  "soft": 75.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "BG_Sphere_Roll",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 22
+}

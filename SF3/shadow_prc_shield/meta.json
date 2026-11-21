@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_prc_shield",
+  "game": "sf3",
+  "sourceBundle": "8bf4caccdbf3b5f603bc6e6cc4a2111f",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 41.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Shadow_Prc_Shield",
+  "particleSystemCount": 11,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 42
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "red_torso_spikes(chest)",
+  "game": "sf3",
+  "sourceBundle": "8afcd31f31db159493725270983f4be2",
+  "prefab": null,
+  "cover": 26.15,
+  "soft": 76.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Red_Torso_spikes(chest)",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

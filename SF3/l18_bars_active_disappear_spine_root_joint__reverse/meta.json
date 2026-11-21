@@ -1,0 +1,17 @@
+{
+  "effect": "l18_bars_active_disappear(spine_root_joint)_reverse",
+  "game": "sf3",
+  "sourceBundle": "8c7f0bc456a03f89d301f5bac5333fcb",
+  "prefab": null,
+  "cover": 27.14,
+  "soft": 49.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L18_bars_active_disappear(spine_root_joint)_reverse",
+  "particleSystemCount": 13,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}

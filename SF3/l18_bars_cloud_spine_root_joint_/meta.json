@@ -1,0 +1,17 @@
+{
+  "effect": "l18_bars_cloud(spine_root_joint)",
+  "game": "sf3",
+  "sourceBundle": "8c7f0bc456a03f89d301f5bac5333fcb",
+  "prefab": null,
+  "cover": 3.65,
+  "soft": 83.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L18_bars_cloud(spine_root_joint)",
+  "particleSystemCount": 11,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 52
+}

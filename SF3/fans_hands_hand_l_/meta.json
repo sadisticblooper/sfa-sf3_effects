@@ -1,0 +1,17 @@
+{
+  "effect": "fans_hands(hand_l)",
+  "game": "sf3",
+  "sourceBundle": "8afcd31f31db159493725270983f4be2",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Fans_Hands(hand_l)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
