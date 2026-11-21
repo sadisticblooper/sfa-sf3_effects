@@ -1,0 +1,17 @@
+{
+  "effect": "boardgame_spring",
+  "game": "sf3",
+  "sourceBundle": "30c9f449d594276998dec6033f4a40d9",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "boardgame_spring",
+  "particleSystemCount": 6,
+  "materialCount": 23,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
