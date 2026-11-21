@@ -1,0 +1,17 @@
+{
+  "effect": "mind_throw_enemyfallfx",
+  "game": "sf3",
+  "sourceBundle": "2d747985b80c4b84f58198d547d73ef4",
+  "prefab": null,
+  "cover": 0.09,
+  "soft": 27.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "mind_throw_enemyFallFX",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 4
+}

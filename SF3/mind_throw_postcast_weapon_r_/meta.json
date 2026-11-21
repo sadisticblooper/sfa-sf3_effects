@@ -1,0 +1,17 @@
+{
+  "effect": "mind_throw_postcast(weapon_r)",
+  "game": "sf3",
+  "sourceBundle": "2d747985b80c4b84f58198d547d73ef4",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "mind_throw_postcast(weapon_r)",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

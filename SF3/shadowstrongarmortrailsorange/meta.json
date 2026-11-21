@@ -1,0 +1,17 @@
+{
+  "effect": "shadowstrongarmortrailsorange",
+  "game": "sf3",
+  "sourceBundle": "22d0d71f93554cc034e68d95b289c2be",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 14.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadowStrongArmorTrailsOrange",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 8
+}

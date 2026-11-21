@@ -1,0 +1,17 @@
+{
+  "effect": "lobby_particlessnow 1",
+  "game": "sf3",
+  "sourceBundle": "276bb5db400a47b826e494cf5787a854",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Lobby_particlesSnow 1",
+  "particleSystemCount": 2,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

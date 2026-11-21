@@ -1,0 +1,17 @@
+{
+  "effect": "mind_throw_blackrings(neck)",
+  "game": "sf3",
+  "sourceBundle": "2d747985b80c4b84f58198d547d73ef4",
+  "prefab": null,
+  "cover": 1.55,
+  "soft": 0.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "mind_throw_BlackRings(neck)",
+  "particleSystemCount": 5,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 50
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "mind_throw_aircaster(weapon_r)",
+  "game": "sf3",
+  "sourceBundle": "2d747985b80c4b84f58198d547d73ef4",
+  "prefab": null,
+  "cover": 9.13,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "mind_throw_aircaster(weapon_r)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 6
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "dojo_dynasty",
+  "game": "sf3",
+  "sourceBundle": "298753e5acffa3fef710900b6f2d5152",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "dojo_dynasty",
+  "particleSystemCount": 19,
+  "materialCount": 13,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

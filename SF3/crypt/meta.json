@@ -1,0 +1,17 @@
+{
+  "effect": "crypt",
+  "game": "sf3",
+  "sourceBundle": "28d31a4afe4a4ecfc0fd0268e48524df",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 100.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "crypt",
+  "particleSystemCount": 4,
+  "materialCount": 17,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "valley_night_tower",
+  "game": "sf3",
+  "sourceBundle": "2b3170b62a4fa9db37c1c350b8aa6a24",
+  "prefab": null,
+  "cover": 20.83,
+  "soft": 81.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "valley_night_tower",
+  "particleSystemCount": 14,
+  "materialCount": 22,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
