@@ -1,0 +1,17 @@
+{
+  "effect": "stranger_meteor_(magic_joint_bottom)",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 87.44,
+  "soft": 68.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "stranger_Meteor_(magic_joint_bottom)",
+  "particleSystemCount": 9,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
