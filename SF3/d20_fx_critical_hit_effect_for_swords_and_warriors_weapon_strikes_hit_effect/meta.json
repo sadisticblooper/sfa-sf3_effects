@@ -1,0 +1,17 @@
+{
+  "effect": "d20_fx_critical_hit_effect_for_swords_and_warriors_weapon_strikes_hit_effect",
+  "game": "sf3",
+  "sourceBundle": "ace92f49fa54ff71753844d6b7aea175",
+  "prefab": null,
+  "cover": 19.32,
+  "soft": 72.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D20_fx_critical_hit_effect_for_swords_and_warriors_weapon_strikes_hit_effect",
+  "particleSystemCount": 9,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}

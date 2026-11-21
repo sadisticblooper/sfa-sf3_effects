@@ -1,0 +1,17 @@
+{
+  "effect": "d20_fx_low_sword_stances_sword_low_slash(ground_locator)",
+  "game": "sf3",
+  "sourceBundle": "ace92f49fa54ff71753844d6b7aea175",
+  "prefab": null,
+  "cover": 6.52,
+  "soft": 55.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D20_fx_low_sword_stances_sword_low_Slash(ground_locator)",
+  "particleSystemCount": 12,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 34
+}

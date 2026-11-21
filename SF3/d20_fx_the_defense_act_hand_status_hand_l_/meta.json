@@ -1,0 +1,17 @@
+{
+  "effect": "d20_fx_the_defense_act_hand_status(hand_l)",
+  "game": "sf3",
+  "sourceBundle": "ace92f49fa54ff71753844d6b7aea175",
+  "prefab": null,
+  "cover": 5.06,
+  "soft": 27.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D20_fx_the_defense_act_hand_status(hand_l)",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 49
+}

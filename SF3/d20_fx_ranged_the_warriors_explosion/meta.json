@@ -1,0 +1,17 @@
+{
+  "effect": "d20_fx_ranged_the_warriors_explosion",
+  "game": "sf3",
+  "sourceBundle": "ace92f49fa54ff71753844d6b7aea175",
+  "prefab": null,
+  "cover": 44.09,
+  "soft": 85.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D20_fx_ranged_the_warriors_explosion",
+  "particleSystemCount": 11,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}

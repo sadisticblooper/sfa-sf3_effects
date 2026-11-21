@@ -1,0 +1,17 @@
+{
+  "effect": "d20_fx_goldenthrone_smoke(ranged_root)",
+  "game": "sf3",
+  "sourceBundle": "ace92f49fa54ff71753844d6b7aea175",
+  "prefab": null,
+  "cover": 4.1,
+  "soft": 95.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D20_fx_GoldenThrone_Smoke(ranged_root)",
+  "particleSystemCount": 20,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
