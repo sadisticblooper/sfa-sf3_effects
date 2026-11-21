@@ -1,0 +1,17 @@
+{
+  "effect": "falcon_shadowappearance(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "450c77887b91b411eb08c839dd941c02",
+  "prefab": null,
+  "cover": 4.07,
+  "soft": 53.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "falcon_shadowAppearance(pelvis)",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 4
+}

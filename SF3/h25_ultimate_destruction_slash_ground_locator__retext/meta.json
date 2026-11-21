@@ -1,0 +1,17 @@
+{
+  "effect": "h25_ultimate_destruction_slash(ground_locator)_retext",
+  "game": "sf3",
+  "sourceBundle": "442156801efa4820b5ce24794e9849a7",
+  "prefab": null,
+  "cover": 1.65,
+  "soft": 68.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H25_ultimate_destruction_slash(ground_locator)_retext",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

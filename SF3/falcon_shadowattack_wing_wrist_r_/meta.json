@@ -1,0 +1,17 @@
+{
+  "effect": "falcon_shadowattack_wing(wrist_r)",
+  "game": "sf3",
+  "sourceBundle": "450c77887b91b411eb08c839dd941c02",
+  "prefab": null,
+  "cover": 5.99,
+  "soft": 79.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "falcon_shadowAttack_wing(wrist_R)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 28
+}

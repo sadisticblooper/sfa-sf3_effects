@@ -1,0 +1,17 @@
+{
+  "effect": "h25_wasp_wings(chest)_end_retext",
+  "game": "sf3",
+  "sourceBundle": "442156801efa4820b5ce24794e9849a7",
+  "prefab": null,
+  "cover": 3.27,
+  "soft": 80.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H25_wasp_wings(chest)_end_retext",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 6
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "falcon_peck_hit(root)",
+  "game": "sf3",
+  "sourceBundle": "450c77887b91b411eb08c839dd941c02",
+  "prefab": null,
+  "cover": 9.01,
+  "soft": 78.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "falcon_peck_hit(root)",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

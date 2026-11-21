@@ -1,0 +1,17 @@
+{
+  "effect": "falcon_shadowappearance_sparks(forearm_r)",
+  "game": "sf3",
+  "sourceBundle": "450c77887b91b411eb08c839dd941c02",
+  "prefab": null,
+  "cover": 1.49,
+  "soft": 59.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "falcon_shadowAppearance_sparks(forearm_R)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}
