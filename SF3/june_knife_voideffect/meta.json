@@ -1,0 +1,17 @@
+{
+  "effect": "june_knife_voideffect",
+  "game": "sf3",
+  "sourceBundle": "c156244421e9fb6b0d839cbcc27ca15d",
+  "prefab": null,
+  "cover": 7.82,
+  "soft": 46.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "June_Knife_VoidEffect",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

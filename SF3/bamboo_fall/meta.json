@@ -1,0 +1,17 @@
+{
+  "effect": "bamboo_fall",
+  "game": "sf3",
+  "sourceBundle": "c37f83e0faf1a16c89143e8a88dec282",
+  "prefab": null,
+  "cover": 3.61,
+  "soft": 38.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "bamboo_fall",
+  "particleSystemCount": 5,
+  "materialCount": 24,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "dojo_halloween_lobby_lowrez",
+  "game": "sf3",
+  "sourceBundle": "bda059871d008efd0af0cb46bf701b9d",
+  "prefab": null,
+  "cover": 38.34,
+  "soft": 4.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "dojo_halloween_lobby_lowrez",
+  "particleSystemCount": 34,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
