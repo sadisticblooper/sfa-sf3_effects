@@ -1,0 +1,17 @@
+{
+  "effect": "h10longclaws_r",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 30.91,
+  "soft": 71.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H10LongClaws_r",
+  "particleSystemCount": 11,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
