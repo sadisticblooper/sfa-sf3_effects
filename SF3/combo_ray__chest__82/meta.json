@@ -1,0 +1,17 @@
+{
+  "effect": "combo_ray_(chest)_82",
+  "game": "sf3",
+  "sourceBundle": "44f4f165af21104f4358a4fd3cac5b3e",
+  "prefab": null,
+  "cover": 11.2,
+  "soft": 51.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Combo_Ray_(chest)_82",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 12
+}

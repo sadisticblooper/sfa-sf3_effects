@@ -1,0 +1,17 @@
+{
+  "effect": "bomb_explosion_explosion_(j_sphere)",
+  "game": "sf3",
+  "sourceBundle": "44f4f165af21104f4358a4fd3cac5b3e",
+  "prefab": null,
+  "cover": 30.06,
+  "soft": 69.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Bomb_Explosion_Explosion_(j_sphere)",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

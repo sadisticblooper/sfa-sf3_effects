@@ -1,0 +1,17 @@
+{
+  "effect": "bomb_explosion_precast_(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "44f4f165af21104f4358a4fd3cac5b3e",
+  "prefab": null,
+  "cover": 52.84,
+  "soft": 82.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Bomb_Explosion_PreCast_(pelvis)",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 58
+}

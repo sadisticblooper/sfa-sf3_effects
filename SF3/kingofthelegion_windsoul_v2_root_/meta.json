@@ -1,0 +1,17 @@
+{
+  "effect": "kingofthelegion_windsoul_v2(root)",
+  "game": "sf3",
+  "sourceBundle": "43ddb64a3bdd2540a9dca5a78a862b94",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "KingOfTheLegion_windSoul_v2(root)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

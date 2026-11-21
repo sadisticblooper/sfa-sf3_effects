@@ -1,0 +1,17 @@
+{
+  "effect": "eruptionprecast_2",
+  "game": "sf3",
+  "sourceBundle": "44f4f165af21104f4358a4fd3cac5b3e",
+  "prefab": null,
+  "cover": 2.15,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EruptionPrecast_2",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
