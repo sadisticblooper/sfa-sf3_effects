@@ -1,0 +1,17 @@
+{
+  "effect": "h23_fx_combo_threads_char(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "1dffdaf1e53091adc98674c3964f4029",
+  "prefab": null,
+  "cover": 0.04,
+  "soft": 5.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H23_fx_combo_threads_char(pelvis)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 33
+}

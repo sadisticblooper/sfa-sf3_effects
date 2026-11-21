@@ -1,0 +1,17 @@
+{
+  "effect": "emperormorf",
+  "game": "sf3",
+  "sourceBundle": "1e43aa2a7686fc6852b401e6f2c41bf9",
+  "prefab": null,
+  "cover": 55.43,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "EmperorMorf",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 32
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "h23_fx_combo_threads_enemy_01(neck)",
+  "game": "sf3",
+  "sourceBundle": "1dffdaf1e53091adc98674c3964f4029",
+  "prefab": null,
+  "cover": 1.26,
+  "soft": 81.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H23_fx_combo_threads_enemy_01(neck)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

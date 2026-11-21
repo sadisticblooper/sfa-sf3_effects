@@ -1,0 +1,17 @@
+{
+  "effect": "dojo_autumn_lobby_lowrez",
+  "game": "sf3",
+  "sourceBundle": "19ac6726ca140cce6edb18d2094cca5e",
+  "prefab": null,
+  "cover": 25.06,
+  "soft": 81.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "dojo_autumn_lobby_lowrez",
+  "particleSystemCount": 11,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

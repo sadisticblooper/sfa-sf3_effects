@@ -1,0 +1,17 @@
+{
+  "effect": "h23_fx_combo_foot_fire(foot_r)",
+  "game": "sf3",
+  "sourceBundle": "1dffdaf1e53091adc98674c3964f4029",
+  "prefab": null,
+  "cover": 1.99,
+  "soft": 27.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H23_fx_combo_foot_fire(foot_r)",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "yukka_cat_02_sitting",
+  "game": "sf3",
+  "sourceBundle": "1cb60fd11bd63ffbf6da7c7a5098b381",
+  "prefab": null,
+  "cover": 89.84,
+  "soft": 56.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "yukka_cat_02_sitting",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
