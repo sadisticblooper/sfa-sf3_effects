@@ -1,0 +1,17 @@
+{
+  "effect": "port",
+  "game": "sf3",
+  "sourceBundle": "bc49ed862a77dc4a245e41205cb224b6",
+  "prefab": null,
+  "cover": 37.05,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "port",
+  "particleSystemCount": 0,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

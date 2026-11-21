@@ -1,0 +1,17 @@
+{
+  "effect": "str_blaster_04_muzzle",
+  "game": "sf3",
+  "sourceBundle": "bc3f8ca29dfc756eab7146ee7496024e",
+  "prefab": null,
+  "cover": 5.68,
+  "soft": 18.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "str_blaster_04_muzzle",
+  "particleSystemCount": 11,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

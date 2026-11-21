@@ -1,0 +1,17 @@
+{
+  "effect": "gizmo_hit4_(head)_76",
+  "game": "sf3",
+  "sourceBundle": "bda9dd24cfe63bab9f11bce7217fc7a5",
+  "prefab": null,
+  "cover": 20.32,
+  "soft": 31.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Gizmo_Hit4_(head)_76",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 7
+}

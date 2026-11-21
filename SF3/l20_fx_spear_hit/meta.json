@@ -1,0 +1,17 @@
+{
+  "effect": "l20_fx_spear_hit",
+  "game": "sf3",
+  "sourceBundle": "be3376763880d9e7d95b984f99401062",
+  "prefab": null,
+  "cover": 0.15,
+  "soft": 23.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L20_fx_spear_hit",
+  "particleSystemCount": 8,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 5
+}

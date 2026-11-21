@@ -1,0 +1,17 @@
+{
+  "effect": "str_blaster_04_hit",
+  "game": "sf3",
+  "sourceBundle": "bc3f8ca29dfc756eab7146ee7496024e",
+  "prefab": null,
+  "cover": 65.4,
+  "soft": 57.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "str_blaster_04_hit",
+  "particleSystemCount": 5,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 9
+}

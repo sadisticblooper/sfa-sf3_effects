@@ -1,0 +1,17 @@
+{
+  "effect": "shadowstrongweapon",
+  "game": "sf3",
+  "sourceBundle": "bd7d655c2fcaafc22c5f9e78f658ad8e",
+  "prefab": null,
+  "cover": 7.15,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "ShadowStrongWeapon",
+  "particleSystemCount": 8,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}

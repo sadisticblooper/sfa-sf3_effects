@@ -1,0 +1,17 @@
+{
+  "effect": "gizmo_superdrain_(hand_l)_glowhand",
+  "game": "sf3",
+  "sourceBundle": "bda9dd24cfe63bab9f11bce7217fc7a5",
+  "prefab": null,
+  "cover": 3.17,
+  "soft": 81.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Gizmo_superDrain_(hand_l)_glowHand",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}
