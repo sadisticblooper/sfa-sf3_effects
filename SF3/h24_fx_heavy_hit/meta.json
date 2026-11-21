@@ -1,0 +1,17 @@
+{
+  "effect": "h24_fx_heavy_hit",
+  "game": "sf3",
+  "sourceBundle": "65b894b124d6d85624bacf77778dee99",
+  "prefab": null,
+  "cover": 35.98,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "H24_fx_heavy_hit",
+  "particleSystemCount": 14,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "palace",
+  "game": "sf3",
+  "sourceBundle": "60488ff59bdb5dbe9ecc51782166edf3",
+  "prefab": null,
+  "cover": 18.97,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Palace",
+  "particleSystemCount": 0,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

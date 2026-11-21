@@ -1,0 +1,17 @@
+{
+  "effect": "d18_fx_ult_dragonslash1_(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "5fd2c229f6e5354a0c9072b7ee07a79d",
+  "prefab": null,
+  "cover": 1.05,
+  "soft": 64.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "d18_fx_Ult_DragonSlash1_(pelvis)",
+  "particleSystemCount": 6,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 17
+}

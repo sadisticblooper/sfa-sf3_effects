@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_tree",
+  "game": "sf3",
+  "sourceBundle": "6150762dabf349fb803b924738ac24bf",
+  "prefab": null,
+  "cover": 31.35,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Shadow_tree",
+  "particleSystemCount": 0,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

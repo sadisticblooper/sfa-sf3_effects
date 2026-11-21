@@ -1,0 +1,17 @@
+{
+  "effect": "d18_fx_storm_backlightnings",
+  "game": "sf3",
+  "sourceBundle": "5fd2c229f6e5354a0c9072b7ee07a79d",
+  "prefab": null,
+  "cover": 0.18,
+  "soft": 37.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "d18_fx_Storm_BackLightnings",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}
