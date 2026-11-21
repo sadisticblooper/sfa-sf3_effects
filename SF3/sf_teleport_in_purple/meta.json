@@ -1,0 +1,17 @@
+{
+  "effect": "sf_teleport_in_purple",
+  "game": "sf3",
+  "sourceBundle": "40c34cf5bc48e6e32e33ef04a647a253",
+  "prefab": null,
+  "cover": 26.47,
+  "soft": 73.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "sf_teleport_in_purple",
+  "particleSystemCount": 9,
+  "materialCount": 9,
+  "unityVersion": "6000.2.14f1",
+  "frames": 19
+}

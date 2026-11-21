@@ -1,0 +1,17 @@
+{
+  "effect": "mind_throw_hit_purple(neck)",
+  "game": "sf3",
+  "sourceBundle": "40c34cf5bc48e6e32e33ef04a647a253",
+  "prefab": null,
+  "cover": 19.14,
+  "soft": 87.1,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "mind_throw_Hit_purple(neck)",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 24
+}

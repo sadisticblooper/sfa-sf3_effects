@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_agl_helmet_caster_hand_purple",
+  "game": "sf3",
+  "sourceBundle": "40c34cf5bc48e6e32e33ef04a647a253",
+  "prefab": null,
+  "cover": 2.22,
+  "soft": 81.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_agl_helmet_caster_hand_purple",
+  "particleSystemCount": 3,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 43
+}
