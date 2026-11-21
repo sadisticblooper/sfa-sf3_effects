@@ -1,0 +1,17 @@
+{
+  "effect": "spear_beamfx",
+  "game": "sf3",
+  "sourceBundle": "db43f5f0dc0e693921c284d953fbe82f",
+  "prefab": null,
+  "cover": 0.35,
+  "soft": 90.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "spear_beamFX",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 25
+}

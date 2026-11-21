@@ -1,0 +1,17 @@
+{
+  "effect": "l20_fx_big_spear_explosion(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "d96fd05c73b6a4b7563dd95e36b0fe70",
+  "prefab": null,
+  "cover": 38.95,
+  "soft": 81.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L20_fx_big_spear_explosion(pelvis)",
+  "particleSystemCount": 13,
+  "materialCount": 12,
+  "unityVersion": "6000.2.14f1",
+  "frames": 44
+}

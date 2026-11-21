@@ -1,0 +1,17 @@
+{
+  "effect": "l19_rose_hit_rose((gun_joint_l))",
+  "game": "sf3",
+  "sourceBundle": "dc54a5dd582cbfc0366546ad6ad3dc0e",
+  "prefab": null,
+  "cover": 75.29,
+  "soft": 88.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L19_rose_hit_rose((gun_joint_l))",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}

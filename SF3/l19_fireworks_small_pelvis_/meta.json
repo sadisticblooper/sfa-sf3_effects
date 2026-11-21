@@ -1,0 +1,17 @@
+{
+  "effect": "l19_fireworks_small(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "dc54a5dd582cbfc0366546ad6ad3dc0e",
+  "prefab": null,
+  "cover": 76.86,
+  "soft": 79.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L19_fireworks_small(pelvis)",
+  "particleSystemCount": 11,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 22
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "greylady_shockwave",
+  "game": "sf3",
+  "sourceBundle": "d96fd05c73b6a4b7563dd95e36b0fe70",
+  "prefab": null,
+  "cover": 44.62,
+  "soft": 59.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "GreyLady_Shockwave",
+  "particleSystemCount": 14,
+  "materialCount": 10,
+  "unityVersion": "6000.2.14f1",
+  "frames": 10
+}

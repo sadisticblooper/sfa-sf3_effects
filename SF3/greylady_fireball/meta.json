@@ -1,0 +1,17 @@
+{
+  "effect": "greylady_fireball",
+  "game": "sf3",
+  "sourceBundle": "d96fd05c73b6a4b7563dd95e36b0fe70",
+  "prefab": null,
+  "cover": 91.63,
+  "soft": 54.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "GreyLady_fireball",
+  "particleSystemCount": 8,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}
