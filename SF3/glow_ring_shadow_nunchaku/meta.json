@@ -1,0 +1,17 @@
+{
+  "effect": "glow_ring_shadow_nunchaku",
+  "game": "sf3",
+  "sourceBundle": "a454481d2deb664275e436eb466ef4be",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Glow_Ring_shadow_nunchaku",
+  "particleSystemCount": 3,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
