@@ -6,6 +6,7 @@ on:
     paths:
       - 'SF3/**'
       - 'SFA/**'
+      - '.github/workflows/effect-map.yml'
   workflow_dispatch:
 
 permissions:
