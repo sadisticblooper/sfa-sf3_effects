@@ -13,5 +13,6 @@
   "particleSystemCount": 13,
   "materialCount": 10,
   "unityVersion": "6000.2.14f1",
-  "frames": 41
+  "frames": 41,
+  "shaderFix": "full Steam bundle dependency set"
 }
