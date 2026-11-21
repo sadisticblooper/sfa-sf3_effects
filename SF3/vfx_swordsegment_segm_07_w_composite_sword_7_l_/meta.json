@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_swordsegment_segm_07(w_composite_sword_7_l)",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 0.47,
+  "soft": 63.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_swordSegment_segm_07(w_composite_sword_7_l)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}
