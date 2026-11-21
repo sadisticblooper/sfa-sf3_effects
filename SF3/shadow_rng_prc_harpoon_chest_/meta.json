@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_rng_prc_harpoon(chest)",
+  "game": "sf3",
+  "sourceBundle": "7bf6cd1618dc5470a5e3129e054ba729",
+  "prefab": null,
+  "cover": 2.56,
+  "soft": 61.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_rng_prc_harpoon(chest)",
+  "particleSystemCount": 4,
+  "materialCount": 3,
+  "unityVersion": "6000.2.14f1",
+  "frames": 30
+}

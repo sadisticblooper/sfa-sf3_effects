@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_rng_prc_kunai(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "7bf6cd1618dc5470a5e3129e054ba729",
+  "prefab": null,
+  "cover": 65.05,
+  "soft": 87.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_rng_prc_kunai(pelvis)",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 18
+}

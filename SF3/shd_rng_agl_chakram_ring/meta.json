@@ -1,0 +1,17 @@
+{
+  "effect": "shd_rng_agl_chakram_ring",
+  "game": "sf3",
+  "sourceBundle": "7bf6cd1618dc5470a5e3129e054ba729",
+  "prefab": null,
+  "cover": 13.45,
+  "soft": 47.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Shd_rng_agl_chakram_ring",
+  "particleSystemCount": 11,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 42
+}

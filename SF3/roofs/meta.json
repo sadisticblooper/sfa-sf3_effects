@@ -1,0 +1,17 @@
+{
+  "effect": "roofs",
+  "game": "sf3",
+  "sourceBundle": "7bf71cc99ef903f86cf043096e6ebdd1",
+  "prefab": null,
+  "cover": 30.26,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Roofs",
+  "particleSystemCount": 0,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

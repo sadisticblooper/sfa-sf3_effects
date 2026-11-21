@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_rng_agl_spike(forearm_l)_handglow",
+  "game": "sf3",
+  "sourceBundle": "7bf6cd1618dc5470a5e3129e054ba729",
+  "prefab": null,
+  "cover": 4.13,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_rng_agl_spike(forearm_l)_HandGlow",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 29
+}

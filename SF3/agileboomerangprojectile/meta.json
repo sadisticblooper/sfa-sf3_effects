@@ -1,0 +1,17 @@
+{
+  "effect": "agileboomerangprojectile",
+  "game": "sf3",
+  "sourceBundle": "7bf6cd1618dc5470a5e3129e054ba729",
+  "prefab": null,
+  "cover": 91.67,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "agileBoomerangProjectile",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_rng_prc_harpoon(pulka)",
+  "game": "sf3",
+  "sourceBundle": "7bf6cd1618dc5470a5e3129e054ba729",
+  "prefab": null,
+  "cover": 1.42,
+  "soft": 87.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_rng_prc_harpoon(pulka)",
+  "particleSystemCount": 1,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 14
+}

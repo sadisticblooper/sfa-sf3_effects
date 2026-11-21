@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_rng_prc_harpoon(precast_joint_wpn__harpoon_01_01)",
+  "game": "sf3",
+  "sourceBundle": "7bf6cd1618dc5470a5e3129e054ba729",
+  "prefab": null,
+  "cover": 6.02,
+  "soft": 53.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_rng_prc_harpoon(precast_joint_wpn__harpoon_01_01)",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 33
+}
