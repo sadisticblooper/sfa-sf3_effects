@@ -1,0 +1,17 @@
+{
+  "effect": "claws_shadow_trail_1",
+  "game": "sf3",
+  "sourceBundle": "3651b661037d978b25e8f5866b9a6e38",
+  "prefab": null,
+  "cover": 21.48,
+  "soft": 58.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Claws_Shadow_Trail_1",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 23
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "dojo_dynasty_korean_ritual",
+  "game": "sf3",
+  "sourceBundle": "35067a9bdfef12861bd979c927aa9f9a",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "dojo_dynasty_korean_ritual",
+  "particleSystemCount": 39,
+  "materialCount": 19,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

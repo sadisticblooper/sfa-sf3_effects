@@ -1,0 +1,17 @@
+{
+  "effect": "eye_k_alltime",
+  "game": "sf3",
+  "sourceBundle": "3504f3d6bfd629c862363fb43bfa2093",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Eye_K_alltime",
+  "particleSystemCount": 1,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

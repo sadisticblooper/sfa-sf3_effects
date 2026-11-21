@@ -1,0 +1,17 @@
+{
+  "effect": "l21_vfx_puddle_start",
+  "game": "sf3",
+  "sourceBundle": "33b58f79fb088a3b6c500a40e954943a",
+  "prefab": null,
+  "cover": 0.07,
+  "soft": 14.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L21_VFX_puddle_start",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 28
+}

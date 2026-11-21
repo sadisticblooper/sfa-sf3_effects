@@ -1,0 +1,17 @@
+{
+  "effect": "kibofx_trail4",
+  "game": "sf3",
+  "sourceBundle": "3504f3d6bfd629c862363fb43bfa2093",
+  "prefab": null,
+  "cover": 0.95,
+  "soft": 88.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "KiboFX_trail4",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 16
+}

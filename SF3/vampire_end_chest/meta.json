@@ -1,0 +1,17 @@
+{
+  "effect": "vampire_end_chest",
+  "game": "sf3",
+  "sourceBundle": "38094b467bf95f504114852e9e3d83ca",
+  "prefab": null,
+  "cover": 27.32,
+  "soft": 8.6,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Vampire_End_chest",
+  "particleSystemCount": 6,
+  "materialCount": 5,
+  "unityVersion": "6000.2.14f1",
+  "frames": 31
+}

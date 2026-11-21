@@ -1,0 +1,17 @@
+{
+  "effect": "kibofx_trail0_add_(w_dual_swords_02_r)",
+  "game": "sf3",
+  "sourceBundle": "3504f3d6bfd629c862363fb43bfa2093",
+  "prefab": null,
+  "cover": 0.0,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "KiboFX_trail0_add_(w_dual_swords_02_r)",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

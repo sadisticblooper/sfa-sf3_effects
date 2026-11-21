@@ -1,0 +1,17 @@
+{
+  "effect": "claws_stenka",
+  "game": "sf3",
+  "sourceBundle": "3651b661037d978b25e8f5866b9a6e38",
+  "prefab": null,
+  "cover": 4.16,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Claws_stenka",
+  "particleSystemCount": 1,
+  "materialCount": 1,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}

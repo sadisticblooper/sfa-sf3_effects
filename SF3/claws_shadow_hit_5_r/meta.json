@@ -1,0 +1,17 @@
+{
+  "effect": "claws_shadow_hit_5_r",
+  "game": "sf3",
+  "sourceBundle": "3651b661037d978b25e8f5866b9a6e38",
+  "prefab": null,
+  "cover": 9.88,
+  "soft": 22.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Claws_Shadow_Hit_5_R",
+  "particleSystemCount": 8,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 3
+}
