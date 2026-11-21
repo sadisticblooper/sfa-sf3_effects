@@ -1,0 +1,17 @@
+{
+  "effect": "l12_blade(weapon_l)",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 0.01,
+  "soft": 65.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L12_blade(weapon_l)",
+  "particleSystemCount": 2,
+  "materialCount": 2,
+  "unityVersion": "6000.2.14f1",
+  "frames": 54
+}

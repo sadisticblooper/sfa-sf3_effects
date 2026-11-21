@@ -1,0 +1,17 @@
+{
+  "effect": "l12_fire_crown(head)",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 4.53,
+  "soft": 72.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L12_fire_crown(head)",
+  "particleSystemCount": 4,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

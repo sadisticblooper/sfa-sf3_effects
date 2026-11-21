@@ -1,0 +1,17 @@
+{
+  "effect": "l12_army_of_gost(pelvis)",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 8.89,
+  "soft": 44.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L12_army_of_gost(pelvis)",
+  "particleSystemCount": 24,
+  "materialCount": 14,
+  "unityVersion": "6000.2.14f1",
+  "frames": 51
+}

@@ -1,0 +1,17 @@
+{
+  "effect": "l12_explossoul(root)",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 20.22,
+  "soft": 85.9,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L12_explosSoul(root)",
+  "particleSystemCount": 11,
+  "materialCount": 8,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

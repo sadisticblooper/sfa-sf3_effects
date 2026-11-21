@@ -1,0 +1,17 @@
+{
+  "effect": "l10_firehand_forearm_l",
+  "game": "sf3",
+  "sourceBundle": "b10c3c479b487980c675a8608ead72f2",
+  "prefab": null,
+  "cover": 33.05,
+  "soft": 5.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "L10_FireHand_forearm_l",
+  "particleSystemCount": 9,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}
