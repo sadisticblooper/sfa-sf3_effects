@@ -1,0 +1,17 @@
+{
+  "effect": "d19_fx_ultimate_hand_groundexplon(ground_locator)",
+  "game": "sf3",
+  "sourceBundle": "39895a63bfcdb180b58a70a942dd9d00",
+  "prefab": null,
+  "cover": 28.76,
+  "soft": 83.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D19_fx_ultimate_hand_groundExplon(ground_locator)",
+  "particleSystemCount": 13,
+  "materialCount": 11,
+  "unityVersion": "6000.2.14f1",
+  "frames": 17
+}

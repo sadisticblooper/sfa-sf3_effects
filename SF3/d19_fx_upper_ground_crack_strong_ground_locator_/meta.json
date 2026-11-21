@@ -1,0 +1,17 @@
+{
+  "effect": "d19_fx_upper_ground_crack_strong(ground_locator)",
+  "game": "sf3",
+  "sourceBundle": "39895a63bfcdb180b58a70a942dd9d00",
+  "prefab": null,
+  "cover": 7.05,
+  "soft": 83.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "D19_fx_upper_ground_crack_strong(ground_locator)",
+  "particleSystemCount": 26,
+  "materialCount": 15,
+  "unityVersion": "6000.2.14f1",
+  "frames": 20
+}
