@@ -1,0 +1,17 @@
+{
+  "effect": "small_crystall_explosion",
+  "game": "sf3",
+  "sourceBundle": "4e18ad49ed4d9fe3cadc75901399c973",
+  "prefab": null,
+  "cover": 30.06,
+  "soft": 69.7,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "Small_Crystall_Explosion",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 11
+}

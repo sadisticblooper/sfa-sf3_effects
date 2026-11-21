@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_getenergyvortex",
+  "game": "sf3",
+  "sourceBundle": "4e18ad49ed4d9fe3cadc75901399c973",
+  "prefab": null,
+  "cover": 1.01,
+  "soft": 75.8,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_getEnergyVortex",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 47
+}

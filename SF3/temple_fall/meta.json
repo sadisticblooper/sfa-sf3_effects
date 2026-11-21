@@ -1,0 +1,17 @@
+{
+  "effect": "temple_fall",
+  "game": "sf3",
+  "sourceBundle": "4e18a0dbf3ea8188c5d4c4c8ae7f5378",
+  "prefab": null,
+  "cover": 0.03,
+  "soft": 72.5,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "temple_fall",
+  "particleSystemCount": 11,
+  "materialCount": 16,
+  "unityVersion": "6000.2.14f1",
+  "frames": 60
+}

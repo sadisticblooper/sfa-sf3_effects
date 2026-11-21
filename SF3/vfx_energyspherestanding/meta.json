@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_energyspherestanding",
+  "game": "sf3",
+  "sourceBundle": "4e18ad49ed4d9fe3cadc75901399c973",
+  "prefab": null,
+  "cover": 0.07,
+  "soft": 10.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_energySphereStanding",
+  "particleSystemCount": 7,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 46
+}

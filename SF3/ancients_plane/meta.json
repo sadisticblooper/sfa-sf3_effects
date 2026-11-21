@@ -1,0 +1,17 @@
+{
+  "effect": "ancients_plane",
+  "game": "sf3",
+  "sourceBundle": "519f33b75de9c5e492fd80fa747e7e9c",
+  "prefab": null,
+  "cover": 33.7,
+  "soft": 0.0,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "ancients_plane",
+  "particleSystemCount": 3,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 59
+}

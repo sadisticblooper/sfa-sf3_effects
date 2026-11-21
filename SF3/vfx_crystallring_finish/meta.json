@@ -1,0 +1,17 @@
+{
+  "effect": "vfx_crystallring_finish",
+  "game": "sf3",
+  "sourceBundle": "4e18ad49ed4d9fe3cadc75901399c973",
+  "prefab": null,
+  "cover": 13.56,
+  "soft": 75.3,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "VFX_CrystallRing_finish",
+  "particleSystemCount": 6,
+  "materialCount": 4,
+  "unityVersion": "6000.2.14f1",
+  "frames": 13
+}

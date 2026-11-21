@@ -1,0 +1,17 @@
+{
+  "effect": "teleportred",
+  "game": "sf3",
+  "sourceBundle": "4e18ad49ed4d9fe3cadc75901399c973",
+  "prefab": null,
+  "cover": 18.39,
+  "soft": 1.2,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "TeleportRed",
+  "particleSystemCount": 8,
+  "materialCount": 6,
+  "unityVersion": "6000.2.14f1",
+  "frames": 57
+}

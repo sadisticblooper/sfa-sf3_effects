@@ -1,0 +1,17 @@
+{
+  "effect": "shadow_agl_armor_in",
+  "game": "sf3",
+  "sourceBundle": "5201f061c3ecbdf506122b64c253572e",
+  "prefab": null,
+  "cover": 21.54,
+  "soft": 87.4,
+  "success": true,
+  "frameCount": 60,
+  "width": 512,
+  "height": 512,
+  "objectName": "shadow_agl_armor_in",
+  "particleSystemCount": 7,
+  "materialCount": 7,
+  "unityVersion": "6000.2.14f1",
+  "frames": 21
+}
