@@ -1,15 +1,13 @@
-name: Zip effect frames
+name: Zip SFA frame archives
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: zip-frames
+  group: zip-sfa
   cancel-in-progress: false
 
 jobs:
@@ -25,56 +23,44 @@ jobs:
           sparse-checkout-cone-mode: false
           fetch-depth: 0
 
-      - name: Pick effect dirs that need a zip
-        run: |
-          set -euo pipefail
-
-          git ls-tree -d --name-only HEAD SF3/ SFA/ \
-            | sed 's#/$##' | sort > all_dirs.txt
-
-          git ls-tree -r --name-only HEAD -- SF3/ SFA/ \
-            | grep '/frames.zip$' \
-            | cut -d/ -f1,2 | sort -u > zipped_dirs.txt
-
-         
-          comm -23 all_dirs.txt zipped_dirs.txt > needs_zip.txt
-
-          echo "SF3 dirs:  $(grep -c '^SF3/' all_dirs.txt || true)"
-          echo "SFA dirs:  $(grep -c '^SFA/' all_dirs.txt || true)"
-          echo "zipped:    $(wc -l < zipped_dirs.txt)"
-          echo "need zip:  $(wc -l < needs_zip.txt)"
-
-          # Backfill up to 100 per run, mixing both games from the top.
-          head -100 needs_zip.txt > changed_dirs.txt
-          echo "this run:  $(wc -l < changed_dirs.txt)"
-          cat changed_dirs.txt
-
-          {
-            awk '{print "/" $0 "/"}' changed_dirs.txt
-            echo "/.github/workflows/zip-frames.yml"
-            echo "/zip_frames.py"
-          } > patterns.txt
-          git sparse-checkout set --no-cone $(cat patterns.txt)
-
-      - name: Build frame archives
-        run: |
-          python zip_frames.py --repo . --dirs changed_dirs.txt --no-commit
-          echo "--- zip paths ---"
-          cat zip_paths.txt
-
-      - name: Commit and push
+      - name: Rezip every SFA effect and commit over existing
         run: |
           set -euo pipefail
           git config user.name "VFX Pipeline"
           git config user.email "vfx-pipeline@local"
-          if [ -s zip_paths.txt ]; then
-            git add -f -- $(cat zip_paths.txt)
-          fi
-          echo "--- staged ---"
-          git diff --cached --name-only
-          if git diff --cached --quiet; then
-            echo "Nothing staged"
-          else
-            git commit -m "chore: add frame archives"
-            git push origin HEAD:refs/heads/main
-          fi
+
+          git ls-tree -d --name-only HEAD SFA/ \
+            | sed 's#/$##' | sort > all_dirs.txt
+          TOTAL=$(wc -l < all_dirs.txt)
+          echo "SFA effect dirs: $TOTAL"
+
+          split -l 100 all_dirs.txt chunk_
+          DONE=0
+          for f in chunk_*; do
+            {
+              awk '{print "/" $0 "/"}' "$f"
+              echo "/.github/workflows/zip-frames.yml"
+              echo "/zip_frames.py"
+            } > patterns.txt
+            git sparse-checkout set --no-cone $(cat patterns.txt)
+
+            cp "$f" changed_dirs.txt
+
+            while read -r d; do
+              rm -f "$d/frames.zip"
+            done < changed_dirs.txt
+
+            python zip_frames.py --repo . --dirs changed_dirs.txt --no-commit
+
+            if [ -s zip_paths.txt ]; then
+              git add -f -- $(cat zip_paths.txt)
+              if ! git diff --cached --quiet; then
+                git commit -m "chore: rezip SFA frame archives"
+                git push origin HEAD:refs/heads/main
+              fi
+            fi
+
+            DONE=$((DONE + 100))
+            echo "done: $DONE / $TOTAL"
+            rm -f "$f"
+          done
