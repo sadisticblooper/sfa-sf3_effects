@@ -1,4 +1,4 @@
-name: Zip SFA frame archives
+name: Zip all frame archives
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: zip-sfa
+  group: zip-frames
   cancel-in-progress: false
 
 jobs:
@@ -23,16 +23,18 @@ jobs:
           sparse-checkout-cone-mode: false
           fetch-depth: 0
 
-      - name: Rezip every SFA effect and commit over existing
+      - name: Rezip every effect (SF3 + SFA) and commit over existing
         run: |
           set -euo pipefail
           git config user.name "VFX Pipeline"
           git config user.email "vfx-pipeline@local"
 
-          git ls-tree -d --name-only HEAD SFA/ \
+          git ls-tree -d --name-only HEAD SF3/ SFA/ \
             | sed 's#/$##' | sort > all_dirs.txt
           TOTAL=$(wc -l < all_dirs.txt)
-          echo "SFA effect dirs: $TOTAL"
+          echo "effect dirs: $TOTAL"
+          echo "  SF3: $(grep -c '^SF3/' all_dirs.txt || true)"
+          echo "  SFA: $(grep -c '^SFA/' all_dirs.txt || true)"
 
           split -l 100 all_dirs.txt chunk_
           DONE=0
@@ -55,7 +57,7 @@ jobs:
             if [ -s zip_paths.txt ]; then
               git add -f -- $(cat zip_paths.txt)
               if ! git diff --cached --quiet; then
-                git commit -m "chore: rezip SFA frame archives"
+                git commit -m "chore: rezip frame archives (SF3 + SFA)"
                 git push origin HEAD:refs/heads/main
               fi
             fi
