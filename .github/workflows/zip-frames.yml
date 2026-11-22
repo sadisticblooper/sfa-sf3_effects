@@ -3,11 +3,6 @@ name: Zip effect frames
 on:
   push:
     branches: [main]
-    paths:
-      - 'SF3/**'
-      - 'SFA/**'
-      - '.github/workflows/zip-frames.yml'
-      - 'zip_frames.py'
   workflow_dispatch:
 
 permissions:
@@ -30,18 +25,39 @@ jobs:
           sparse-checkout-cone-mode: false
           fetch-depth: 0
 
-      - name: Find changed effect dirs
+      - name: Pick effect dirs needing a zip
         run: |
           set -euo pipefail
+         
+          git ls-tree -d --name-only HEAD SF3/ SFA/ | sed 's#/$##' > all_dirs.txt
+          git ls-tree -r --name-only HEAD -- SF3/ SFA/ \
+            | grep '/frames.zip$' \
+            | cut -d/ -f1,2 | sort -u > zipped_dirs.txt
+
+          comm -23 <(sort all_dirs.txt) zipped_dirs.txt > needs_zip.txt
+          echo "total effect dirs: $(wc -l < all_dirs.txt)"
+          echo "already zipped:    $(wc -l < zipped_dirs.txt)"
+          echo "still need zip:    $(wc -l < needs_zip.txt)"
+
+          # On a real push, prioritize dirs changed by that push; otherwise backfill.
           BEFORE="${{ github.event.before }}"
           SHA="${{ github.sha }}"
-          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
-            BEFORE=$(git rev-parse "$SHA^")
+          if [ -n "$BEFORE" ] && [ "$BEFORE" != "0000000000000000000000000000000000000000" ]; then
+            git diff --name-only "$BEFORE" "$SHA" -- 'SF3/**' 'SFA/**' \
+              | cut -d/ -f1,2 | sort -u > changed_dirs.txt
+          else
+            : > changed_dirs.txt
           fi
 
-          git diff --name-only "$BEFORE" "$SHA" -- 'SF3/**' 'SFA/**' \
-            | cut -d/ -f1,2 | sort -u > changed_dirs.txt
-          echo "effect dirs: $(wc -l < changed_dirs.txt)"
+          # Changed dirs that still need a zip, capped at 100 per run.
+          comm -12 changed_dirs.txt needs_zip.txt > target_dirs.txt || true
+          if [ ! -s target_dirs.txt ]; then
+            head -100 needs_zip.txt > target_dirs.txt
+          fi
+          head -100 target_dirs.txt > final_dirs.txt
+          mv final_dirs.txt changed_dirs.txt
+
+          echo "effect dirs this run: $(wc -l < changed_dirs.txt)"
           cat changed_dirs.txt
 
           {
@@ -62,16 +78,13 @@ jobs:
           set -euo pipefail
           git config user.name "VFX Pipeline"
           git config user.email "vfx-pipeline@local"
-
           if [ -s zip_paths.txt ]; then
             git add -f -- $(cat zip_paths.txt)
           fi
-
-          echo "--- staged files ---"
+          echo "--- staged ---"
           git diff --cached --name-only
-
           if git diff --cached --quiet; then
-            echo "Nothing staged - no commit"
+            echo "Nothing staged"
           else
             git commit -m "chore: add frame archives"
             git push origin HEAD:refs/heads/main
