@@ -1,0 +1,8 @@
+{
+  "effect": "h19_shadow_scratch_l",
+  "game": "sf3",
+  "sourceBundle": "0b75011c3b9c23b6926297a417e24974",
+  "frames": 34,
+  "success": true,
+  "shaderFix": "rebaked after empty-bin bug"
+}

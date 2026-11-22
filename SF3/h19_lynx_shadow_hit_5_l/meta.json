@@ -1,0 +1,8 @@
+{
+  "effect": "h19_lynx_shadow_hit_5_l",
+  "game": "sf3",
+  "sourceBundle": "0b75011c3b9c23b6926297a417e24974",
+  "frames": 9,
+  "success": true,
+  "shaderFix": "rebaked after empty-bin bug"
+}

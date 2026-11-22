@@ -1,0 +1,8 @@
+{
+  "effect": "camp",
+  "game": "sf3",
+  "sourceBundle": "0435948da1bfc0b966e575b08edca274",
+  "frames": 60,
+  "success": true,
+  "shaderFix": "rebaked after empty-bin bug"
+}
