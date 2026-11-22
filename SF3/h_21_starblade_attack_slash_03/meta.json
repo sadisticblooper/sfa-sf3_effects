@@ -1,0 +1,8 @@
+{
+  "effect": "h_21_starblade_attack_slash_03",
+  "game": "sf3",
+  "sourceBundle": "076421321c7bdf2a1d9dd255c8bc5d0f",
+  "frames": 17,
+  "success": true,
+  "shaderFix": "rebaked after empty-bin bug"
+}
