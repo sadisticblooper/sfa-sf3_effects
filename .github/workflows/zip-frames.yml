@@ -21,7 +21,6 @@ jobs:
   zip:
     runs-on: ubuntu-latest
     steps:
-      # Partial clone: tree objects only, no 2.5M-file blob download.
       - uses: actions/checkout@v4
         with:
           filter: blob:none
@@ -43,9 +42,8 @@ jobs:
           git diff --name-only "$BEFORE" "$SHA" -- 'SF3/**' 'SFA/**' \
             | cut -d/ -f1,2 | sort -u > changed_dirs.txt
           echo "effect dirs: $(wc -l < changed_dirs.txt)"
+          cat changed_dirs.txt
 
-          # Expand sparse checkout to only the changed effect folders.
-          # Leading slash on every pattern fixes the git warnings.
           {
             awk '{print "/" $0 "/"}' changed_dirs.txt
             echo "/.github/workflows/zip-frames.yml"
@@ -54,19 +52,27 @@ jobs:
           git sparse-checkout set --no-cone $(cat patterns.txt)
 
       - name: Build frame archives
-        run: python zip_frames.py --repo . --dirs changed_dirs.txt --no-commit
+        run: |
+          python zip_frames.py --repo . --dirs changed_dirs.txt --no-commit
+          echo "--- zip paths ---"
+          cat zip_paths.txt
 
       - name: Commit and push
         run: |
           set -euo pipefail
           git config user.name "VFX Pipeline"
           git config user.email "vfx-pipeline@local"
+
           if [ -s zip_paths.txt ]; then
             git add -f -- $(cat zip_paths.txt)
           fi
+
+          echo "--- staged files ---"
+          git diff --cached --name-only
+
           if git diff --cached --quiet; then
-            echo "No archive changes"
+            echo "Nothing staged - no commit"
           else
-            git commit -m "chore: update frame archives"
+            git commit -m "chore: add frame archives"
             git push origin HEAD:refs/heads/main
           fi
