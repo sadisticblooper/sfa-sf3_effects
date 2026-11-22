@@ -21,41 +21,37 @@ jobs:
   zip:
     runs-on: ubuntu-latest
     steps:
-      # Partial clone: tree objects only, zero file blobs fetched upfront.
+      # Partial clone: tree objects only, no 2.5M-file blob download.
       - uses: actions/checkout@v4
         with:
           filter: blob:none
           sparse-checkout: |
-            .github/workflows/zip-frames.yml
-            zip_frames.py
+            /.github/workflows/zip-frames.yml
+            /zip_frames.py
           sparse-checkout-cone-mode: false
           fetch-depth: 0
 
       - name: Find changed effect dirs
-        id: dirs
         run: |
           set -euo pipefail
           BEFORE="${{ github.event.before }}"
           SHA="${{ github.sha }}"
           if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
-            BEFORE=$(git rev-parse "$SHA^" 2>/dev/null || echo "")
+            BEFORE=$(git rev-parse "$SHA^")
           fi
-          if [ -n "$BEFORE" ]; then
-            git diff --name-only "$BEFORE" "$SHA" -- 'SF3/**' 'SFA/**' \
-              | cut -d/ -f1,2 | sort -u > changed_dirs.txt
-          fi
-          if [ ! -s changed_dirs.txt ]; then
-            git ls-tree -d --name-only HEAD SF3/ SFA/ \
-              | sed 's#/$##' > changed_dirs.txt
-          fi
+
+          git diff --name-only "$BEFORE" "$SHA" -- 'SF3/**' 'SFA/**' \
+            | cut -d/ -f1,2 | sort -u > changed_dirs.txt
           echo "effect dirs: $(wc -l < changed_dirs.txt)"
 
           # Expand sparse checkout to only the changed effect folders.
-          awk '{print $0 "/"}' changed_dirs.txt > patterns.txt
-          git sparse-checkout set --no-cone \
-            $(cat patterns.txt) \
-            .github/workflows/zip-frames.yml \
-            zip_frames.py
+          # Leading slash on every pattern fixes the git warnings.
+          {
+            awk '{print "/" $0 "/"}' changed_dirs.txt
+            echo "/.github/workflows/zip-frames.yml"
+            echo "/zip_frames.py"
+          } > patterns.txt
+          git sparse-checkout set --no-cone $(cat patterns.txt)
 
       - name: Build frame archives
         run: python zip_frames.py --repo . --dirs changed_dirs.txt --no-commit
